@@ -13,7 +13,7 @@ for item in chunks:
 print("Done")
 
 with engine.connect() as con:
-    rs = con.execute('SELECT * FROM cand WHERE FEC_ID = " H6FL08221 "')
+    rs = con.execute('SELECT * FROM cand WHERE FEC_ID = "H6FL08221"')
 
 for row in rs:
     print(row)
