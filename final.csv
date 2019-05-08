@@ -34,8 +34,8 @@ N00000270,Unions,3500, Ed Markey (D) , D
 N00000270,Unions,14500, Ed Markey (D) , D 
 N00000270,Unions,2000, Ed Markey (D) , D 
 N00000270,Unions,2500, Ed Markey (D) , D 
-N00000270,Manufacturing,1000, Ed Markey (D) , D 
-N00000270,Manufacturing,6000, Ed Markey (D) , D 
+N00000270,MFG,1000, Ed Markey (D) , D 
+N00000270,MFG,6000, Ed Markey (D) , D 
 N00000270,Transport,2500, Ed Markey (D) , D 
 N00000270,Transport,9500, Ed Markey (D) , D 
 N00000270,Transport,2000, Ed Markey (D) , D 
@@ -76,8 +76,8 @@ N00000362,Transport,2000, Jack Reed (D) , D
 N00000362,Transport,1000, Jack Reed (D) , D 
 N00000362,committees,1000, Jack Reed (D) , D 
 N00000362,committees,6000, Jack Reed (D) , D 
-N00000699,Agriculture,2000, Robert Menendez (D) , D 
-N00000699,Agriculture,5000, Robert Menendez (D) , D 
+N00000699,Agri,2000, Robert Menendez (D) , D 
+N00000699,Agri,5000, Robert Menendez (D) , D 
 N00000699,Builders,4000, Robert Menendez (D) , D 
 N00000699,Builders,1000, Robert Menendez (D) , D 
 N00000699,Builders,9900, Robert Menendez (D) , D 
@@ -179,15 +179,15 @@ N00000699,Unions,5000, Robert Menendez (D) , D
 N00000699,Unions,2500, Robert Menendez (D) , D 
 N00000699,Unions,5000, Robert Menendez (D) , D 
 N00000699,Unions,2500, Robert Menendez (D) , D 
-N00000699,Manufacturing,8500, Robert Menendez (D) , D 
-N00000699,Manufacturing,1000, Robert Menendez (D) , D 
-N00000699,Manufacturing,7500, Robert Menendez (D) , D 
+N00000699,MFG,8500, Robert Menendez (D) , D 
+N00000699,MFG,1000, Robert Menendez (D) , D 
+N00000699,MFG,7500, Robert Menendez (D) , D 
 N00000699,Transport,3000, Robert Menendez (D) , D 
 N00000699,Transport,10000, Robert Menendez (D) , D 
 N00000699,Transport,3500, Robert Menendez (D) , D 
 N00000699,Transport,4000, Robert Menendez (D) , D 
 N00000699,committees,24250, Robert Menendez (D) , D 
-N00001093,Agriculture,8000, Charles E Schumer (D) , D 
+N00001093,Agri,8000, Charles E Schumer (D) , D 
 N00001093,Builders,-5000, Charles E Schumer (D) , D 
 N00001093,Comms,1000, Charles E Schumer (D) , D 
 N00001093,Comms,-5000, Charles E Schumer (D) , D 
@@ -214,13 +214,13 @@ N00001093,Policy,3000, Charles E Schumer (D) , D
 N00001093,Legal,0, Charles E Schumer (D) , D 
 N00001093,Builders,10000, Charles E Schumer (D) , D 
 N00001093,Unions,1000, Charles E Schumer (D) , D 
-N00001093,Manufacturing,2000, Charles E Schumer (D) , D 
+N00001093,MFG,2000, Charles E Schumer (D) , D 
 N00001093,Transport,1000, Charles E Schumer (D) , D 
 N00001093,Transport,-500, Charles E Schumer (D) , D 
 N00001093,Govt/NGO,1000, Charles E Schumer (D) , D 
-N00001955,Agriculture,19000, Ben Cardin (D) , D 
-N00001955,Agriculture,2500, Ben Cardin (D) , D 
-N00001955,Agriculture,1000, Ben Cardin (D) , D 
+N00001955,Agri,19000, Ben Cardin (D) , D 
+N00001955,Agri,2500, Ben Cardin (D) , D 
+N00001955,Agri,1000, Ben Cardin (D) , D 
 N00001955,Builders,7500, Ben Cardin (D) , D 
 N00001955,Builders,1000, Ben Cardin (D) , D 
 N00001955,Builders,1000, Ben Cardin (D) , D 
@@ -344,14 +344,14 @@ N00001955,Unions,3500, Ben Cardin (D) , D
 N00001955,Unions,10500, Ben Cardin (D) , D 
 N00001955,Unions,2500, Ben Cardin (D) , D 
 N00001955,Unions,20000, Ben Cardin (D) , D 
-N00001955,Manufacturing,1000, Ben Cardin (D) , D 
-N00001955,Manufacturing,9500, Ben Cardin (D) , D 
-N00001955,Manufacturing,2000, Ben Cardin (D) , D 
-N00001955,Manufacturing,1000, Ben Cardin (D) , D 
-N00001955,Manufacturing,1000, Ben Cardin (D) , D 
-N00001955,Manufacturing,1000, Ben Cardin (D) , D 
-N00001955,Manufacturing,5000, Ben Cardin (D) , D 
-N00001955,Manufacturing,1000, Ben Cardin (D) , D 
+N00001955,MFG,1000, Ben Cardin (D) , D 
+N00001955,MFG,9500, Ben Cardin (D) , D 
+N00001955,MFG,2000, Ben Cardin (D) , D 
+N00001955,MFG,1000, Ben Cardin (D) , D 
+N00001955,MFG,1000, Ben Cardin (D) , D 
+N00001955,MFG,1000, Ben Cardin (D) , D 
+N00001955,MFG,5000, Ben Cardin (D) , D 
+N00001955,MFG,1000, Ben Cardin (D) , D 
 N00001955,Transport,5000, Ben Cardin (D) , D 
 N00001955,Transport,3000, Ben Cardin (D) , D 
 N00001955,Transport,2000, Ben Cardin (D) , D 
@@ -369,12 +369,12 @@ N00001955,Transport,10000, Ben Cardin (D) , D
 N00001955,Govt/NGO,8000, Ben Cardin (D) , D 
 N00001955,committees,5500, Ben Cardin (D) , D 
 N00001955,committees,2500, Ben Cardin (D) , D 
-N00002097,Agriculture,1000, Mark Warner (D) , D 
-N00002097,Agriculture,20500, Mark Warner (D) , D 
-N00002097,Agriculture,2000, Mark Warner (D) , D 
-N00002097,Agriculture,2000, Mark Warner (D) , D 
-N00002097,Agriculture,2500, Mark Warner (D) , D 
-N00002097,Agriculture,2500, Mark Warner (D) , D 
+N00002097,Agri,1000, Mark Warner (D) , D 
+N00002097,Agri,20500, Mark Warner (D) , D 
+N00002097,Agri,2000, Mark Warner (D) , D 
+N00002097,Agri,2000, Mark Warner (D) , D 
+N00002097,Agri,2500, Mark Warner (D) , D 
+N00002097,Agri,2500, Mark Warner (D) , D 
 N00002097,Builders,2000, Mark Warner (D) , D 
 N00002097,Builders,1000, Mark Warner (D) , D 
 N00002097,Comms,6000, Mark Warner (D) , D 
@@ -460,11 +460,11 @@ N00002097,Builders,7000, Mark Warner (D) , D
 N00002097,Energy,3500, Mark Warner (D) , D 
 N00002097,Unions,2500, Mark Warner (D) , D 
 N00002097,Unions,1500, Mark Warner (D) , D 
-N00002097,Manufacturing,4500, Mark Warner (D) , D 
-N00002097,Manufacturing,2000, Mark Warner (D) , D 
-N00002097,Manufacturing,3000, Mark Warner (D) , D 
-N00002097,Manufacturing,1000, Mark Warner (D) , D 
-N00002097,Manufacturing,2000, Mark Warner (D) , D 
+N00002097,MFG,4500, Mark Warner (D) , D 
+N00002097,MFG,2000, Mark Warner (D) , D 
+N00002097,MFG,3000, Mark Warner (D) , D 
+N00002097,MFG,1000, Mark Warner (D) , D 
+N00002097,MFG,2000, Mark Warner (D) , D 
 N00002097,Transport,2000, Mark Warner (D) , D 
 N00002097,Transport,4500, Mark Warner (D) , D 
 N00002097,Transport,2000, Mark Warner (D) , D 
@@ -476,18 +476,18 @@ N00002097,Transport,7500, Mark Warner (D) , D
 N00002097,Govt/NGO,1000, Mark Warner (D) , D 
 N00002097,committees,2000, Mark Warner (D) , D 
 N00002097,committees,4000, Mark Warner (D) , D 
-N00003535,Agriculture,2500, Sherrod Brown (D) , D 
-N00003535,Agriculture,9000, Sherrod Brown (D) , D 
-N00003535,Agriculture,1000, Sherrod Brown (D) , D 
-N00003535,Agriculture,500, Sherrod Brown (D) , D 
-N00003535,Agriculture,1000, Sherrod Brown (D) , D 
-N00003535,Agriculture,2000, Sherrod Brown (D) , D 
-N00003535,Agriculture,5500, Sherrod Brown (D) , D 
-N00003535,Agriculture,9500, Sherrod Brown (D) , D 
-N00003535,Agriculture,2000, Sherrod Brown (D) , D 
-N00003535,Agriculture,1000, Sherrod Brown (D) , D 
-N00003535,Agriculture,4500, Sherrod Brown (D) , D 
-N00003535,Agriculture,2000, Sherrod Brown (D) , D 
+N00003535,Agri,2500, Sherrod Brown (D) , D 
+N00003535,Agri,9000, Sherrod Brown (D) , D 
+N00003535,Agri,1000, Sherrod Brown (D) , D 
+N00003535,Agri,500, Sherrod Brown (D) , D 
+N00003535,Agri,1000, Sherrod Brown (D) , D 
+N00003535,Agri,2000, Sherrod Brown (D) , D 
+N00003535,Agri,5500, Sherrod Brown (D) , D 
+N00003535,Agri,9500, Sherrod Brown (D) , D 
+N00003535,Agri,2000, Sherrod Brown (D) , D 
+N00003535,Agri,1000, Sherrod Brown (D) , D 
+N00003535,Agri,4500, Sherrod Brown (D) , D 
+N00003535,Agri,2000, Sherrod Brown (D) , D 
 N00003535,Builders,9500, Sherrod Brown (D) , D 
 N00003535,Builders,5500, Sherrod Brown (D) , D 
 N00003535,Builders,7000, Sherrod Brown (D) , D 
@@ -632,19 +632,19 @@ N00003535,Unions,34000, Sherrod Brown (D) , D
 N00003535,Unions,8000, Sherrod Brown (D) , D 
 N00003535,Unions,7500, Sherrod Brown (D) , D 
 N00003535,Unions,10000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,2500, Sherrod Brown (D) , D 
-N00003535,Manufacturing,4000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,1000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,2000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,15500, Sherrod Brown (D) , D 
-N00003535,Manufacturing,3500, Sherrod Brown (D) , D 
-N00003535,Manufacturing,10000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,500, Sherrod Brown (D) , D 
-N00003535,Manufacturing,2000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,3000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,2500, Sherrod Brown (D) , D 
-N00003535,Manufacturing,5000, Sherrod Brown (D) , D 
-N00003535,Manufacturing,2000, Sherrod Brown (D) , D 
+N00003535,MFG,2500, Sherrod Brown (D) , D 
+N00003535,MFG,4000, Sherrod Brown (D) , D 
+N00003535,MFG,1000, Sherrod Brown (D) , D 
+N00003535,MFG,2000, Sherrod Brown (D) , D 
+N00003535,MFG,15500, Sherrod Brown (D) , D 
+N00003535,MFG,3500, Sherrod Brown (D) , D 
+N00003535,MFG,10000, Sherrod Brown (D) , D 
+N00003535,MFG,500, Sherrod Brown (D) , D 
+N00003535,MFG,2000, Sherrod Brown (D) , D 
+N00003535,MFG,3000, Sherrod Brown (D) , D 
+N00003535,MFG,2500, Sherrod Brown (D) , D 
+N00003535,MFG,5000, Sherrod Brown (D) , D 
+N00003535,MFG,2000, Sherrod Brown (D) , D 
 N00003535,Transport,5000, Sherrod Brown (D) , D 
 N00003535,Transport,1000, Sherrod Brown (D) , D 
 N00003535,Transport,5750, Sherrod Brown (D) , D 
@@ -658,26 +658,26 @@ N00003535,Govt/NGO,1000, Sherrod Brown (D) , D
 N00003535,committees,18150, Sherrod Brown (D) , D 
 N00003535,committees,6750, Sherrod Brown (D) , D 
 N00003535,committees,10170, Sherrod Brown (D) , D 
-N00004118,Agriculture,4000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,7000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,39000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,0, Debbie Stabenow (D) , D 
-N00004118,Agriculture,20319, Debbie Stabenow (D) , D 
-N00004118,Agriculture,22000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,16500, Debbie Stabenow (D) , D 
-N00004118,Agriculture,41700, Debbie Stabenow (D) , D 
-N00004118,Agriculture,15000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,2000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,3500, Debbie Stabenow (D) , D 
-N00004118,Agriculture,11000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,32000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,5000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,8000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,6000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,28200, Debbie Stabenow (D) , D 
-N00004118,Agriculture,12000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,26000, Debbie Stabenow (D) , D 
-N00004118,Agriculture,18884, Debbie Stabenow (D) , D 
+N00004118,Agri,4000, Debbie Stabenow (D) , D 
+N00004118,Agri,7000, Debbie Stabenow (D) , D 
+N00004118,Agri,39000, Debbie Stabenow (D) , D 
+N00004118,Agri,0, Debbie Stabenow (D) , D 
+N00004118,Agri,20319, Debbie Stabenow (D) , D 
+N00004118,Agri,22000, Debbie Stabenow (D) , D 
+N00004118,Agri,16500, Debbie Stabenow (D) , D 
+N00004118,Agri,41700, Debbie Stabenow (D) , D 
+N00004118,Agri,15000, Debbie Stabenow (D) , D 
+N00004118,Agri,2000, Debbie Stabenow (D) , D 
+N00004118,Agri,3500, Debbie Stabenow (D) , D 
+N00004118,Agri,11000, Debbie Stabenow (D) , D 
+N00004118,Agri,32000, Debbie Stabenow (D) , D 
+N00004118,Agri,5000, Debbie Stabenow (D) , D 
+N00004118,Agri,8000, Debbie Stabenow (D) , D 
+N00004118,Agri,6000, Debbie Stabenow (D) , D 
+N00004118,Agri,28200, Debbie Stabenow (D) , D 
+N00004118,Agri,12000, Debbie Stabenow (D) , D 
+N00004118,Agri,26000, Debbie Stabenow (D) , D 
+N00004118,Agri,18884, Debbie Stabenow (D) , D 
 N00004118,Builders,3500, Debbie Stabenow (D) , D 
 N00004118,Builders,6000, Debbie Stabenow (D) , D 
 N00004118,Builders,5500, Debbie Stabenow (D) , D 
@@ -832,16 +832,16 @@ N00004118,Unions,16000, Debbie Stabenow (D) , D
 N00004118,Unions,4500, Debbie Stabenow (D) , D 
 N00004118,Unions,20000, Debbie Stabenow (D) , D 
 N00004118,Unions,10000, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,1500, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,575200, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,1700, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,0, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,7000, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,15500, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,1000, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,7500, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,2000, Debbie Stabenow (D) , D 
-N00004118,Manufacturing,2500, Debbie Stabenow (D) , D 
+N00004118,MFG,1500, Debbie Stabenow (D) , D 
+N00004118,MFG,575200, Debbie Stabenow (D) , D 
+N00004118,MFG,1700, Debbie Stabenow (D) , D 
+N00004118,MFG,0, Debbie Stabenow (D) , D 
+N00004118,MFG,7000, Debbie Stabenow (D) , D 
+N00004118,MFG,15500, Debbie Stabenow (D) , D 
+N00004118,MFG,1000, Debbie Stabenow (D) , D 
+N00004118,MFG,7500, Debbie Stabenow (D) , D 
+N00004118,MFG,2000, Debbie Stabenow (D) , D 
+N00004118,MFG,2500, Debbie Stabenow (D) , D 
 N00004118,Transport,5000, Debbie Stabenow (D) , D 
 N00004118,Transport,1000, Debbie Stabenow (D) , D 
 N00004118,Transport,8500, Debbie Stabenow (D) , D 
@@ -861,16 +861,16 @@ N00004118,committees,8589, Debbie Stabenow (D) , D
 N00004118,committees,1787, Debbie Stabenow (D) , D 
 N00004118,committees,70763, Debbie Stabenow (D) , D 
 N00004118,committees,2020, Debbie Stabenow (D) , D 
-N00004367,Agriculture,10000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,6000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,12500, Tammy Baldwin (D) , D 
-N00004367,Agriculture,1000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,5000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,1000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,2000, Tammy Baldwin (D) , D 
-N00004367,Agriculture,7500, Tammy Baldwin (D) , D 
-N00004367,Agriculture,8500, Tammy Baldwin (D) , D 
-N00004367,Agriculture,6500, Tammy Baldwin (D) , D 
+N00004367,Agri,10000, Tammy Baldwin (D) , D 
+N00004367,Agri,6000, Tammy Baldwin (D) , D 
+N00004367,Agri,12500, Tammy Baldwin (D) , D 
+N00004367,Agri,1000, Tammy Baldwin (D) , D 
+N00004367,Agri,5000, Tammy Baldwin (D) , D 
+N00004367,Agri,1000, Tammy Baldwin (D) , D 
+N00004367,Agri,2000, Tammy Baldwin (D) , D 
+N00004367,Agri,7500, Tammy Baldwin (D) , D 
+N00004367,Agri,8500, Tammy Baldwin (D) , D 
+N00004367,Agri,6500, Tammy Baldwin (D) , D 
 N00004367,Builders,9000, Tammy Baldwin (D) , D 
 N00004367,Builders,9000, Tammy Baldwin (D) , D 
 N00004367,Builders,2500, Tammy Baldwin (D) , D 
@@ -978,17 +978,17 @@ N00004367,Unions,10000, Tammy Baldwin (D) , D
 N00004367,Unions,20500, Tammy Baldwin (D) , D 
 N00004367,Unions,5000, Tammy Baldwin (D) , D 
 N00004367,Unions,5005, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,1000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,6000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,1700, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,1000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,2000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,3000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,16200, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,2000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,5000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,1000, Tammy Baldwin (D) , D 
-N00004367,Manufacturing,3000, Tammy Baldwin (D) , D 
+N00004367,MFG,1000, Tammy Baldwin (D) , D 
+N00004367,MFG,6000, Tammy Baldwin (D) , D 
+N00004367,MFG,1700, Tammy Baldwin (D) , D 
+N00004367,MFG,1000, Tammy Baldwin (D) , D 
+N00004367,MFG,2000, Tammy Baldwin (D) , D 
+N00004367,MFG,3000, Tammy Baldwin (D) , D 
+N00004367,MFG,16200, Tammy Baldwin (D) , D 
+N00004367,MFG,2000, Tammy Baldwin (D) , D 
+N00004367,MFG,5000, Tammy Baldwin (D) , D 
+N00004367,MFG,1000, Tammy Baldwin (D) , D 
+N00004367,MFG,3000, Tammy Baldwin (D) , D 
 N00004367,Transport,6000, Tammy Baldwin (D) , D 
 N00004367,Transport,2000, Tammy Baldwin (D) , D 
 N00004367,Transport,11000, Tammy Baldwin (D) , D 
@@ -1051,10 +1051,10 @@ N00004981,Unions,5000, Dick Durbin (D) , D
 N00004981,Builders,12500, Dick Durbin (D) , D 
 N00004981,Unions,3000, Dick Durbin (D) , D 
 N00004981,Unions,4500, Dick Durbin (D) , D 
-N00004981,Manufacturing,1000, Dick Durbin (D) , D 
-N00004981,Manufacturing,1000, Dick Durbin (D) , D 
-N00004981,Manufacturing,2000, Dick Durbin (D) , D 
-N00004981,Manufacturing,5000, Dick Durbin (D) , D 
+N00004981,MFG,1000, Dick Durbin (D) , D 
+N00004981,MFG,1000, Dick Durbin (D) , D 
+N00004981,MFG,2000, Dick Durbin (D) , D 
+N00004981,MFG,5000, Dick Durbin (D) , D 
 N00004981,Transport,1000, Dick Durbin (D) , D 
 N00004981,Transport,1000, Dick Durbin (D) , D 
 N00004981,Transport,2500, Dick Durbin (D) , D 
@@ -1065,7 +1065,7 @@ N00004981,Transport,500, Dick Durbin (D) , D
 N00004981,Transport,0, Dick Durbin (D) , D 
 N00004981,Transport,7500, Dick Durbin (D) , D 
 N00004981,committees,12250, Dick Durbin (D) , D 
-N00006561,Agriculture,1000, Tom Udall (D) , D 
+N00006561,Agri,1000, Tom Udall (D) , D 
 N00006561,Comms,6500, Tom Udall (D) , D 
 N00006561,Comms,2000, Tom Udall (D) , D 
 N00006561,Comms,1500, Tom Udall (D) , D 
@@ -1087,21 +1087,21 @@ N00006561,Legal,1000, Tom Udall (D) , D
 N00006561,Unions,1500, Tom Udall (D) , D 
 N00006561,Builders,5000, Tom Udall (D) , D 
 N00006561,Unions,1500, Tom Udall (D) , D 
-N00006561,Manufacturing,5000, Tom Udall (D) , D 
+N00006561,MFG,5000, Tom Udall (D) , D 
 N00006561,Transport,10000, Tom Udall (D) , D 
 N00006561,committees,125, Tom Udall (D) , D 
-N00007364,Agriculture,7200, Dianne Feinstein (D) , D 
-N00007364,Agriculture,2000, Dianne Feinstein (D) , D 
-N00007364,Agriculture,32950, Dianne Feinstein (D) , D 
-N00007364,Agriculture,12700, Dianne Feinstein (D) , D 
-N00007364,Agriculture,9500, Dianne Feinstein (D) , D 
-N00007364,Agriculture,11200, Dianne Feinstein (D) , D 
-N00007364,Agriculture,22400, Dianne Feinstein (D) , D 
-N00007364,Agriculture,500, Dianne Feinstein (D) , D 
-N00007364,Agriculture,2000, Dianne Feinstein (D) , D 
-N00007364,Agriculture,3500, Dianne Feinstein (D) , D 
-N00007364,Agriculture,5000, Dianne Feinstein (D) , D 
-N00007364,Agriculture,2000, Dianne Feinstein (D) , D 
+N00007364,Agri,7200, Dianne Feinstein (D) , D 
+N00007364,Agri,2000, Dianne Feinstein (D) , D 
+N00007364,Agri,32950, Dianne Feinstein (D) , D 
+N00007364,Agri,12700, Dianne Feinstein (D) , D 
+N00007364,Agri,9500, Dianne Feinstein (D) , D 
+N00007364,Agri,11200, Dianne Feinstein (D) , D 
+N00007364,Agri,22400, Dianne Feinstein (D) , D 
+N00007364,Agri,500, Dianne Feinstein (D) , D 
+N00007364,Agri,2000, Dianne Feinstein (D) , D 
+N00007364,Agri,3500, Dianne Feinstein (D) , D 
+N00007364,Agri,5000, Dianne Feinstein (D) , D 
+N00007364,Agri,2000, Dianne Feinstein (D) , D 
 N00007364,Builders,2000, Dianne Feinstein (D) , D 
 N00007364,Builders,5000, Dianne Feinstein (D) , D 
 N00007364,Builders,24000, Dianne Feinstein (D) , D 
@@ -1214,12 +1214,12 @@ N00007364,General,7500, Dianne Feinstein (D) , D
 N00007364,Unions,4000, Dianne Feinstein (D) , D 
 N00007364,Unions,5000, Dianne Feinstein (D) , D 
 N00007364,Unions,5000, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,2500, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,9500, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,1000, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,1000, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,8500, Dianne Feinstein (D) , D 
-N00007364,Manufacturing,12500, Dianne Feinstein (D) , D 
+N00007364,MFG,2500, Dianne Feinstein (D) , D 
+N00007364,MFG,9500, Dianne Feinstein (D) , D 
+N00007364,MFG,1000, Dianne Feinstein (D) , D 
+N00007364,MFG,1000, Dianne Feinstein (D) , D 
+N00007364,MFG,8500, Dianne Feinstein (D) , D 
+N00007364,MFG,12500, Dianne Feinstein (D) , D 
 N00007364,Transport,4500, Dianne Feinstein (D) , D 
 N00007364,Transport,1000, Dianne Feinstein (D) , D 
 N00007364,Transport,5000, Dianne Feinstein (D) , D 
@@ -1234,9 +1234,9 @@ N00007364,Transport,2500, Dianne Feinstein (D) , D
 N00007364,Transport,25000, Dianne Feinstein (D) , D 
 N00007364,Transport,5000, Dianne Feinstein (D) , D 
 N00007364,committees,4250, Dianne Feinstein (D) , D 
-N00007724,Agriculture,1000, Ron Wyden (D) , D 
-N00007724,Agriculture,2000, Ron Wyden (D) , D 
-N00007724,Agriculture,1000, Ron Wyden (D) , D 
+N00007724,Agri,1000, Ron Wyden (D) , D 
+N00007724,Agri,2000, Ron Wyden (D) , D 
+N00007724,Agri,1000, Ron Wyden (D) , D 
 N00007724,Builders,1000, Ron Wyden (D) , D 
 N00007724,Builders,2000, Ron Wyden (D) , D 
 N00007724,Builders,4000, Ron Wyden (D) , D 
@@ -1299,10 +1299,10 @@ N00007724,Policy,1000, Ron Wyden (D) , D
 N00007724,Legal,6500, Ron Wyden (D) , D 
 N00007724,Legal,2000, Ron Wyden (D) , D 
 N00007724,Unions,1500, Ron Wyden (D) , D 
-N00007724,Manufacturing,1000, Ron Wyden (D) , D 
-N00007724,Manufacturing,-2500, Ron Wyden (D) , D 
-N00007724,Manufacturing,8000, Ron Wyden (D) , D 
-N00007724,Manufacturing,500, Ron Wyden (D) , D 
+N00007724,MFG,1000, Ron Wyden (D) , D 
+N00007724,MFG,-2500, Ron Wyden (D) , D 
+N00007724,MFG,8000, Ron Wyden (D) , D 
+N00007724,MFG,500, Ron Wyden (D) , D 
 N00007724,Transport,1000, Ron Wyden (D) , D 
 N00007724,Transport,1000, Ron Wyden (D) , D 
 N00007724,Transport,1000, Ron Wyden (D) , D 
@@ -1312,8 +1312,8 @@ N00007724,Transport,2500, Ron Wyden (D) , D
 N00007724,Transport,2000, Ron Wyden (D) , D 
 N00007724,Transport,1500, Ron Wyden (D) , D 
 N00007724,Transport,5000, Ron Wyden (D) , D 
-N00007836,Agriculture,5000, Maria Cantwell (D) , D 
-N00007836,Agriculture,0, Maria Cantwell (D) , D 
+N00007836,Agri,5000, Maria Cantwell (D) , D 
+N00007836,Agri,0, Maria Cantwell (D) , D 
 N00007836,Builders,-1000, Maria Cantwell (D) , D 
 N00007836,Defense,1000, Maria Cantwell (D) , D 
 N00007836,Energy,-1000, Maria Cantwell (D) , D 
@@ -1350,8 +1350,8 @@ N00007836,Transport,0, Maria Cantwell (D) , D
 N00007836,committees,20250, Maria Cantwell (D) , D 
 N00007836,committees,1000, Maria Cantwell (D) , D 
 N00007836,committees,13000, Maria Cantwell (D) , D 
-N00007876,Agriculture,5000, Patty Murray (D) , D 
-N00007876,Agriculture,1000, Patty Murray (D) , D 
+N00007876,Agri,5000, Patty Murray (D) , D 
+N00007876,Agri,1000, Patty Murray (D) , D 
 N00007876,Builders,1000, Patty Murray (D) , D 
 N00007876,Comms,1000, Patty Murray (D) , D 
 N00007876,Comms,2000, Patty Murray (D) , D 
@@ -1403,7 +1403,7 @@ N00007876,Unions,1500, Patty Murray (D) , D
 N00007876,Unions,5000, Patty Murray (D) , D 
 N00007876,Unions,1510, Patty Murray (D) , D 
 N00007876,Unions,1500, Patty Murray (D) , D 
-N00007876,Manufacturing,6000, Patty Murray (D) , D 
+N00007876,MFG,6000, Patty Murray (D) , D 
 N00007876,Transport,2500, Patty Murray (D) , D 
 N00007876,Transport,6000, Patty Murray (D) , D 
 N00007876,Transport,3000, Patty Murray (D) , D 
@@ -1412,11 +1412,11 @@ N00007876,Transport,1000, Patty Murray (D) , D
 N00007876,Govt/NGO,3000, Patty Murray (D) , D 
 N00007876,committees,750, Patty Murray (D) , D 
 N00007876,committees,9200, Patty Murray (D) , D 
-N00009918,Agriculture,5000, Patrick Leahy (D) , D 
-N00009918,Agriculture,1500, Patrick Leahy (D) , D 
-N00009918,Agriculture,100, Patrick Leahy (D) , D 
-N00009918,Agriculture,1000, Patrick Leahy (D) , D 
-N00009918,Agriculture,1000, Patrick Leahy (D) , D 
+N00009918,Agri,5000, Patrick Leahy (D) , D 
+N00009918,Agri,1500, Patrick Leahy (D) , D 
+N00009918,Agri,100, Patrick Leahy (D) , D 
+N00009918,Agri,1000, Patrick Leahy (D) , D 
+N00009918,Agri,1000, Patrick Leahy (D) , D 
 N00009918,Comms,1000, Patrick Leahy (D) , D 
 N00009918,Comms,1000, Patrick Leahy (D) , D 
 N00009918,Comms,6000, Patrick Leahy (D) , D 
@@ -1440,19 +1440,19 @@ N00009918,Legal,8500, Patrick Leahy (D) , D
 N00009918,Legal,1000, Patrick Leahy (D) , D 
 N00009918,Unions,2500, Patrick Leahy (D) , D 
 N00009918,Unions,2000, Patrick Leahy (D) , D 
-N00009918,Manufacturing,1000, Patrick Leahy (D) , D 
+N00009918,MFG,1000, Patrick Leahy (D) , D 
 N00009918,Transport,2000, Patrick Leahy (D) , D 
 N00009918,Transport,1000, Patrick Leahy (D) , D 
-N00009926,Agriculture,20000, Bill Nelson (D) , D 
-N00009926,Agriculture,4000, Bill Nelson (D) , D 
-N00009926,Agriculture,13500, Bill Nelson (D) , D 
-N00009926,Agriculture,1000, Bill Nelson (D) , D 
-N00009926,Agriculture,1500, Bill Nelson (D) , D 
-N00009926,Agriculture,2500, Bill Nelson (D) , D 
-N00009926,Agriculture,1000, Bill Nelson (D) , D 
-N00009926,Agriculture,1000, Bill Nelson (D) , D 
-N00009926,Agriculture,1000, Bill Nelson (D) , D 
-N00009926,Agriculture,3500, Bill Nelson (D) , D 
+N00009926,Agri,20000, Bill Nelson (D) , D 
+N00009926,Agri,4000, Bill Nelson (D) , D 
+N00009926,Agri,13500, Bill Nelson (D) , D 
+N00009926,Agri,1000, Bill Nelson (D) , D 
+N00009926,Agri,1500, Bill Nelson (D) , D 
+N00009926,Agri,2500, Bill Nelson (D) , D 
+N00009926,Agri,1000, Bill Nelson (D) , D 
+N00009926,Agri,1000, Bill Nelson (D) , D 
+N00009926,Agri,1000, Bill Nelson (D) , D 
+N00009926,Agri,3500, Bill Nelson (D) , D 
 N00009926,Builders,14000, Bill Nelson (D) , D 
 N00009926,Builders,2500, Bill Nelson (D) , D 
 N00009926,Builders,5000, Bill Nelson (D) , D 
@@ -1600,15 +1600,15 @@ N00009926,Unions,30500, Bill Nelson (D) , D
 N00009926,Unions,7500, Bill Nelson (D) , D 
 N00009926,Unions,16000, Bill Nelson (D) , D 
 N00009926,Unions,5000, Bill Nelson (D) , D 
-N00009926,Manufacturing,1000, Bill Nelson (D) , D 
-N00009926,Manufacturing,7000, Bill Nelson (D) , D 
-N00009926,Manufacturing,2000, Bill Nelson (D) , D 
-N00009926,Manufacturing,1000, Bill Nelson (D) , D 
-N00009926,Manufacturing,500, Bill Nelson (D) , D 
-N00009926,Manufacturing,2500, Bill Nelson (D) , D 
-N00009926,Manufacturing,2500, Bill Nelson (D) , D 
-N00009926,Manufacturing,4000, Bill Nelson (D) , D 
-N00009926,Manufacturing,5000, Bill Nelson (D) , D 
+N00009926,MFG,1000, Bill Nelson (D) , D 
+N00009926,MFG,7000, Bill Nelson (D) , D 
+N00009926,MFG,2000, Bill Nelson (D) , D 
+N00009926,MFG,1000, Bill Nelson (D) , D 
+N00009926,MFG,500, Bill Nelson (D) , D 
+N00009926,MFG,2500, Bill Nelson (D) , D 
+N00009926,MFG,2500, Bill Nelson (D) , D 
+N00009926,MFG,4000, Bill Nelson (D) , D 
+N00009926,MFG,5000, Bill Nelson (D) , D 
 N00009926,Transport,12500, Bill Nelson (D) , D 
 N00009926,Transport,8500, Bill Nelson (D) , D 
 N00009926,Transport,2000, Bill Nelson (D) , D 
@@ -1630,18 +1630,18 @@ N00009926,Transport,11000, Bill Nelson (D) , D
 N00009926,Transport,21000, Bill Nelson (D) , D 
 N00009926,Transport,1000, Bill Nelson (D) , D 
 N00009926,Govt/NGO,2000, Bill Nelson (D) , D 
-N00009926,Pvt citizens,1000, Bill Nelson (D) , D 
+N00009926,Pvt,1000, Bill Nelson (D) , D 
 N00009926,committees,15250, Bill Nelson (D) , D 
 N00009926,committees,1180, Bill Nelson (D) , D 
 N00009926,committees,2000, Bill Nelson (D) , D 
 N00009926,committees,500, Bill Nelson (D) , D 
-N00012508,Agriculture,2000, Tom Carper (D) , D 
-N00012508,Agriculture,8500, Tom Carper (D) , D 
-N00012508,Agriculture,4500, Tom Carper (D) , D 
-N00012508,Agriculture,2500, Tom Carper (D) , D 
-N00012508,Agriculture,2000, Tom Carper (D) , D 
-N00012508,Agriculture,4000, Tom Carper (D) , D 
-N00012508,Agriculture,5500, Tom Carper (D) , D 
+N00012508,Agri,2000, Tom Carper (D) , D 
+N00012508,Agri,8500, Tom Carper (D) , D 
+N00012508,Agri,4500, Tom Carper (D) , D 
+N00012508,Agri,2500, Tom Carper (D) , D 
+N00012508,Agri,2000, Tom Carper (D) , D 
+N00012508,Agri,4000, Tom Carper (D) , D 
+N00012508,Agri,5500, Tom Carper (D) , D 
 N00012508,Builders,2700, Tom Carper (D) , D 
 N00012508,Builders,5000, Tom Carper (D) , D 
 N00012508,Builders,10500, Tom Carper (D) , D 
@@ -1763,16 +1763,16 @@ N00012508,Unions,9000, Tom Carper (D) , D
 N00012508,Builders,17500, Tom Carper (D) , D 
 N00012508,Unions,2500, Tom Carper (D) , D 
 N00012508,Unions,2000, Tom Carper (D) , D 
-N00012508,Manufacturing,44000, Tom Carper (D) , D 
-N00012508,Manufacturing,4210, Tom Carper (D) , D 
-N00012508,Manufacturing,2000, Tom Carper (D) , D 
-N00012508,Manufacturing,1000, Tom Carper (D) , D 
-N00012508,Manufacturing,7500, Tom Carper (D) , D 
-N00012508,Manufacturing,3500, Tom Carper (D) , D 
-N00012508,Manufacturing,2500, Tom Carper (D) , D 
-N00012508,Manufacturing,2500, Tom Carper (D) , D 
-N00012508,Manufacturing,2500, Tom Carper (D) , D 
-N00012508,Manufacturing,1500, Tom Carper (D) , D 
+N00012508,MFG,44000, Tom Carper (D) , D 
+N00012508,MFG,4210, Tom Carper (D) , D 
+N00012508,MFG,2000, Tom Carper (D) , D 
+N00012508,MFG,1000, Tom Carper (D) , D 
+N00012508,MFG,7500, Tom Carper (D) , D 
+N00012508,MFG,3500, Tom Carper (D) , D 
+N00012508,MFG,2500, Tom Carper (D) , D 
+N00012508,MFG,2500, Tom Carper (D) , D 
+N00012508,MFG,2500, Tom Carper (D) , D 
+N00012508,MFG,1500, Tom Carper (D) , D 
 N00012508,Transport,5500, Tom Carper (D) , D 
 N00012508,Transport,9000, Tom Carper (D) , D 
 N00012508,Transport,16000, Tom Carper (D) , D 
@@ -1807,8 +1807,8 @@ N00013820,Comms,-6000, Chris Van Hollen (D) , D
 N00013820,Transport,1000, Chris Van Hollen (D) , D 
 N00013820,Govt/NGO,1000, Chris Van Hollen (D) , D 
 N00013820,committees,0, Chris Van Hollen (D) , D 
-N00024790,Agriculture,4500, Jeanne Shaheen (D) , D 
-N00024790,Agriculture,1000, Jeanne Shaheen (D) , D 
+N00024790,Agri,4500, Jeanne Shaheen (D) , D 
+N00024790,Agri,1000, Jeanne Shaheen (D) , D 
 N00024790,Builders,1000, Jeanne Shaheen (D) , D 
 N00024790,Builders,2500, Jeanne Shaheen (D) , D 
 N00024790,Builders,2500, Jeanne Shaheen (D) , D 
@@ -1867,9 +1867,9 @@ N00024790,Unions,2500, Jeanne Shaheen (D) , D
 N00024790,Unions,2500, Jeanne Shaheen (D) , D 
 N00024790,Unions,6000, Jeanne Shaheen (D) , D 
 N00024790,Unions,1000, Jeanne Shaheen (D) , D 
-N00024790,Manufacturing,2500, Jeanne Shaheen (D) , D 
-N00024790,Manufacturing,1000, Jeanne Shaheen (D) , D 
-N00024790,Manufacturing,1000, Jeanne Shaheen (D) , D 
+N00024790,MFG,2500, Jeanne Shaheen (D) , D 
+N00024790,MFG,1000, Jeanne Shaheen (D) , D 
+N00024790,MFG,1000, Jeanne Shaheen (D) , D 
 N00024790,Transport,1000, Jeanne Shaheen (D) , D 
 N00024790,Transport,4500, Jeanne Shaheen (D) , D 
 N00024790,Transport,1000, Jeanne Shaheen (D) , D 
@@ -1878,12 +1878,12 @@ N00024790,Transport,2500, Jeanne Shaheen (D) , D
 N00024790,Transport,7000, Jeanne Shaheen (D) , D 
 N00024790,Transport,1000, Jeanne Shaheen (D) , D 
 N00024790,committees,2000, Jeanne Shaheen (D) , D 
-N00024817,Agriculture,6000, Doug Jones (D) , D 
-N00024817,Agriculture,15000, Doug Jones (D) , D 
-N00024817,Agriculture,10000, Doug Jones (D) , D 
-N00024817,Agriculture,2500, Doug Jones (D) , D 
-N00024817,Agriculture,2000, Doug Jones (D) , D 
-N00024817,Agriculture,1000, Doug Jones (D) , D 
+N00024817,Agri,6000, Doug Jones (D) , D 
+N00024817,Agri,15000, Doug Jones (D) , D 
+N00024817,Agri,10000, Doug Jones (D) , D 
+N00024817,Agri,2500, Doug Jones (D) , D 
+N00024817,Agri,2000, Doug Jones (D) , D 
+N00024817,Agri,1000, Doug Jones (D) , D 
 N00024817,Builders,7500, Doug Jones (D) , D 
 N00024817,Builders,8000, Doug Jones (D) , D 
 N00024817,Builders,1000, Doug Jones (D) , D 
@@ -1986,23 +1986,23 @@ N00024817,Govt/NGO,1000, Doug Jones (D) , D
 N00024817,committees,25950, Doug Jones (D) , D 
 N00024817,committees,613998, Doug Jones (D) , D 
 N00024817,committees,9000, Doug Jones (D) , D 
-N00026586,Agriculture,3500, Joe Donnelly (D) , D 
-N00026586,Agriculture,23000, Joe Donnelly (D) , D 
-N00026586,Agriculture,6000, Joe Donnelly (D) , D 
-N00026586,Agriculture,1000, Joe Donnelly (D) , D 
-N00026586,Agriculture,5100, Joe Donnelly (D) , D 
-N00026586,Agriculture,2000, Joe Donnelly (D) , D 
-N00026586,Agriculture,7000, Joe Donnelly (D) , D 
-N00026586,Agriculture,17000, Joe Donnelly (D) , D 
-N00026586,Agriculture,8000, Joe Donnelly (D) , D 
-N00026586,Agriculture,11500, Joe Donnelly (D) , D 
-N00026586,Agriculture,22000, Joe Donnelly (D) , D 
-N00026586,Agriculture,7000, Joe Donnelly (D) , D 
-N00026586,Agriculture,7000, Joe Donnelly (D) , D 
-N00026586,Agriculture,1000, Joe Donnelly (D) , D 
-N00026586,Agriculture,8000, Joe Donnelly (D) , D 
-N00026586,Agriculture,10000, Joe Donnelly (D) , D 
-N00026586,Agriculture,1000, Joe Donnelly (D) , D 
+N00026586,Agri,3500, Joe Donnelly (D) , D 
+N00026586,Agri,23000, Joe Donnelly (D) , D 
+N00026586,Agri,6000, Joe Donnelly (D) , D 
+N00026586,Agri,1000, Joe Donnelly (D) , D 
+N00026586,Agri,5100, Joe Donnelly (D) , D 
+N00026586,Agri,2000, Joe Donnelly (D) , D 
+N00026586,Agri,7000, Joe Donnelly (D) , D 
+N00026586,Agri,17000, Joe Donnelly (D) , D 
+N00026586,Agri,8000, Joe Donnelly (D) , D 
+N00026586,Agri,11500, Joe Donnelly (D) , D 
+N00026586,Agri,22000, Joe Donnelly (D) , D 
+N00026586,Agri,7000, Joe Donnelly (D) , D 
+N00026586,Agri,7000, Joe Donnelly (D) , D 
+N00026586,Agri,1000, Joe Donnelly (D) , D 
+N00026586,Agri,8000, Joe Donnelly (D) , D 
+N00026586,Agri,10000, Joe Donnelly (D) , D 
+N00026586,Agri,1000, Joe Donnelly (D) , D 
 N00026586,Builders,1000, Joe Donnelly (D) , D 
 N00026586,Builders,5000, Joe Donnelly (D) , D 
 N00026586,Builders,250, Joe Donnelly (D) , D 
@@ -2145,15 +2145,15 @@ N00026586,Unions,5000, Joe Donnelly (D) , D
 N00026586,Unions,2500, Joe Donnelly (D) , D 
 N00026586,Unions,10000, Joe Donnelly (D) , D 
 N00026586,Unions,7500, Joe Donnelly (D) , D 
-N00026586,Manufacturing,1000, Joe Donnelly (D) , D 
-N00026586,Manufacturing,8000, Joe Donnelly (D) , D 
-N00026586,Manufacturing,3500, Joe Donnelly (D) , D 
-N00026586,Manufacturing,19500, Joe Donnelly (D) , D 
-N00026586,Manufacturing,2500, Joe Donnelly (D) , D 
-N00026586,Manufacturing,8000, Joe Donnelly (D) , D 
-N00026586,Manufacturing,1000, Joe Donnelly (D) , D 
-N00026586,Manufacturing,5000, Joe Donnelly (D) , D 
-N00026586,Manufacturing,1000, Joe Donnelly (D) , D 
+N00026586,MFG,1000, Joe Donnelly (D) , D 
+N00026586,MFG,8000, Joe Donnelly (D) , D 
+N00026586,MFG,3500, Joe Donnelly (D) , D 
+N00026586,MFG,19500, Joe Donnelly (D) , D 
+N00026586,MFG,2500, Joe Donnelly (D) , D 
+N00026586,MFG,8000, Joe Donnelly (D) , D 
+N00026586,MFG,1000, Joe Donnelly (D) , D 
+N00026586,MFG,5000, Joe Donnelly (D) , D 
+N00026586,MFG,1000, Joe Donnelly (D) , D 
 N00026586,Transport,1000, Joe Donnelly (D) , D 
 N00026586,Transport,5000, Joe Donnelly (D) , D 
 N00026586,Transport,1000, Joe Donnelly (D) , D 
@@ -2170,26 +2170,26 @@ N00026586,committees,38500, Joe Donnelly (D) , D
 N00026586,committees,28538, Joe Donnelly (D) , D 
 N00026586,committees,81986, Joe Donnelly (D) , D 
 N00026586,committees,28250, Joe Donnelly (D) , D 
-N00027500,Agriculture,4500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,1000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,4000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,34000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,2500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,10000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,2000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,13500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,8500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,1500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,-1000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,13500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,24000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,10000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,9000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,1000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,18000, Amy Klobuchar (D) , D 
-N00027500,Agriculture,7500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,13500, Amy Klobuchar (D) , D 
-N00027500,Agriculture,0, Amy Klobuchar (D) , D 
+N00027500,Agri,4500, Amy Klobuchar (D) , D 
+N00027500,Agri,1000, Amy Klobuchar (D) , D 
+N00027500,Agri,4000, Amy Klobuchar (D) , D 
+N00027500,Agri,34000, Amy Klobuchar (D) , D 
+N00027500,Agri,2500, Amy Klobuchar (D) , D 
+N00027500,Agri,10000, Amy Klobuchar (D) , D 
+N00027500,Agri,2000, Amy Klobuchar (D) , D 
+N00027500,Agri,13500, Amy Klobuchar (D) , D 
+N00027500,Agri,8500, Amy Klobuchar (D) , D 
+N00027500,Agri,1500, Amy Klobuchar (D) , D 
+N00027500,Agri,-1000, Amy Klobuchar (D) , D 
+N00027500,Agri,13500, Amy Klobuchar (D) , D 
+N00027500,Agri,24000, Amy Klobuchar (D) , D 
+N00027500,Agri,10000, Amy Klobuchar (D) , D 
+N00027500,Agri,9000, Amy Klobuchar (D) , D 
+N00027500,Agri,1000, Amy Klobuchar (D) , D 
+N00027500,Agri,18000, Amy Klobuchar (D) , D 
+N00027500,Agri,7500, Amy Klobuchar (D) , D 
+N00027500,Agri,13500, Amy Klobuchar (D) , D 
+N00027500,Agri,0, Amy Klobuchar (D) , D 
 N00027500,Builders,2500, Amy Klobuchar (D) , D 
 N00027500,Builders,2500, Amy Klobuchar (D) , D 
 N00027500,Builders,2500, Amy Klobuchar (D) , D 
@@ -2308,13 +2308,13 @@ N00027500,Unions,2000, Amy Klobuchar (D) , D
 N00027500,Unions,10000, Amy Klobuchar (D) , D 
 N00027500,Unions,3500, Amy Klobuchar (D) , D 
 N00027500,Unions,5000, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,2000, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,2500, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,5500, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,1000, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,7000, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,2500, Amy Klobuchar (D) , D 
-N00027500,Manufacturing,500, Amy Klobuchar (D) , D 
+N00027500,MFG,2000, Amy Klobuchar (D) , D 
+N00027500,MFG,2500, Amy Klobuchar (D) , D 
+N00027500,MFG,5500, Amy Klobuchar (D) , D 
+N00027500,MFG,1000, Amy Klobuchar (D) , D 
+N00027500,MFG,7000, Amy Klobuchar (D) , D 
+N00027500,MFG,2500, Amy Klobuchar (D) , D 
+N00027500,MFG,500, Amy Klobuchar (D) , D 
 N00027500,Transport,11000, Amy Klobuchar (D) , D 
 N00027500,Transport,7500, Amy Klobuchar (D) , D 
 N00027500,Transport,18000, Amy Klobuchar (D) , D 
@@ -2335,19 +2335,19 @@ N00027500,Transport,2500, Amy Klobuchar (D) , D
 N00027500,Transport,5500, Amy Klobuchar (D) , D 
 N00027500,committees,9000, Amy Klobuchar (D) , D 
 N00027500,committees,5000, Amy Klobuchar (D) , D 
-N00027503,Agriculture,3000, Bob Casey (D) , D 
-N00027503,Agriculture,3000, Bob Casey (D) , D 
-N00027503,Agriculture,4750, Bob Casey (D) , D 
-N00027503,Agriculture,6500, Bob Casey (D) , D 
-N00027503,Agriculture,13000, Bob Casey (D) , D 
-N00027503,Agriculture,1000, Bob Casey (D) , D 
-N00027503,Agriculture,16500, Bob Casey (D) , D 
-N00027503,Agriculture,15500, Bob Casey (D) , D 
-N00027503,Agriculture,39500, Bob Casey (D) , D 
-N00027503,Agriculture,1000, Bob Casey (D) , D 
-N00027503,Agriculture,5000, Bob Casey (D) , D 
-N00027503,Agriculture,6000, Bob Casey (D) , D 
-N00027503,Agriculture,1000, Bob Casey (D) , D 
+N00027503,Agri,3000, Bob Casey (D) , D 
+N00027503,Agri,3000, Bob Casey (D) , D 
+N00027503,Agri,4750, Bob Casey (D) , D 
+N00027503,Agri,6500, Bob Casey (D) , D 
+N00027503,Agri,13000, Bob Casey (D) , D 
+N00027503,Agri,1000, Bob Casey (D) , D 
+N00027503,Agri,16500, Bob Casey (D) , D 
+N00027503,Agri,15500, Bob Casey (D) , D 
+N00027503,Agri,39500, Bob Casey (D) , D 
+N00027503,Agri,1000, Bob Casey (D) , D 
+N00027503,Agri,5000, Bob Casey (D) , D 
+N00027503,Agri,6000, Bob Casey (D) , D 
+N00027503,Agri,1000, Bob Casey (D) , D 
 N00027503,Builders,4000, Bob Casey (D) , D 
 N00027503,Builders,6500, Bob Casey (D) , D 
 N00027503,Builders,5000, Bob Casey (D) , D 
@@ -2508,17 +2508,17 @@ N00027503,Unions,18000, Bob Casey (D) , D
 N00027503,Unions,4800, Bob Casey (D) , D 
 N00027503,Unions,3700, Bob Casey (D) , D 
 N00027503,Unions,7500, Bob Casey (D) , D 
-N00027503,Manufacturing,14500, Bob Casey (D) , D 
-N00027503,Manufacturing,3000, Bob Casey (D) , D 
-N00027503,Manufacturing,1000, Bob Casey (D) , D 
-N00027503,Manufacturing,6000, Bob Casey (D) , D 
-N00027503,Manufacturing,2000, Bob Casey (D) , D 
-N00027503,Manufacturing,7500, Bob Casey (D) , D 
-N00027503,Manufacturing,8000, Bob Casey (D) , D 
-N00027503,Manufacturing,17500, Bob Casey (D) , D 
-N00027503,Manufacturing,1000, Bob Casey (D) , D 
-N00027503,Manufacturing,2000, Bob Casey (D) , D 
-N00027503,Manufacturing,5000, Bob Casey (D) , D 
+N00027503,MFG,14500, Bob Casey (D) , D 
+N00027503,MFG,3000, Bob Casey (D) , D 
+N00027503,MFG,1000, Bob Casey (D) , D 
+N00027503,MFG,6000, Bob Casey (D) , D 
+N00027503,MFG,2000, Bob Casey (D) , D 
+N00027503,MFG,7500, Bob Casey (D) , D 
+N00027503,MFG,8000, Bob Casey (D) , D 
+N00027503,MFG,17500, Bob Casey (D) , D 
+N00027503,MFG,1000, Bob Casey (D) , D 
+N00027503,MFG,2000, Bob Casey (D) , D 
+N00027503,MFG,5000, Bob Casey (D) , D 
 N00027503,Transport,6500, Bob Casey (D) , D 
 N00027503,Transport,1000, Bob Casey (D) , D 
 N00027503,Transport,17500, Bob Casey (D) , D 
@@ -2532,7 +2532,7 @@ N00027503,Govt/NGO,2000, Bob Casey (D) , D
 N00027503,committees,14350, Bob Casey (D) , D 
 N00027503,committees,29500, Bob Casey (D) , D 
 N00027503,committees,237911, Bob Casey (D) , D 
-N00027533,Agriculture,700, Sheldon Whitehouse (D) , D 
+N00027533,Agri,700, Sheldon Whitehouse (D) , D 
 N00027533,Builders,1000, Sheldon Whitehouse (D) , D 
 N00027533,Builders,1500, Sheldon Whitehouse (D) , D 
 N00027533,Comms,1000, Sheldon Whitehouse (D) , D 
@@ -2640,8 +2640,8 @@ N00027533,Unions,8000, Sheldon Whitehouse (D) , D
 N00027533,Unions,2500, Sheldon Whitehouse (D) , D 
 N00027533,Unions,2500, Sheldon Whitehouse (D) , D 
 N00027533,Unions,3500, Sheldon Whitehouse (D) , D 
-N00027533,Manufacturing,6000, Sheldon Whitehouse (D) , D 
-N00027533,Manufacturing,2000, Sheldon Whitehouse (D) , D 
+N00027533,MFG,6000, Sheldon Whitehouse (D) , D 
+N00027533,MFG,2000, Sheldon Whitehouse (D) , D 
 N00027533,Transport,2000, Sheldon Whitehouse (D) , D 
 N00027533,Transport,6500, Sheldon Whitehouse (D) , D 
 N00027533,Transport,5000, Sheldon Whitehouse (D) , D 
@@ -2654,10 +2654,10 @@ N00027533,Transport,1000, Sheldon Whitehouse (D) , D
 N00027533,committees,10000, Sheldon Whitehouse (D) , D 
 N00027533,committees,5920, Sheldon Whitehouse (D) , D 
 N00027533,committees,3000, Sheldon Whitehouse (D) , D 
-N00027566,Agriculture,2000, Christopher S Murphy (D) , D 
-N00027566,Agriculture,500, Christopher S Murphy (D) , D 
-N00027566,Agriculture,1000, Christopher S Murphy (D) , D 
-N00027566,Agriculture,3500, Christopher S Murphy (D) , D 
+N00027566,Agri,2000, Christopher S Murphy (D) , D 
+N00027566,Agri,500, Christopher S Murphy (D) , D 
+N00027566,Agri,1000, Christopher S Murphy (D) , D 
+N00027566,Agri,3500, Christopher S Murphy (D) , D 
 N00027566,Builders,5500, Christopher S Murphy (D) , D 
 N00027566,Comms,11000, Christopher S Murphy (D) , D 
 N00027566,Comms,3500, Christopher S Murphy (D) , D 
@@ -2757,13 +2757,13 @@ N00027566,Unions,6000, Christopher S Murphy (D) , D
 N00027566,Unions,3500, Christopher S Murphy (D) , D 
 N00027566,Unions,5000, Christopher S Murphy (D) , D 
 N00027566,Unions,5000, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,4500, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,2000, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,2000, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,14500, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,1000, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,2500, Christopher S Murphy (D) , D 
-N00027566,Manufacturing,5000, Christopher S Murphy (D) , D 
+N00027566,MFG,4500, Christopher S Murphy (D) , D 
+N00027566,MFG,2000, Christopher S Murphy (D) , D 
+N00027566,MFG,2000, Christopher S Murphy (D) , D 
+N00027566,MFG,14500, Christopher S Murphy (D) , D 
+N00027566,MFG,1000, Christopher S Murphy (D) , D 
+N00027566,MFG,2500, Christopher S Murphy (D) , D 
+N00027566,MFG,5000, Christopher S Murphy (D) , D 
 N00027566,Transport,2500, Christopher S Murphy (D) , D 
 N00027566,Transport,2000, Christopher S Murphy (D) , D 
 N00027566,Transport,3000, Christopher S Murphy (D) , D 
@@ -2773,17 +2773,17 @@ N00027566,Transport,7500, Christopher S Murphy (D) , D
 N00027566,Transport,4000, Christopher S Murphy (D) , D 
 N00027566,committees,6000, Christopher S Murphy (D) , D 
 N00027566,committees,52875, Christopher S Murphy (D) , D 
-N00027605,Agriculture,25000, Jon Tester (D) , D 
-N00027605,Agriculture,9500, Jon Tester (D) , D 
-N00027605,Agriculture,1000, Jon Tester (D) , D 
-N00027605,Agriculture,5000, Jon Tester (D) , D 
-N00027605,Agriculture,2000, Jon Tester (D) , D 
-N00027605,Agriculture,2500, Jon Tester (D) , D 
-N00027605,Agriculture,1000, Jon Tester (D) , D 
-N00027605,Agriculture,2000, Jon Tester (D) , D 
-N00027605,Agriculture,8500, Jon Tester (D) , D 
-N00027605,Agriculture,10000, Jon Tester (D) , D 
-N00027605,Agriculture,2000, Jon Tester (D) , D 
+N00027605,Agri,25000, Jon Tester (D) , D 
+N00027605,Agri,9500, Jon Tester (D) , D 
+N00027605,Agri,1000, Jon Tester (D) , D 
+N00027605,Agri,5000, Jon Tester (D) , D 
+N00027605,Agri,2000, Jon Tester (D) , D 
+N00027605,Agri,2500, Jon Tester (D) , D 
+N00027605,Agri,1000, Jon Tester (D) , D 
+N00027605,Agri,2000, Jon Tester (D) , D 
+N00027605,Agri,8500, Jon Tester (D) , D 
+N00027605,Agri,10000, Jon Tester (D) , D 
+N00027605,Agri,2000, Jon Tester (D) , D 
 N00027605,Builders,5500, Jon Tester (D) , D 
 N00027605,Builders,1000, Jon Tester (D) , D 
 N00027605,Builders,2000, Jon Tester (D) , D 
@@ -2924,10 +2924,10 @@ N00027605,Unions,5000, Jon Tester (D) , D
 N00027605,Unions,2500, Jon Tester (D) , D 
 N00027605,Unions,10000, Jon Tester (D) , D 
 N00027605,Unions,5000, Jon Tester (D) , D 
-N00027605,Manufacturing,6000, Jon Tester (D) , D 
-N00027605,Manufacturing,3000, Jon Tester (D) , D 
-N00027605,Manufacturing,1000, Jon Tester (D) , D 
-N00027605,Manufacturing,2000, Jon Tester (D) , D 
+N00027605,MFG,6000, Jon Tester (D) , D 
+N00027605,MFG,3000, Jon Tester (D) , D 
+N00027605,MFG,1000, Jon Tester (D) , D 
+N00027605,MFG,2000, Jon Tester (D) , D 
 N00027605,Transport,28000, Jon Tester (D) , D 
 N00027605,Transport,1000, Jon Tester (D) , D 
 N00027605,Transport,2000, Jon Tester (D) , D 
@@ -2949,11 +2949,11 @@ N00027605,Transport,2500, Jon Tester (D) , D
 N00027605,committees,15750, Jon Tester (D) , D 
 N00027605,committees,50900, Jon Tester (D) , D 
 N00027605,committees,30677, Jon Tester (D) , D 
-N00027658,Agriculture,5000, Kirsten Gillibrand (D) , D 
-N00027658,Agriculture,1000, Kirsten Gillibrand (D) , D 
-N00027658,Agriculture,2000, Kirsten Gillibrand (D) , D 
-N00027658,Agriculture,3500, Kirsten Gillibrand (D) , D 
-N00027658,Agriculture,8500, Kirsten Gillibrand (D) , D 
+N00027658,Agri,5000, Kirsten Gillibrand (D) , D 
+N00027658,Agri,1000, Kirsten Gillibrand (D) , D 
+N00027658,Agri,2000, Kirsten Gillibrand (D) , D 
+N00027658,Agri,3500, Kirsten Gillibrand (D) , D 
+N00027658,Agri,8500, Kirsten Gillibrand (D) , D 
 N00027658,Builders,1000, Kirsten Gillibrand (D) , D 
 N00027658,Builders,5000, Kirsten Gillibrand (D) , D 
 N00027658,Builders,8500, Kirsten Gillibrand (D) , D 
@@ -3042,24 +3042,24 @@ N00027658,Unions,3500, Kirsten Gillibrand (D) , D
 N00027658,Unions,9500, Kirsten Gillibrand (D) , D 
 N00027658,Unions,1000, Kirsten Gillibrand (D) , D 
 N00027658,Unions,5000, Kirsten Gillibrand (D) , D 
-N00027658,Manufacturing,1000, Kirsten Gillibrand (D) , D 
-N00027658,Manufacturing,4000, Kirsten Gillibrand (D) , D 
-N00027658,Manufacturing,1000, Kirsten Gillibrand (D) , D 
-N00027658,Manufacturing,1000, Kirsten Gillibrand (D) , D 
-N00027658,Manufacturing,1000, Kirsten Gillibrand (D) , D 
+N00027658,MFG,1000, Kirsten Gillibrand (D) , D 
+N00027658,MFG,4000, Kirsten Gillibrand (D) , D 
+N00027658,MFG,1000, Kirsten Gillibrand (D) , D 
+N00027658,MFG,1000, Kirsten Gillibrand (D) , D 
+N00027658,MFG,1000, Kirsten Gillibrand (D) , D 
 N00027658,Transport,1000, Kirsten Gillibrand (D) , D 
 N00027658,Transport,3500, Kirsten Gillibrand (D) , D 
 N00027658,Transport,1000, Kirsten Gillibrand (D) , D 
 N00027658,Transport,500, Kirsten Gillibrand (D) , D 
 N00027658,Transport,2500, Kirsten Gillibrand (D) , D 
 N00027658,committees,4500, Kirsten Gillibrand (D) , D 
-N00027694,Agriculture,1000, Claire McCaskill (D) , D 
-N00027694,Agriculture,16000, Claire McCaskill (D) , D 
-N00027694,Agriculture,8500, Claire McCaskill (D) , D 
-N00027694,Agriculture,2000, Claire McCaskill (D) , D 
-N00027694,Agriculture,4000, Claire McCaskill (D) , D 
-N00027694,Agriculture,1000, Claire McCaskill (D) , D 
-N00027694,Agriculture,10000, Claire McCaskill (D) , D 
+N00027694,Agri,1000, Claire McCaskill (D) , D 
+N00027694,Agri,16000, Claire McCaskill (D) , D 
+N00027694,Agri,8500, Claire McCaskill (D) , D 
+N00027694,Agri,2000, Claire McCaskill (D) , D 
+N00027694,Agri,4000, Claire McCaskill (D) , D 
+N00027694,Agri,1000, Claire McCaskill (D) , D 
+N00027694,Agri,10000, Claire McCaskill (D) , D 
 N00027694,Builders,9950, Claire McCaskill (D) , D 
 N00027694,Builders,2000, Claire McCaskill (D) , D 
 N00027694,Builders,14000, Claire McCaskill (D) , D 
@@ -3196,15 +3196,15 @@ N00027694,Unions,25500, Claire McCaskill (D) , D
 N00027694,Unions,10000, Claire McCaskill (D) , D 
 N00027694,Unions,6000, Claire McCaskill (D) , D 
 N00027694,Unions,5000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,11500, Claire McCaskill (D) , D 
-N00027694,Manufacturing,3000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,1000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,1000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,7000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,5000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,1000, Claire McCaskill (D) , D 
-N00027694,Manufacturing,2500, Claire McCaskill (D) , D 
-N00027694,Manufacturing,2500, Claire McCaskill (D) , D 
+N00027694,MFG,11500, Claire McCaskill (D) , D 
+N00027694,MFG,3000, Claire McCaskill (D) , D 
+N00027694,MFG,1000, Claire McCaskill (D) , D 
+N00027694,MFG,1000, Claire McCaskill (D) , D 
+N00027694,MFG,7000, Claire McCaskill (D) , D 
+N00027694,MFG,5000, Claire McCaskill (D) , D 
+N00027694,MFG,1000, Claire McCaskill (D) , D 
+N00027694,MFG,2500, Claire McCaskill (D) , D 
+N00027694,MFG,2500, Claire McCaskill (D) , D 
 N00027694,Transport,17000, Claire McCaskill (D) , D 
 N00027694,Transport,2500, Claire McCaskill (D) , D 
 N00027694,Transport,3000, Claire McCaskill (D) , D 
@@ -3220,9 +3220,9 @@ N00027694,Govt/NGO,5000, Claire McCaskill (D) , D
 N00027694,committees,11000, Claire McCaskill (D) , D 
 N00027694,committees,2500, Claire McCaskill (D) , D 
 N00027694,committees,14799, Claire McCaskill (D) , D 
-N00027860,Agriculture,16000, Tammy Duckworth (D) , D 
-N00027860,Agriculture,2500, Tammy Duckworth (D) , D 
-N00027860,Agriculture,0, Tammy Duckworth (D) , D 
+N00027860,Agri,16000, Tammy Duckworth (D) , D 
+N00027860,Agri,2500, Tammy Duckworth (D) , D 
+N00027860,Agri,0, Tammy Duckworth (D) , D 
 N00027860,Builders,3000, Tammy Duckworth (D) , D 
 N00027860,Comms,1000, Tammy Duckworth (D) , D 
 N00027860,Comms,1000, Tammy Duckworth (D) , D 
@@ -3280,7 +3280,7 @@ N00027860,Unions,4250, Tammy Duckworth (D) , D
 N00027860,Unions,5000, Tammy Duckworth (D) , D 
 N00027860,Unions,10000, Tammy Duckworth (D) , D 
 N00027860,Unions,5000, Tammy Duckworth (D) , D 
-N00027860,Manufacturing,5000, Tammy Duckworth (D) , D 
+N00027860,MFG,5000, Tammy Duckworth (D) , D 
 N00027860,Transport,2000, Tammy Duckworth (D) , D 
 N00027860,Transport,1000, Tammy Duckworth (D) , D 
 N00027860,Transport,2000, Tammy Duckworth (D) , D 
@@ -3371,8 +3371,8 @@ N00028138,Transport,1000, Brian Schatz (D) , D
 N00028138,Transport,5000, Brian Schatz (D) , D 
 N00028138,committees,1000, Brian Schatz (D) , D 
 N00028138,committees,4000, Brian Schatz (D) , D 
-N00028139,Agriculture,21000, Mazie K Hirono (D) , D 
-N00028139,Agriculture,1000, Mazie K Hirono (D) , D 
+N00028139,Agri,21000, Mazie K Hirono (D) , D 
+N00028139,Agri,1000, Mazie K Hirono (D) , D 
 N00028139,Builders,2500, Mazie K Hirono (D) , D 
 N00028139,Builders,8000, Mazie K Hirono (D) , D 
 N00028139,Comms,2500, Mazie K Hirono (D) , D 
@@ -3476,7 +3476,7 @@ N00028139,Unions,10500, Mazie K Hirono (D) , D
 N00028139,Unions,9000, Mazie K Hirono (D) , D 
 N00028139,Unions,1000, Mazie K Hirono (D) , D 
 N00028139,Unions,14139, Mazie K Hirono (D) , D 
-N00028139,Manufacturing,1000, Mazie K Hirono (D) , D 
+N00028139,MFG,1000, Mazie K Hirono (D) , D 
 N00028139,Transport,7200, Mazie K Hirono (D) , D 
 N00028139,Transport,2000, Mazie K Hirono (D) , D 
 N00028139,Transport,3000, Mazie K Hirono (D) , D 
@@ -3489,11 +3489,11 @@ N00028139,Transport,5000, Mazie K Hirono (D) , D
 N00028139,Transport,17500, Mazie K Hirono (D) , D 
 N00028139,Transport,4000, Mazie K Hirono (D) , D 
 N00028139,committees,8000, Mazie K Hirono (D) , D 
-N00029277,Agriculture,4500, Gary Peters (D) , D 
-N00029277,Agriculture,1000, Gary Peters (D) , D 
-N00029277,Agriculture,1000, Gary Peters (D) , D 
-N00029277,Agriculture,1500, Gary Peters (D) , D 
-N00029277,Agriculture,2000, Gary Peters (D) , D 
+N00029277,Agri,4500, Gary Peters (D) , D 
+N00029277,Agri,1000, Gary Peters (D) , D 
+N00029277,Agri,1000, Gary Peters (D) , D 
+N00029277,Agri,1500, Gary Peters (D) , D 
+N00029277,Agri,2000, Gary Peters (D) , D 
 N00029277,Builders,2500, Gary Peters (D) , D 
 N00029277,Comms,2500, Gary Peters (D) , D 
 N00029277,Comms,2000, Gary Peters (D) , D 
@@ -3556,9 +3556,9 @@ N00029277,Builders,11500, Gary Peters (D) , D
 N00029277,Unions,3000, Gary Peters (D) , D 
 N00029277,Unions,5000, Gary Peters (D) , D 
 N00029277,Unions,5000, Gary Peters (D) , D 
-N00029277,Manufacturing,1000, Gary Peters (D) , D 
-N00029277,Manufacturing,1000, Gary Peters (D) , D 
-N00029277,Manufacturing,1000, Gary Peters (D) , D 
+N00029277,MFG,1000, Gary Peters (D) , D 
+N00029277,MFG,1000, Gary Peters (D) , D 
+N00029277,MFG,1000, Gary Peters (D) , D 
 N00029277,Transport,1000, Gary Peters (D) , D 
 N00029277,Transport,13499, Gary Peters (D) , D 
 N00029277,Transport,1000, Gary Peters (D) , D 
@@ -3570,9 +3570,9 @@ N00029277,Transport,2500, Gary Peters (D) , D
 N00029277,Transport,1000, Gary Peters (D) , D 
 N00029277,committees,500, Gary Peters (D) , D 
 N00029277,committees,1000, Gary Peters (D) , D 
-N00029303,Agriculture,2500, Jeff Merkley (D) , D 
-N00029303,Agriculture,1000, Jeff Merkley (D) , D 
-N00029303,Agriculture,4000, Jeff Merkley (D) , D 
+N00029303,Agri,2500, Jeff Merkley (D) , D 
+N00029303,Agri,1000, Jeff Merkley (D) , D 
+N00029303,Agri,4000, Jeff Merkley (D) , D 
 N00029303,Energy,2000, Jeff Merkley (D) , D 
 N00029303,Energy,500, Jeff Merkley (D) , D 
 N00029303,Energy,6000, Jeff Merkley (D) , D 
@@ -3590,13 +3590,13 @@ N00029303,Unions,1000, Jeff Merkley (D) , D
 N00029303,Unions,2500, Jeff Merkley (D) , D 
 N00029303,Transport,2500, Jeff Merkley (D) , D 
 N00029303,committees,1075, Jeff Merkley (D) , D 
-N00029835,Agriculture,500, Martin Heinrich (D) , D 
-N00029835,Agriculture,4500, Martin Heinrich (D) , D 
-N00029835,Agriculture,8500, Martin Heinrich (D) , D 
-N00029835,Agriculture,5000, Martin Heinrich (D) , D 
-N00029835,Agriculture,3500, Martin Heinrich (D) , D 
-N00029835,Agriculture,1000, Martin Heinrich (D) , D 
-N00029835,Agriculture,1000, Martin Heinrich (D) , D 
+N00029835,Agri,500, Martin Heinrich (D) , D 
+N00029835,Agri,4500, Martin Heinrich (D) , D 
+N00029835,Agri,8500, Martin Heinrich (D) , D 
+N00029835,Agri,5000, Martin Heinrich (D) , D 
+N00029835,Agri,3500, Martin Heinrich (D) , D 
+N00029835,Agri,1000, Martin Heinrich (D) , D 
+N00029835,Agri,1000, Martin Heinrich (D) , D 
 N00029835,Builders,6000, Martin Heinrich (D) , D 
 N00029835,Builders,5000, Martin Heinrich (D) , D 
 N00029835,Builders,14500, Martin Heinrich (D) , D 
@@ -3725,13 +3725,13 @@ N00029835,Unions,2500, Martin Heinrich (D) , D
 N00029835,Unions,4000, Martin Heinrich (D) , D 
 N00029835,Unions,13000, Martin Heinrich (D) , D 
 N00029835,Unions,2500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,3500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,2500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,2500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,1000, Martin Heinrich (D) , D 
-N00029835,Manufacturing,3500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,2500, Martin Heinrich (D) , D 
-N00029835,Manufacturing,2500, Martin Heinrich (D) , D 
+N00029835,MFG,3500, Martin Heinrich (D) , D 
+N00029835,MFG,2500, Martin Heinrich (D) , D 
+N00029835,MFG,2500, Martin Heinrich (D) , D 
+N00029835,MFG,1000, Martin Heinrich (D) , D 
+N00029835,MFG,3500, Martin Heinrich (D) , D 
+N00029835,MFG,2500, Martin Heinrich (D) , D 
+N00029835,MFG,2500, Martin Heinrich (D) , D 
 N00029835,Transport,17000, Martin Heinrich (D) , D 
 N00029835,Transport,500, Martin Heinrich (D) , D 
 N00029835,Transport,1000, Martin Heinrich (D) , D 
@@ -3743,8 +3743,8 @@ N00029835,Govt/NGO,3500, Martin Heinrich (D) , D
 N00029835,committees,9000, Martin Heinrich (D) , D 
 N00029835,committees,2000, Martin Heinrich (D) , D 
 N00029835,committees,16825, Martin Heinrich (D) , D 
-N00030608,Agriculture,1000, Michael F Bennet (D) , D 
-N00030608,Agriculture,1000, Michael F Bennet (D) , D 
+N00030608,Agri,1000, Michael F Bennet (D) , D 
+N00030608,Agri,1000, Michael F Bennet (D) , D 
 N00030608,Builders,5000, Michael F Bennet (D) , D 
 N00030608,Builders,-2500, Michael F Bennet (D) , D 
 N00030608,Comms,2000, Michael F Bennet (D) , D 
@@ -3776,8 +3776,8 @@ N00030608,Legal,3000, Michael F Bennet (D) , D
 N00030608,Legal,5500, Michael F Bennet (D) , D 
 N00030608,Builders,10000, Michael F Bennet (D) , D 
 N00030608,Unions,1000, Michael F Bennet (D) , D 
-N00030608,Manufacturing,-1000, Michael F Bennet (D) , D 
-N00030608,Manufacturing,-1000, Michael F Bennet (D) , D 
+N00030608,MFG,-1000, Michael F Bennet (D) , D 
+N00030608,MFG,-1000, Michael F Bennet (D) , D 
 N00030608,Transport,-2000, Michael F Bennet (D) , D 
 N00030608,Transport,1000, Michael F Bennet (D) , D 
 N00030608,Transport,1000, Michael F Bennet (D) , D 
@@ -3803,13 +3803,13 @@ N00031685,Comms,1000, Richard Blumenthal (D) , D
 N00031685,Unions,1000, Richard Blumenthal (D) , D 
 N00031685,Unions,2000, Richard Blumenthal (D) , D 
 N00031685,Unions,2000, Richard Blumenthal (D) , D 
-N00031685,Manufacturing,1500, Richard Blumenthal (D) , D 
-N00031685,Manufacturing,2500, Richard Blumenthal (D) , D 
+N00031685,MFG,1500, Richard Blumenthal (D) , D 
+N00031685,MFG,2500, Richard Blumenthal (D) , D 
 N00031685,Transport,1000, Richard Blumenthal (D) , D 
 N00031685,Govt/NGO,1000, Richard Blumenthal (D) , D 
-N00031820,Agriculture,1000, Chris Coons (D) , D 
-N00031820,Agriculture,2500, Chris Coons (D) , D 
-N00031820,Agriculture,2500, Chris Coons (D) , D 
+N00031820,Agri,1000, Chris Coons (D) , D 
+N00031820,Agri,2500, Chris Coons (D) , D 
+N00031820,Agri,2500, Chris Coons (D) , D 
 N00031820,Builders,1000, Chris Coons (D) , D 
 N00031820,Comms,1000, Chris Coons (D) , D 
 N00031820,Comms,1000, Chris Coons (D) , D 
@@ -3856,17 +3856,17 @@ N00031820,Policy,1000, Chris Coons (D) , D
 N00031820,Legal,18500, Chris Coons (D) , D 
 N00031820,Legal,1000, Chris Coons (D) , D 
 N00031820,Unions,2500, Chris Coons (D) , D 
-N00031820,Manufacturing,1000, Chris Coons (D) , D 
-N00031820,Manufacturing,1500, Chris Coons (D) , D 
-N00031820,Manufacturing,2500, Chris Coons (D) , D 
-N00031820,Manufacturing,2000, Chris Coons (D) , D 
+N00031820,MFG,1000, Chris Coons (D) , D 
+N00031820,MFG,1500, Chris Coons (D) , D 
+N00031820,MFG,2500, Chris Coons (D) , D 
+N00031820,MFG,2000, Chris Coons (D) , D 
 N00031820,Transport,1000, Chris Coons (D) , D 
 N00031820,Transport,2500, Chris Coons (D) , D 
-N00032838,Agriculture,15642, Joe Manchin (D) , D 
-N00032838,Agriculture,1000, Joe Manchin (D) , D 
-N00032838,Agriculture,5000, Joe Manchin (D) , D 
-N00032838,Agriculture,9000, Joe Manchin (D) , D 
-N00032838,Agriculture,11000, Joe Manchin (D) , D 
+N00032838,Agri,15642, Joe Manchin (D) , D 
+N00032838,Agri,1000, Joe Manchin (D) , D 
+N00032838,Agri,5000, Joe Manchin (D) , D 
+N00032838,Agri,9000, Joe Manchin (D) , D 
+N00032838,Agri,11000, Joe Manchin (D) , D 
 N00032838,Builders,1000, Joe Manchin (D) , D 
 N00032838,Builders,1000, Joe Manchin (D) , D 
 N00032838,Builders,5000, Joe Manchin (D) , D 
@@ -4001,15 +4001,15 @@ N00032838,Unions,10500, Joe Manchin (D) , D
 N00032838,Unions,2500, Joe Manchin (D) , D 
 N00032838,Unions,2500, Joe Manchin (D) , D 
 N00032838,Unions,1500, Joe Manchin (D) , D 
-N00032838,Manufacturing,232000, Joe Manchin (D) , D 
-N00032838,Manufacturing,2500, Joe Manchin (D) , D 
-N00032838,Manufacturing,2500, Joe Manchin (D) , D 
-N00032838,Manufacturing,2500, Joe Manchin (D) , D 
-N00032838,Manufacturing,4000, Joe Manchin (D) , D 
-N00032838,Manufacturing,2500, Joe Manchin (D) , D 
-N00032838,Manufacturing,5000, Joe Manchin (D) , D 
-N00032838,Manufacturing,1000, Joe Manchin (D) , D 
-N00032838,Manufacturing,2500, Joe Manchin (D) , D 
+N00032838,MFG,232000, Joe Manchin (D) , D 
+N00032838,MFG,2500, Joe Manchin (D) , D 
+N00032838,MFG,2500, Joe Manchin (D) , D 
+N00032838,MFG,2500, Joe Manchin (D) , D 
+N00032838,MFG,4000, Joe Manchin (D) , D 
+N00032838,MFG,2500, Joe Manchin (D) , D 
+N00032838,MFG,5000, Joe Manchin (D) , D 
+N00032838,MFG,1000, Joe Manchin (D) , D 
+N00032838,MFG,2500, Joe Manchin (D) , D 
 N00032838,Transport,8500, Joe Manchin (D) , D 
 N00032838,Transport,1000, Joe Manchin (D) , D 
 N00032838,Transport,1000, Joe Manchin (D) , D 
@@ -4029,13 +4029,13 @@ N00032838,Transport,5000, Joe Manchin (D) , D
 N00032838,committees,8500, Joe Manchin (D) , D 
 N00032838,committees,283737, Joe Manchin (D) , D 
 N00032838,committees,43400, Joe Manchin (D) , D 
-N00033177,Agriculture,11000, Tim Kaine (D) , D 
-N00033177,Agriculture,7500, Tim Kaine (D) , D 
-N00033177,Agriculture,1000, Tim Kaine (D) , D 
-N00033177,Agriculture,2500, Tim Kaine (D) , D 
-N00033177,Agriculture,1000, Tim Kaine (D) , D 
-N00033177,Agriculture,1000, Tim Kaine (D) , D 
-N00033177,Agriculture,10000, Tim Kaine (D) , D 
+N00033177,Agri,11000, Tim Kaine (D) , D 
+N00033177,Agri,7500, Tim Kaine (D) , D 
+N00033177,Agri,1000, Tim Kaine (D) , D 
+N00033177,Agri,2500, Tim Kaine (D) , D 
+N00033177,Agri,1000, Tim Kaine (D) , D 
+N00033177,Agri,1000, Tim Kaine (D) , D 
+N00033177,Agri,10000, Tim Kaine (D) , D 
 N00033177,Builders,1000, Tim Kaine (D) , D 
 N00033177,Builders,1000, Tim Kaine (D) , D 
 N00033177,Builders,7700, Tim Kaine (D) , D 
@@ -4176,12 +4176,12 @@ N00033177,Unions,6000, Tim Kaine (D) , D
 N00033177,Unions,6000, Tim Kaine (D) , D 
 N00033177,Unions,6100, Tim Kaine (D) , D 
 N00033177,Unions,7000, Tim Kaine (D) , D 
-N00033177,Manufacturing,6500, Tim Kaine (D) , D 
-N00033177,Manufacturing,2000, Tim Kaine (D) , D 
-N00033177,Manufacturing,1000, Tim Kaine (D) , D 
-N00033177,Manufacturing,1000, Tim Kaine (D) , D 
-N00033177,Manufacturing,5000, Tim Kaine (D) , D 
-N00033177,Manufacturing,1000, Tim Kaine (D) , D 
+N00033177,MFG,6500, Tim Kaine (D) , D 
+N00033177,MFG,2000, Tim Kaine (D) , D 
+N00033177,MFG,1000, Tim Kaine (D) , D 
+N00033177,MFG,1000, Tim Kaine (D) , D 
+N00033177,MFG,5000, Tim Kaine (D) , D 
+N00033177,MFG,1000, Tim Kaine (D) , D 
 N00033177,Transport,9000, Tim Kaine (D) , D 
 N00033177,Transport,0, Tim Kaine (D) , D 
 N00033177,Transport,8000, Tim Kaine (D) , D 
@@ -4237,26 +4237,26 @@ N00033492,Unions,10000, Elizabeth Warren (D) , D
 N00033492,Unions,5000, Elizabeth Warren (D) , D 
 N00033492,committees,8000, Elizabeth Warren (D) , D 
 N00033492,committees,125, Elizabeth Warren (D) , D 
-N00033782,Agriculture,1000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,1000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,6000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,41500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,6000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,4000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,13000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,2500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,10500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,9000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,4000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,10500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,27500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,27000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,21000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,6500, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,3000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,1000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,10000, Heidi Heitkamp (D) , D 
-N00033782,Agriculture,7500, Heidi Heitkamp (D) , D 
+N00033782,Agri,1000, Heidi Heitkamp (D) , D 
+N00033782,Agri,1000, Heidi Heitkamp (D) , D 
+N00033782,Agri,6000, Heidi Heitkamp (D) , D 
+N00033782,Agri,41500, Heidi Heitkamp (D) , D 
+N00033782,Agri,6000, Heidi Heitkamp (D) , D 
+N00033782,Agri,4000, Heidi Heitkamp (D) , D 
+N00033782,Agri,13000, Heidi Heitkamp (D) , D 
+N00033782,Agri,2500, Heidi Heitkamp (D) , D 
+N00033782,Agri,10500, Heidi Heitkamp (D) , D 
+N00033782,Agri,9000, Heidi Heitkamp (D) , D 
+N00033782,Agri,4000, Heidi Heitkamp (D) , D 
+N00033782,Agri,10500, Heidi Heitkamp (D) , D 
+N00033782,Agri,27500, Heidi Heitkamp (D) , D 
+N00033782,Agri,27000, Heidi Heitkamp (D) , D 
+N00033782,Agri,21000, Heidi Heitkamp (D) , D 
+N00033782,Agri,6500, Heidi Heitkamp (D) , D 
+N00033782,Agri,3000, Heidi Heitkamp (D) , D 
+N00033782,Agri,1000, Heidi Heitkamp (D) , D 
+N00033782,Agri,10000, Heidi Heitkamp (D) , D 
+N00033782,Agri,7500, Heidi Heitkamp (D) , D 
 N00033782,Builders,10500, Heidi Heitkamp (D) , D 
 N00033782,Builders,8000, Heidi Heitkamp (D) , D 
 N00033782,Builders,2700, Heidi Heitkamp (D) , D 
@@ -4411,14 +4411,14 @@ N00033782,Unions,13000, Heidi Heitkamp (D) , D
 N00033782,Unions,7500, Heidi Heitkamp (D) , D 
 N00033782,Unions,2000, Heidi Heitkamp (D) , D 
 N00033782,Unions,5000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,169300, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,2000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,17000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,1000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,2500, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,5000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,1000, Heidi Heitkamp (D) , D 
-N00033782,Manufacturing,2500, Heidi Heitkamp (D) , D 
+N00033782,MFG,169300, Heidi Heitkamp (D) , D 
+N00033782,MFG,2000, Heidi Heitkamp (D) , D 
+N00033782,MFG,17000, Heidi Heitkamp (D) , D 
+N00033782,MFG,1000, Heidi Heitkamp (D) , D 
+N00033782,MFG,2500, Heidi Heitkamp (D) , D 
+N00033782,MFG,5000, Heidi Heitkamp (D) , D 
+N00033782,MFG,1000, Heidi Heitkamp (D) , D 
+N00033782,MFG,2500, Heidi Heitkamp (D) , D 
 N00033782,Transport,15000, Heidi Heitkamp (D) , D 
 N00033782,Transport,1000, Heidi Heitkamp (D) , D 
 N00033782,Transport,1000, Heidi Heitkamp (D) , D 
@@ -4483,16 +4483,16 @@ N00035267,Builders,5000, Cory Booker (D) , D
 N00035267,Unions,3000, Cory Booker (D) , D 
 N00035267,Unions,5000, Cory Booker (D) , D 
 N00035267,Unions,2500, Cory Booker (D) , D 
-N00035267,Manufacturing,2500, Cory Booker (D) , D 
-N00035267,Manufacturing,1500, Cory Booker (D) , D 
+N00035267,MFG,2500, Cory Booker (D) , D 
+N00035267,MFG,1500, Cory Booker (D) , D 
 N00035267,Transport,1500, Cory Booker (D) , D 
 N00035267,Transport,1500, Cory Booker (D) , D 
 N00035267,Transport,2000, Cory Booker (D) , D 
 N00035267,Transport,4500, Cory Booker (D) , D 
 N00035267,Transport,2000, Cory Booker (D) , D 
 N00035267,committees,1000, Cory Booker (D) , D 
-N00036915,Agriculture,5000, Kamala D Harris (D) , D 
-N00036915,Agriculture,1000, Kamala D Harris (D) , D 
+N00036915,Agri,5000, Kamala D Harris (D) , D 
+N00036915,Agri,1000, Kamala D Harris (D) , D 
 N00036915,Comms,2500, Kamala D Harris (D) , D 
 N00036915,Comms,-1000, Kamala D Harris (D) , D 
 N00036915,Comms,1000, Kamala D Harris (D) , D 
@@ -4516,9 +4516,9 @@ N00036915,Unions,2000, Kamala D Harris (D) , D
 N00036915,Builders,-5000, Kamala D Harris (D) , D 
 N00036915,General,1000, Kamala D Harris (D) , D 
 N00036915,Unions,1000, Kamala D Harris (D) , D 
-N00036915,Manufacturing,1666, Kamala D Harris (D) , D 
+N00036915,MFG,1666, Kamala D Harris (D) , D 
 N00036915,Transport,1000, Kamala D Harris (D) , D 
-N00037161,Agriculture,15000, Catherine Cortez Masto (D) , D 
+N00037161,Agri,15000, Catherine Cortez Masto (D) , D 
 N00037161,Builders,4000, Catherine Cortez Masto (D) , D 
 N00037161,Comms,5000, Catherine Cortez Masto (D) , D 
 N00037161,Comms,1000, Catherine Cortez Masto (D) , D 
@@ -4573,8 +4573,8 @@ N00037161,Transport,1000, Catherine Cortez Masto (D) , D
 N00037161,Transport,1000, Catherine Cortez Masto (D) , D 
 N00037161,committees,1000, Catherine Cortez Masto (D) , D 
 N00037161,committees,500, Catherine Cortez Masto (D) , D 
-N00038397,Agriculture,2000, Maggie Hassan (D) , D 
-N00038397,Agriculture,2500, Maggie Hassan (D) , D 
+N00038397,Agri,2000, Maggie Hassan (D) , D 
+N00038397,Agri,2500, Maggie Hassan (D) , D 
 N00038397,Comms,4000, Maggie Hassan (D) , D 
 N00038397,Comms,6500, Maggie Hassan (D) , D 
 N00038397,Comms,2000, Maggie Hassan (D) , D 
@@ -4607,24 +4607,24 @@ N00038397,Builders,24236, Maggie Hassan (D) , D
 N00038397,General,56, Maggie Hassan (D) , D 
 N00038397,Unions,4500, Maggie Hassan (D) , D 
 N00038397,Unions,1500, Maggie Hassan (D) , D 
-N00038397,Manufacturing,2500, Maggie Hassan (D) , D 
+N00038397,MFG,2500, Maggie Hassan (D) , D 
 N00038397,Transport,2000, Maggie Hassan (D) , D 
 N00038397,Transport,1000, Maggie Hassan (D) , D 
 N00038397,Transport,2000, Maggie Hassan (D) , D 
 N00038397,Transport,1500, Maggie Hassan (D) , D 
 N00038397,Transport,1000, Maggie Hassan (D) , D 
-N00042353,Agriculture,2500, Tina Smith (D) , D 
-N00042353,Agriculture,3000, Tina Smith (D) , D 
-N00042353,Agriculture,30500, Tina Smith (D) , D 
-N00042353,Agriculture,1000, Tina Smith (D) , D 
-N00042353,Agriculture,1000, Tina Smith (D) , D 
-N00042353,Agriculture,9500, Tina Smith (D) , D 
-N00042353,Agriculture,1000, Tina Smith (D) , D 
-N00042353,Agriculture,20500, Tina Smith (D) , D 
-N00042353,Agriculture,3500, Tina Smith (D) , D 
-N00042353,Agriculture,5000, Tina Smith (D) , D 
-N00042353,Agriculture,1000, Tina Smith (D) , D 
-N00042353,Agriculture,8000, Tina Smith (D) , D 
+N00042353,Agri,2500, Tina Smith (D) , D 
+N00042353,Agri,3000, Tina Smith (D) , D 
+N00042353,Agri,30500, Tina Smith (D) , D 
+N00042353,Agri,1000, Tina Smith (D) , D 
+N00042353,Agri,1000, Tina Smith (D) , D 
+N00042353,Agri,9500, Tina Smith (D) , D 
+N00042353,Agri,1000, Tina Smith (D) , D 
+N00042353,Agri,20500, Tina Smith (D) , D 
+N00042353,Agri,3500, Tina Smith (D) , D 
+N00042353,Agri,5000, Tina Smith (D) , D 
+N00042353,Agri,1000, Tina Smith (D) , D 
+N00042353,Agri,8000, Tina Smith (D) , D 
 N00042353,Builders,1000, Tina Smith (D) , D 
 N00042353,Comms,3500, Tina Smith (D) , D 
 N00042353,Comms,7500, Tina Smith (D) , D 
@@ -4707,9 +4707,9 @@ N00042353,General,2500, Tina Smith (D) , D
 N00042353,Unions,15000, Tina Smith (D) , D 
 N00042353,Unions,12500, Tina Smith (D) , D 
 N00042353,Unions,15500, Tina Smith (D) , D 
-N00042353,Manufacturing,5000, Tina Smith (D) , D 
-N00042353,Manufacturing,2000, Tina Smith (D) , D 
-N00042353,Manufacturing,5000, Tina Smith (D) , D 
+N00042353,MFG,5000, Tina Smith (D) , D 
+N00042353,MFG,2000, Tina Smith (D) , D 
+N00042353,MFG,5000, Tina Smith (D) , D 
 N00042353,Transport,10000, Tina Smith (D) , D 
 N00042353,Transport,3000, Tina Smith (D) , D 
 N00042353,Transport,1000, Tina Smith (D) , D 
@@ -4728,13 +4728,13 @@ N00000528,Health,2500, Bernie Sanders (I) , I
 N00000528,Unions,2000, Bernie Sanders (I) , I 
 N00000528,Unions,800, Bernie Sanders (I) , I 
 N00000528,Unions,3500, Bernie Sanders (I) , I 
-N00034580,Agriculture,21000, Angus King (I) , I 
-N00034580,Agriculture,12000, Angus King (I) , I 
-N00034580,Agriculture,2000, Angus King (I) , I 
-N00034580,Agriculture,28500, Angus King (I) , I 
-N00034580,Agriculture,7000, Angus King (I) , I 
-N00034580,Agriculture,1000, Angus King (I) , I 
-N00034580,Agriculture,1000, Angus King (I) , I 
+N00034580,Agri,21000, Angus King (I) , I 
+N00034580,Agri,12000, Angus King (I) , I 
+N00034580,Agri,2000, Angus King (I) , I 
+N00034580,Agri,28500, Angus King (I) , I 
+N00034580,Agri,7000, Angus King (I) , I 
+N00034580,Agri,1000, Angus King (I) , I 
+N00034580,Agri,1000, Angus King (I) , I 
 N00034580,Builders,1000, Angus King (I) , I 
 N00034580,Comms,2500, Angus King (I) , I 
 N00034580,Comms,4500, Angus King (I) , I 
@@ -4836,9 +4836,9 @@ N00034580,Unions,5000, Angus King (I) , I
 N00034580,Unions,5000, Angus King (I) , I 
 N00034580,Unions,6000, Angus King (I) , I 
 N00034580,Unions,15000, Angus King (I) , I 
-N00034580,Manufacturing,2000, Angus King (I) , I 
-N00034580,Manufacturing,6000, Angus King (I) , I 
-N00034580,Manufacturing,1000, Angus King (I) , I 
+N00034580,MFG,2000, Angus King (I) , I 
+N00034580,MFG,6000, Angus King (I) , I 
+N00034580,MFG,1000, Angus King (I) , I 
 N00034580,Transport,5000, Angus King (I) , I 
 N00034580,Transport,1000, Angus King (I) , I 
 N00034580,Transport,5000, Angus King (I) , I 
@@ -4851,10 +4851,10 @@ N00034580,Transport,1000, Angus King (I) , I
 N00034580,Transport,9500, Angus King (I) , I 
 N00034580,committees,3000, Angus King (I) , I 
 N00034580,committees,21674, Angus King (I) , I 
-N00000491,Agriculture,3500, Susan Collins (R) , R 
-N00000491,Agriculture,2000, Susan Collins (R) , R 
-N00000491,Agriculture,5000, Susan Collins (R) , R 
-N00000491,Agriculture,2500, Susan Collins (R) , R 
+N00000491,Agri,3500, Susan Collins (R) , R 
+N00000491,Agri,2000, Susan Collins (R) , R 
+N00000491,Agri,5000, Susan Collins (R) , R 
+N00000491,Agri,2500, Susan Collins (R) , R 
 N00000491,Builders,1000, Susan Collins (R) , R 
 N00000491,Builders,7250, Susan Collins (R) , R 
 N00000491,Comms,1000, Susan Collins (R) , R 
@@ -4926,11 +4926,11 @@ N00000491,Unions,1000, Susan Collins (R) , R
 N00000491,Unions,1000, Susan Collins (R) , R 
 N00000491,Unions,2000, Susan Collins (R) , R 
 N00000491,Unions,6500, Susan Collins (R) , R 
-N00000491,Manufacturing,1000, Susan Collins (R) , R 
-N00000491,Manufacturing,1000, Susan Collins (R) , R 
-N00000491,Manufacturing,2000, Susan Collins (R) , R 
-N00000491,Manufacturing,1000, Susan Collins (R) , R 
-N00000491,Manufacturing,1000, Susan Collins (R) , R 
+N00000491,MFG,1000, Susan Collins (R) , R 
+N00000491,MFG,1000, Susan Collins (R) , R 
+N00000491,MFG,2000, Susan Collins (R) , R 
+N00000491,MFG,1000, Susan Collins (R) , R 
+N00000491,MFG,1000, Susan Collins (R) , R 
 N00000491,Transport,1000, Susan Collins (R) , R 
 N00000491,Transport,6500, Susan Collins (R) , R 
 N00000491,Transport,12500, Susan Collins (R) , R 
@@ -4944,8 +4944,8 @@ N00000491,Transport,2500, Susan Collins (R) , R
 N00000491,Transport,2500, Susan Collins (R) , R 
 N00000491,Govt/NGO,1000, Susan Collins (R) , R 
 N00000491,committees,2000, Susan Collins (R) , R 
-N00001489,Agriculture,5000, Pat Toomey (R) , R 
-N00001489,Agriculture,4000, Pat Toomey (R) , R 
+N00001489,Agri,5000, Pat Toomey (R) , R 
+N00001489,Agri,4000, Pat Toomey (R) , R 
 N00001489,Builders,5000, Pat Toomey (R) , R 
 N00001489,Builders,2500, Pat Toomey (R) , R 
 N00001489,Builders,1000, Pat Toomey (R) , R 
@@ -5041,16 +5041,16 @@ N00001489,Legal,2500, Pat Toomey (R) , R
 N00001489,Unions,1000, Pat Toomey (R) , R 
 N00001489,Comms,5000, Pat Toomey (R) , R 
 N00001489,Unions,4500, Pat Toomey (R) , R 
-N00001489,Manufacturing,1000, Pat Toomey (R) , R 
-N00001489,Manufacturing,7000, Pat Toomey (R) , R 
-N00001489,Manufacturing,5000, Pat Toomey (R) , R 
-N00001489,Manufacturing,3000, Pat Toomey (R) , R 
-N00001489,Manufacturing,4500, Pat Toomey (R) , R 
-N00001489,Manufacturing,0, Pat Toomey (R) , R 
-N00001489,Manufacturing,5000, Pat Toomey (R) , R 
-N00001489,Manufacturing,5000, Pat Toomey (R) , R 
-N00001489,Manufacturing,2000, Pat Toomey (R) , R 
-N00001489,Manufacturing,1666, Pat Toomey (R) , R 
+N00001489,MFG,1000, Pat Toomey (R) , R 
+N00001489,MFG,7000, Pat Toomey (R) , R 
+N00001489,MFG,5000, Pat Toomey (R) , R 
+N00001489,MFG,3000, Pat Toomey (R) , R 
+N00001489,MFG,4500, Pat Toomey (R) , R 
+N00001489,MFG,0, Pat Toomey (R) , R 
+N00001489,MFG,5000, Pat Toomey (R) , R 
+N00001489,MFG,5000, Pat Toomey (R) , R 
+N00001489,MFG,2000, Pat Toomey (R) , R 
+N00001489,MFG,1666, Pat Toomey (R) , R 
 N00001489,Transport,4000, Pat Toomey (R) , R 
 N00001489,Transport,-1000, Pat Toomey (R) , R 
 N00001489,Transport,1000, Pat Toomey (R) , R 
@@ -5060,15 +5060,15 @@ N00001489,Transport,1000, Pat Toomey (R) , R
 N00001489,Transport,200, Pat Toomey (R) , R 
 N00001489,Transport,-2500, Pat Toomey (R) , R 
 N00001489,Transport,5000, Pat Toomey (R) , R 
-N00001758,Agriculture,1000, Chuck Grassley (R) , R 
-N00001758,Agriculture,1000, Chuck Grassley (R) , R 
-N00001758,Agriculture,-2000, Chuck Grassley (R) , R 
-N00001758,Agriculture,2500, Chuck Grassley (R) , R 
-N00001758,Agriculture,1000, Chuck Grassley (R) , R 
-N00001758,Agriculture,-2500, Chuck Grassley (R) , R 
-N00001758,Agriculture,1000, Chuck Grassley (R) , R 
-N00001758,Agriculture,1000, Chuck Grassley (R) , R 
-N00001758,Agriculture,5000, Chuck Grassley (R) , R 
+N00001758,Agri,1000, Chuck Grassley (R) , R 
+N00001758,Agri,1000, Chuck Grassley (R) , R 
+N00001758,Agri,-2000, Chuck Grassley (R) , R 
+N00001758,Agri,2500, Chuck Grassley (R) , R 
+N00001758,Agri,1000, Chuck Grassley (R) , R 
+N00001758,Agri,-2500, Chuck Grassley (R) , R 
+N00001758,Agri,1000, Chuck Grassley (R) , R 
+N00001758,Agri,1000, Chuck Grassley (R) , R 
+N00001758,Agri,5000, Chuck Grassley (R) , R 
 N00001758,Comms,3000, Chuck Grassley (R) , R 
 N00001758,Comms,2500, Chuck Grassley (R) , R 
 N00001758,Comms,1000, Chuck Grassley (R) , R 
@@ -5109,11 +5109,11 @@ N00001758,Policy,1000, Chuck Grassley (R) , R
 N00001758,Legal,5000, Chuck Grassley (R) , R 
 N00001758,Legal,2500, Chuck Grassley (R) , R 
 N00001758,Unions,1000, Chuck Grassley (R) , R 
-N00001758,Manufacturing,0, Chuck Grassley (R) , R 
-N00001758,Manufacturing,2500, Chuck Grassley (R) , R 
-N00001758,Manufacturing,1000, Chuck Grassley (R) , R 
-N00001758,Manufacturing,1000, Chuck Grassley (R) , R 
-N00001758,Manufacturing,-2500, Chuck Grassley (R) , R 
+N00001758,MFG,0, Chuck Grassley (R) , R 
+N00001758,MFG,2500, Chuck Grassley (R) , R 
+N00001758,MFG,1000, Chuck Grassley (R) , R 
+N00001758,MFG,1000, Chuck Grassley (R) , R 
+N00001758,MFG,-2500, Chuck Grassley (R) , R 
 N00001758,Transport,1000, Chuck Grassley (R) , R 
 N00001758,Transport,2500, Chuck Grassley (R) , R 
 N00001758,Transport,500, Chuck Grassley (R) , R 
@@ -5146,17 +5146,17 @@ N00002221,Health,1000, Richard Burr (R) , R
 N00002221,Health,1000, Richard Burr (R) , R 
 N00002221,Policy,861, Richard Burr (R) , R 
 N00002221,Policy,0, Richard Burr (R) , R 
-N00002221,Manufacturing,2500, Richard Burr (R) , R 
-N00002221,Manufacturing,2000, Richard Burr (R) , R 
-N00002221,Manufacturing,-2000, Richard Burr (R) , R 
+N00002221,MFG,2500, Richard Burr (R) , R 
+N00002221,MFG,2000, Richard Burr (R) , R 
+N00002221,MFG,-2000, Richard Burr (R) , R 
 N00002221,Transport,2500, Richard Burr (R) , R 
 N00002221,Transport,-500, Richard Burr (R) , R 
 N00002221,Govt/NGO,2500, Richard Burr (R) , R 
 N00002221,committees,0, Richard Burr (R) , R 
-N00002593,Agriculture,2500, Johnny Isakson (R) , R 
-N00002593,Agriculture,3500, Johnny Isakson (R) , R 
-N00002593,Agriculture,3500, Johnny Isakson (R) , R 
-N00002593,Agriculture,5500, Johnny Isakson (R) , R 
+N00002593,Agri,2500, Johnny Isakson (R) , R 
+N00002593,Agri,3500, Johnny Isakson (R) , R 
+N00002593,Agri,3500, Johnny Isakson (R) , R 
+N00002593,Agri,5500, Johnny Isakson (R) , R 
 N00002593,Builders,4500, Johnny Isakson (R) , R 
 N00002593,Builders,2000, Johnny Isakson (R) , R 
 N00002593,Comms,8000, Johnny Isakson (R) , R 
@@ -5221,16 +5221,16 @@ N00002593,Energy,1000, Johnny Isakson (R) , R
 N00002593,Legal,6000, Johnny Isakson (R) , R 
 N00002593,Legal,3500, Johnny Isakson (R) , R 
 N00002593,Unions,6000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,1000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,0, Johnny Isakson (R) , R 
-N00002593,Manufacturing,6000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,1000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,2500, Johnny Isakson (R) , R 
-N00002593,Manufacturing,2500, Johnny Isakson (R) , R 
-N00002593,Manufacturing,1000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,3000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,5000, Johnny Isakson (R) , R 
-N00002593,Manufacturing,1000, Johnny Isakson (R) , R 
+N00002593,MFG,1000, Johnny Isakson (R) , R 
+N00002593,MFG,0, Johnny Isakson (R) , R 
+N00002593,MFG,6000, Johnny Isakson (R) , R 
+N00002593,MFG,1000, Johnny Isakson (R) , R 
+N00002593,MFG,2500, Johnny Isakson (R) , R 
+N00002593,MFG,2500, Johnny Isakson (R) , R 
+N00002593,MFG,1000, Johnny Isakson (R) , R 
+N00002593,MFG,3000, Johnny Isakson (R) , R 
+N00002593,MFG,5000, Johnny Isakson (R) , R 
+N00002593,MFG,1000, Johnny Isakson (R) , R 
 N00002593,Transport,2500, Johnny Isakson (R) , R 
 N00002593,Transport,2000, Johnny Isakson (R) , R 
 N00002593,Transport,2000, Johnny Isakson (R) , R 
@@ -5239,20 +5239,20 @@ N00002593,Transport,0, Johnny Isakson (R) , R
 N00002593,Transport,12500, Johnny Isakson (R) , R 
 N00002593,Transport,-2500, Johnny Isakson (R) , R 
 N00002593,Govt/NGO,0, Johnny Isakson (R) , R 
-N00003280,Agriculture,3000, Roger Wicker (R) , R 
-N00003280,Agriculture,22500, Roger Wicker (R) , R 
-N00003280,Agriculture,2500, Roger Wicker (R) , R 
-N00003280,Agriculture,15000, Roger Wicker (R) , R 
-N00003280,Agriculture,4000, Roger Wicker (R) , R 
-N00003280,Agriculture,17000, Roger Wicker (R) , R 
-N00003280,Agriculture,5000, Roger Wicker (R) , R 
-N00003280,Agriculture,3000, Roger Wicker (R) , R 
-N00003280,Agriculture,6500, Roger Wicker (R) , R 
-N00003280,Agriculture,2000, Roger Wicker (R) , R 
-N00003280,Agriculture,10000, Roger Wicker (R) , R 
-N00003280,Agriculture,26000, Roger Wicker (R) , R 
-N00003280,Agriculture,11000, Roger Wicker (R) , R 
-N00003280,Agriculture,2000, Roger Wicker (R) , R 
+N00003280,Agri,3000, Roger Wicker (R) , R 
+N00003280,Agri,22500, Roger Wicker (R) , R 
+N00003280,Agri,2500, Roger Wicker (R) , R 
+N00003280,Agri,15000, Roger Wicker (R) , R 
+N00003280,Agri,4000, Roger Wicker (R) , R 
+N00003280,Agri,17000, Roger Wicker (R) , R 
+N00003280,Agri,5000, Roger Wicker (R) , R 
+N00003280,Agri,3000, Roger Wicker (R) , R 
+N00003280,Agri,6500, Roger Wicker (R) , R 
+N00003280,Agri,2000, Roger Wicker (R) , R 
+N00003280,Agri,10000, Roger Wicker (R) , R 
+N00003280,Agri,26000, Roger Wicker (R) , R 
+N00003280,Agri,11000, Roger Wicker (R) , R 
+N00003280,Agri,2000, Roger Wicker (R) , R 
 N00003280,Builders,10000, Roger Wicker (R) , R 
 N00003280,Builders,8500, Roger Wicker (R) , R 
 N00003280,Builders,5500, Roger Wicker (R) , R 
@@ -5373,14 +5373,14 @@ N00003280,Legal,12500, Roger Wicker (R) , R
 N00003280,Unions,11000, Roger Wicker (R) , R 
 N00003280,Unions,13500, Roger Wicker (R) , R 
 N00003280,Unions,2500, Roger Wicker (R) , R 
-N00003280,Manufacturing,10500, Roger Wicker (R) , R 
-N00003280,Manufacturing,5500, Roger Wicker (R) , R 
-N00003280,Manufacturing,1000, Roger Wicker (R) , R 
-N00003280,Manufacturing,2000, Roger Wicker (R) , R 
-N00003280,Manufacturing,6000, Roger Wicker (R) , R 
-N00003280,Manufacturing,1000, Roger Wicker (R) , R 
-N00003280,Manufacturing,1000, Roger Wicker (R) , R 
-N00003280,Manufacturing,2000, Roger Wicker (R) , R 
+N00003280,MFG,10500, Roger Wicker (R) , R 
+N00003280,MFG,5500, Roger Wicker (R) , R 
+N00003280,MFG,1000, Roger Wicker (R) , R 
+N00003280,MFG,2000, Roger Wicker (R) , R 
+N00003280,MFG,6000, Roger Wicker (R) , R 
+N00003280,MFG,1000, Roger Wicker (R) , R 
+N00003280,MFG,1000, Roger Wicker (R) , R 
+N00003280,MFG,2000, Roger Wicker (R) , R 
 N00003280,Transport,2500, Roger Wicker (R) , R 
 N00003280,Transport,13000, Roger Wicker (R) , R 
 N00003280,Transport,9000, Roger Wicker (R) , R 
@@ -5408,15 +5408,15 @@ N00003280,Transport,2500, Roger Wicker (R) , R
 N00003280,Govt/NGO,6000, Roger Wicker (R) , R 
 N00003280,committees,3000, Roger Wicker (R) , R 
 N00003280,committees,61095, Roger Wicker (R) , R 
-N00003389,Agriculture,1000, Mitch McConnell (R) , R 
-N00003389,Agriculture,4500, Mitch McConnell (R) , R 
-N00003389,Agriculture,4500, Mitch McConnell (R) , R 
-N00003389,Agriculture,3500, Mitch McConnell (R) , R 
-N00003389,Agriculture,6000, Mitch McConnell (R) , R 
-N00003389,Agriculture,2500, Mitch McConnell (R) , R 
-N00003389,Agriculture,2500, Mitch McConnell (R) , R 
-N00003389,Agriculture,5000, Mitch McConnell (R) , R 
-N00003389,Agriculture,2500, Mitch McConnell (R) , R 
+N00003389,Agri,1000, Mitch McConnell (R) , R 
+N00003389,Agri,4500, Mitch McConnell (R) , R 
+N00003389,Agri,4500, Mitch McConnell (R) , R 
+N00003389,Agri,3500, Mitch McConnell (R) , R 
+N00003389,Agri,6000, Mitch McConnell (R) , R 
+N00003389,Agri,2500, Mitch McConnell (R) , R 
+N00003389,Agri,2500, Mitch McConnell (R) , R 
+N00003389,Agri,5000, Mitch McConnell (R) , R 
+N00003389,Agri,2500, Mitch McConnell (R) , R 
 N00003389,Builders,7500, Mitch McConnell (R) , R 
 N00003389,Builders,1000, Mitch McConnell (R) , R 
 N00003389,Builders,15000, Mitch McConnell (R) , R 
@@ -5499,19 +5499,19 @@ N00003389,Unions,2700, Mitch McConnell (R) , R
 N00003389,Energy,2500, Mitch McConnell (R) , R 
 N00003389,Unions,2500, Mitch McConnell (R) , R 
 N00003389,Unions,2500, Mitch McConnell (R) , R 
-N00003389,Manufacturing,10000, Mitch McConnell (R) , R 
-N00003389,Manufacturing,2500, Mitch McConnell (R) , R 
-N00003389,Manufacturing,5700, Mitch McConnell (R) , R 
-N00003389,Manufacturing,1000, Mitch McConnell (R) , R 
+N00003389,MFG,10000, Mitch McConnell (R) , R 
+N00003389,MFG,2500, Mitch McConnell (R) , R 
+N00003389,MFG,5700, Mitch McConnell (R) , R 
+N00003389,MFG,1000, Mitch McConnell (R) , R 
 N00003389,Transport,20000, Mitch McConnell (R) , R 
 N00003389,Transport,10000, Mitch McConnell (R) , R 
 N00003389,Transport,5000, Mitch McConnell (R) , R 
 N00003389,Transport,12500, Mitch McConnell (R) , R 
 N00003389,Transport,2500, Mitch McConnell (R) , R 
-N00003682,Agriculture,1000, Rob Portman (R) , R 
-N00003682,Agriculture,1000, Rob Portman (R) , R 
-N00003682,Agriculture,2000, Rob Portman (R) , R 
-N00003682,Agriculture,1000, Rob Portman (R) , R 
+N00003682,Agri,1000, Rob Portman (R) , R 
+N00003682,Agri,1000, Rob Portman (R) , R 
+N00003682,Agri,2000, Rob Portman (R) , R 
+N00003682,Agri,1000, Rob Portman (R) , R 
 N00003682,Builders,11000, Rob Portman (R) , R 
 N00003682,Builders,3000, Rob Portman (R) , R 
 N00003682,Builders,1000, Rob Portman (R) , R 
@@ -5614,19 +5614,19 @@ N00003682,Legal,3000, Rob Portman (R) , R
 N00003682,Legal,500, Rob Portman (R) , R 
 N00003682,Builders,5000, Rob Portman (R) , R 
 N00003682,Unions,6500, Rob Portman (R) , R 
-N00003682,Manufacturing,2000, Rob Portman (R) , R 
-N00003682,Manufacturing,11000, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
-N00003682,Manufacturing,2000, Rob Portman (R) , R 
-N00003682,Manufacturing,7000, Rob Portman (R) , R 
-N00003682,Manufacturing,6000, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
-N00003682,Manufacturing,5000, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
-N00003682,Manufacturing,1666, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
-N00003682,Manufacturing,2500, Rob Portman (R) , R 
+N00003682,MFG,2000, Rob Portman (R) , R 
+N00003682,MFG,11000, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
+N00003682,MFG,2000, Rob Portman (R) , R 
+N00003682,MFG,7000, Rob Portman (R) , R 
+N00003682,MFG,6000, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
+N00003682,MFG,5000, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
+N00003682,MFG,1666, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
+N00003682,MFG,2500, Rob Portman (R) , R 
 N00003682,Transport,5500, Rob Portman (R) , R 
 N00003682,Transport,2700, Rob Portman (R) , R 
 N00003682,Transport,2000, Rob Portman (R) , R 
@@ -5636,15 +5636,15 @@ N00003682,Transport,1000, Rob Portman (R) , R
 N00003682,Transport,4000, Rob Portman (R) , R 
 N00003682,Transport,2500, Rob Portman (R) , R 
 N00003682,committees,1500, Rob Portman (R) , R 
-N00004572,Agriculture,2500, John Thune (R) , R 
-N00004572,Agriculture,4500, John Thune (R) , R 
-N00004572,Agriculture,4000, John Thune (R) , R 
-N00004572,Agriculture,1500, John Thune (R) , R 
-N00004572,Agriculture,2000, John Thune (R) , R 
-N00004572,Agriculture,8500, John Thune (R) , R 
-N00004572,Agriculture,1500, John Thune (R) , R 
-N00004572,Agriculture,4000, John Thune (R) , R 
-N00004572,Agriculture,6500, John Thune (R) , R 
+N00004572,Agri,2500, John Thune (R) , R 
+N00004572,Agri,4500, John Thune (R) , R 
+N00004572,Agri,4000, John Thune (R) , R 
+N00004572,Agri,1500, John Thune (R) , R 
+N00004572,Agri,2000, John Thune (R) , R 
+N00004572,Agri,8500, John Thune (R) , R 
+N00004572,Agri,1500, John Thune (R) , R 
+N00004572,Agri,4000, John Thune (R) , R 
+N00004572,Agri,6500, John Thune (R) , R 
 N00004572,Builders,2500, John Thune (R) , R 
 N00004572,Builders,2500, John Thune (R) , R 
 N00004572,Builders,11500, John Thune (R) , R 
@@ -5732,12 +5732,12 @@ N00004572,Legal,9000, John Thune (R) , R
 N00004572,Legal,5000, John Thune (R) , R 
 N00004572,Unions,5000, John Thune (R) , R 
 N00004572,Unions,7000, John Thune (R) , R 
-N00004572,Manufacturing,4500, John Thune (R) , R 
-N00004572,Manufacturing,3500, John Thune (R) , R 
-N00004572,Manufacturing,3500, John Thune (R) , R 
-N00004572,Manufacturing,4000, John Thune (R) , R 
-N00004572,Manufacturing,-1000, John Thune (R) , R 
-N00004572,Manufacturing,500, John Thune (R) , R 
+N00004572,MFG,4500, John Thune (R) , R 
+N00004572,MFG,3500, John Thune (R) , R 
+N00004572,MFG,3500, John Thune (R) , R 
+N00004572,MFG,4000, John Thune (R) , R 
+N00004572,MFG,-1000, John Thune (R) , R 
+N00004572,MFG,500, John Thune (R) , R 
 N00004572,Transport,5000, John Thune (R) , R 
 N00004572,Transport,4000, John Thune (R) , R 
 N00004572,Transport,4500, John Thune (R) , R 
@@ -5755,13 +5755,13 @@ N00004572,Transport,5000, John Thune (R) , R
 N00004572,Transport,1500, John Thune (R) , R 
 N00004572,Transport,2500, John Thune (R) , R 
 N00004572,Govt/NGO,1000, John Thune (R) , R 
-N00005282,Agriculture,1000, Jerry Moran (R) , R 
-N00005282,Agriculture,3500, Jerry Moran (R) , R 
-N00005282,Agriculture,8250, Jerry Moran (R) , R 
-N00005282,Agriculture,2500, Jerry Moran (R) , R 
-N00005282,Agriculture,-2000, Jerry Moran (R) , R 
-N00005282,Agriculture,2500, Jerry Moran (R) , R 
-N00005282,Agriculture,3500, Jerry Moran (R) , R 
+N00005282,Agri,1000, Jerry Moran (R) , R 
+N00005282,Agri,3500, Jerry Moran (R) , R 
+N00005282,Agri,8250, Jerry Moran (R) , R 
+N00005282,Agri,2500, Jerry Moran (R) , R 
+N00005282,Agri,-2000, Jerry Moran (R) , R 
+N00005282,Agri,2500, Jerry Moran (R) , R 
+N00005282,Agri,3500, Jerry Moran (R) , R 
 N00005282,Comms,2000, Jerry Moran (R) , R 
 N00005282,Comms,5500, Jerry Moran (R) , R 
 N00005282,Comms,7000, Jerry Moran (R) , R 
@@ -5819,9 +5819,9 @@ N00005282,Legal,5500, Jerry Moran (R) , R
 N00005282,Legal,1000, Jerry Moran (R) , R 
 N00005282,Unions,1000, Jerry Moran (R) , R 
 N00005282,Unions,8000, Jerry Moran (R) , R 
-N00005282,Manufacturing,9000, Jerry Moran (R) , R 
-N00005282,Manufacturing,1000, Jerry Moran (R) , R 
-N00005282,Manufacturing,1000, Jerry Moran (R) , R 
+N00005282,MFG,9000, Jerry Moran (R) , R 
+N00005282,MFG,1000, Jerry Moran (R) , R 
+N00005282,MFG,1000, Jerry Moran (R) , R 
 N00005282,Transport,1500, Jerry Moran (R) , R 
 N00005282,Transport,2000, Jerry Moran (R) , R 
 N00005282,Transport,0, Jerry Moran (R) , R 
@@ -5832,25 +5832,25 @@ N00005282,Transport,3000, Jerry Moran (R) , R
 N00005282,Transport,1000, Jerry Moran (R) , R 
 N00005282,Transport,1500, Jerry Moran (R) , R 
 N00005282,Govt/NGO,1000, Jerry Moran (R) , R 
-N00005285,Agriculture,2000, Pat Roberts (R) , R 
-N00005285,Agriculture,500, Pat Roberts (R) , R 
-N00005285,Agriculture,9000, Pat Roberts (R) , R 
-N00005285,Agriculture,14000, Pat Roberts (R) , R 
-N00005285,Agriculture,5500, Pat Roberts (R) , R 
-N00005285,Agriculture,8000, Pat Roberts (R) , R 
-N00005285,Agriculture,12000, Pat Roberts (R) , R 
-N00005285,Agriculture,6500, Pat Roberts (R) , R 
-N00005285,Agriculture,11000, Pat Roberts (R) , R 
-N00005285,Agriculture,8000, Pat Roberts (R) , R 
-N00005285,Agriculture,6000, Pat Roberts (R) , R 
-N00005285,Agriculture,1500, Pat Roberts (R) , R 
-N00005285,Agriculture,11000, Pat Roberts (R) , R 
-N00005285,Agriculture,6000, Pat Roberts (R) , R 
-N00005285,Agriculture,6000, Pat Roberts (R) , R 
-N00005285,Agriculture,4000, Pat Roberts (R) , R 
-N00005285,Agriculture,4000, Pat Roberts (R) , R 
-N00005285,Agriculture,8500, Pat Roberts (R) , R 
-N00005285,Agriculture,1000, Pat Roberts (R) , R 
+N00005285,Agri,2000, Pat Roberts (R) , R 
+N00005285,Agri,500, Pat Roberts (R) , R 
+N00005285,Agri,9000, Pat Roberts (R) , R 
+N00005285,Agri,14000, Pat Roberts (R) , R 
+N00005285,Agri,5500, Pat Roberts (R) , R 
+N00005285,Agri,8000, Pat Roberts (R) , R 
+N00005285,Agri,12000, Pat Roberts (R) , R 
+N00005285,Agri,6500, Pat Roberts (R) , R 
+N00005285,Agri,11000, Pat Roberts (R) , R 
+N00005285,Agri,8000, Pat Roberts (R) , R 
+N00005285,Agri,6000, Pat Roberts (R) , R 
+N00005285,Agri,1500, Pat Roberts (R) , R 
+N00005285,Agri,11000, Pat Roberts (R) , R 
+N00005285,Agri,6000, Pat Roberts (R) , R 
+N00005285,Agri,6000, Pat Roberts (R) , R 
+N00005285,Agri,4000, Pat Roberts (R) , R 
+N00005285,Agri,4000, Pat Roberts (R) , R 
+N00005285,Agri,8500, Pat Roberts (R) , R 
+N00005285,Agri,1000, Pat Roberts (R) , R 
 N00005285,Builders,5000, Pat Roberts (R) , R 
 N00005285,Comms,10000, Pat Roberts (R) , R 
 N00005285,Comms,1000, Pat Roberts (R) , R 
@@ -5907,7 +5907,7 @@ N00005285,Policy,861, Pat Roberts (R) , R
 N00005285,Legal,6500, Pat Roberts (R) , R 
 N00005285,Legal,500, Pat Roberts (R) , R 
 N00005285,Unions,1000, Pat Roberts (R) , R 
-N00005285,Manufacturing,3000, Pat Roberts (R) , R 
+N00005285,MFG,3000, Pat Roberts (R) , R 
 N00005285,Transport,2500, Pat Roberts (R) , R 
 N00005285,Transport,2000, Pat Roberts (R) , R 
 N00005285,Transport,1000, Pat Roberts (R) , R 
@@ -5915,11 +5915,11 @@ N00005285,Transport,1500, Pat Roberts (R) , R
 N00005285,Govt/NGO,1000, Pat Roberts (R) , R 
 N00005285,committees,-654, Pat Roberts (R) , R 
 N00005285,committees,-2000, Pat Roberts (R) , R 
-N00005582,Agriculture,3000, James M Inhofe (R) , R 
-N00005582,Agriculture,1000, James M Inhofe (R) , R 
-N00005582,Agriculture,1000, James M Inhofe (R) , R 
-N00005582,Agriculture,2500, James M Inhofe (R) , R 
-N00005582,Agriculture,3500, James M Inhofe (R) , R 
+N00005582,Agri,3000, James M Inhofe (R) , R 
+N00005582,Agri,1000, James M Inhofe (R) , R 
+N00005582,Agri,1000, James M Inhofe (R) , R 
+N00005582,Agri,2500, James M Inhofe (R) , R 
+N00005582,Agri,3500, James M Inhofe (R) , R 
 N00005582,Builders,5000, James M Inhofe (R) , R 
 N00005582,Builders,4500, James M Inhofe (R) , R 
 N00005582,Builders,5500, James M Inhofe (R) , R 
@@ -5971,10 +5971,10 @@ N00005582,Energy,5000, James M Inhofe (R) , R
 N00005582,Legal,10000, James M Inhofe (R) , R 
 N00005582,Unions,2500, James M Inhofe (R) , R 
 N00005582,Unions,7000, James M Inhofe (R) , R 
-N00005582,Manufacturing,12500, James M Inhofe (R) , R 
-N00005582,Manufacturing,1500, James M Inhofe (R) , R 
-N00005582,Manufacturing,2451, James M Inhofe (R) , R 
-N00005582,Manufacturing,1000, James M Inhofe (R) , R 
+N00005582,MFG,12500, James M Inhofe (R) , R 
+N00005582,MFG,1500, James M Inhofe (R) , R 
+N00005582,MFG,2451, James M Inhofe (R) , R 
+N00005582,MFG,1000, James M Inhofe (R) , R 
 N00005582,Transport,5000, James M Inhofe (R) , R 
 N00005582,Transport,2000, James M Inhofe (R) , R 
 N00005582,Transport,8500, James M Inhofe (R) , R 
@@ -5993,17 +5993,17 @@ N00005582,Transport,1000, James M Inhofe (R) , R
 N00005582,Transport,2500, James M Inhofe (R) , R 
 N00005582,Transport,5000, James M Inhofe (R) , R 
 N00005582,committees,4000, James M Inhofe (R) , R 
-N00006236,Agriculture,5500, John A Barrasso (R) , R 
-N00006236,Agriculture,1000, John A Barrasso (R) , R 
-N00006236,Agriculture,25500, John A Barrasso (R) , R 
-N00006236,Agriculture,3000, John A Barrasso (R) , R 
-N00006236,Agriculture,15000, John A Barrasso (R) , R 
-N00006236,Agriculture,10000, John A Barrasso (R) , R 
-N00006236,Agriculture,7000, John A Barrasso (R) , R 
-N00006236,Agriculture,10000, John A Barrasso (R) , R 
-N00006236,Agriculture,16000, John A Barrasso (R) , R 
-N00006236,Agriculture,11000, John A Barrasso (R) , R 
-N00006236,Agriculture,3500, John A Barrasso (R) , R 
+N00006236,Agri,5500, John A Barrasso (R) , R 
+N00006236,Agri,1000, John A Barrasso (R) , R 
+N00006236,Agri,25500, John A Barrasso (R) , R 
+N00006236,Agri,3000, John A Barrasso (R) , R 
+N00006236,Agri,15000, John A Barrasso (R) , R 
+N00006236,Agri,10000, John A Barrasso (R) , R 
+N00006236,Agri,7000, John A Barrasso (R) , R 
+N00006236,Agri,10000, John A Barrasso (R) , R 
+N00006236,Agri,16000, John A Barrasso (R) , R 
+N00006236,Agri,11000, John A Barrasso (R) , R 
+N00006236,Agri,3500, John A Barrasso (R) , R 
 N00006236,Builders,5000, John A Barrasso (R) , R 
 N00006236,Builders,23500, John A Barrasso (R) , R 
 N00006236,Builders,6000, John A Barrasso (R) , R 
@@ -6135,17 +6135,17 @@ N00006236,Legal,8050, John A Barrasso (R) , R
 N00006236,Legal,3500, John A Barrasso (R) , R 
 N00006236,Unions,2000, John A Barrasso (R) , R 
 N00006236,Unions,3000, John A Barrasso (R) , R 
-N00006236,Manufacturing,227704, John A Barrasso (R) , R 
-N00006236,Manufacturing,3000, John A Barrasso (R) , R 
-N00006236,Manufacturing,7200, John A Barrasso (R) , R 
-N00006236,Manufacturing,12500, John A Barrasso (R) , R 
-N00006236,Manufacturing,2500, John A Barrasso (R) , R 
-N00006236,Manufacturing,2500, John A Barrasso (R) , R 
-N00006236,Manufacturing,4000, John A Barrasso (R) , R 
-N00006236,Manufacturing,7000, John A Barrasso (R) , R 
-N00006236,Manufacturing,2500, John A Barrasso (R) , R 
-N00006236,Manufacturing,1000, John A Barrasso (R) , R 
-N00006236,Manufacturing,1000, John A Barrasso (R) , R 
+N00006236,MFG,227704, John A Barrasso (R) , R 
+N00006236,MFG,3000, John A Barrasso (R) , R 
+N00006236,MFG,7200, John A Barrasso (R) , R 
+N00006236,MFG,12500, John A Barrasso (R) , R 
+N00006236,MFG,2500, John A Barrasso (R) , R 
+N00006236,MFG,2500, John A Barrasso (R) , R 
+N00006236,MFG,4000, John A Barrasso (R) , R 
+N00006236,MFG,7000, John A Barrasso (R) , R 
+N00006236,MFG,2500, John A Barrasso (R) , R 
+N00006236,MFG,1000, John A Barrasso (R) , R 
+N00006236,MFG,1000, John A Barrasso (R) , R 
 N00006236,Transport,8000, John A Barrasso (R) , R 
 N00006236,Transport,1000, John A Barrasso (R) , R 
 N00006236,Transport,1000, John A Barrasso (R) , R 
@@ -6169,8 +6169,8 @@ N00006236,Transport,20000, John A Barrasso (R) , R
 N00006236,Transport,5000, John A Barrasso (R) , R 
 N00006236,committees,2631, John A Barrasso (R) , R 
 N00006236,committees,5500, John A Barrasso (R) , R 
-N00006249,Agriculture,1000, Mike Enzi (R) , R 
-N00006249,Agriculture,2500, Mike Enzi (R) , R 
+N00006249,Agri,1000, Mike Enzi (R) , R 
+N00006249,Agri,2500, Mike Enzi (R) , R 
 N00006249,Comms,1000, Mike Enzi (R) , R 
 N00006249,Comms,2000, Mike Enzi (R) , R 
 N00006249,Comms,1000, Mike Enzi (R) , R 
@@ -6195,18 +6195,18 @@ N00006249,Health,6000, Mike Enzi (R) , R
 N00006249,Health,2000, Mike Enzi (R) , R 
 N00006249,Policy,861, Mike Enzi (R) , R 
 N00006249,Legal,1000, Mike Enzi (R) , R 
-N00006249,Manufacturing,4500, Mike Enzi (R) , R 
-N00006249,Manufacturing,2000, Mike Enzi (R) , R 
-N00006249,Manufacturing,2000, Mike Enzi (R) , R 
-N00006249,Manufacturing,2500, Mike Enzi (R) , R 
+N00006249,MFG,4500, Mike Enzi (R) , R 
+N00006249,MFG,2000, Mike Enzi (R) , R 
+N00006249,MFG,2000, Mike Enzi (R) , R 
+N00006249,MFG,2500, Mike Enzi (R) , R 
 N00006249,Transport,1000, Mike Enzi (R) , R 
 N00006249,Transport,1000, Mike Enzi (R) , R 
-N00006267,Agriculture,3000, Mike Crapo (R) , R 
-N00006267,Agriculture,1500, Mike Crapo (R) , R 
-N00006267,Agriculture,2500, Mike Crapo (R) , R 
-N00006267,Agriculture,3500, Mike Crapo (R) , R 
-N00006267,Agriculture,3000, Mike Crapo (R) , R 
-N00006267,Agriculture,2500, Mike Crapo (R) , R 
+N00006267,Agri,3000, Mike Crapo (R) , R 
+N00006267,Agri,1500, Mike Crapo (R) , R 
+N00006267,Agri,2500, Mike Crapo (R) , R 
+N00006267,Agri,3500, Mike Crapo (R) , R 
+N00006267,Agri,3000, Mike Crapo (R) , R 
+N00006267,Agri,2500, Mike Crapo (R) , R 
 N00006267,Builders,9000, Mike Crapo (R) , R 
 N00006267,Builders,8000, Mike Crapo (R) , R 
 N00006267,Builders,2500, Mike Crapo (R) , R 
@@ -6302,22 +6302,22 @@ N00006267,Legal,6000, Mike Crapo (R) , R
 N00006267,Legal,1000, Mike Crapo (R) , R 
 N00006267,Unions,1000, Mike Crapo (R) , R 
 N00006267,Unions,2500, Mike Crapo (R) , R 
-N00006267,Manufacturing,6000, Mike Crapo (R) , R 
-N00006267,Manufacturing,2000, Mike Crapo (R) , R 
-N00006267,Manufacturing,1500, Mike Crapo (R) , R 
-N00006267,Manufacturing,7000, Mike Crapo (R) , R 
-N00006267,Manufacturing,1000, Mike Crapo (R) , R 
-N00006267,Manufacturing,2000, Mike Crapo (R) , R 
-N00006267,Manufacturing,-918, Mike Crapo (R) , R 
+N00006267,MFG,6000, Mike Crapo (R) , R 
+N00006267,MFG,2000, Mike Crapo (R) , R 
+N00006267,MFG,1500, Mike Crapo (R) , R 
+N00006267,MFG,7000, Mike Crapo (R) , R 
+N00006267,MFG,1000, Mike Crapo (R) , R 
+N00006267,MFG,2000, Mike Crapo (R) , R 
+N00006267,MFG,-918, Mike Crapo (R) , R 
 N00006267,Transport,2500, Mike Crapo (R) , R 
 N00006267,Transport,7495, Mike Crapo (R) , R 
 N00006267,Transport,10250, Mike Crapo (R) , R 
 N00006267,Transport,1500, Mike Crapo (R) , R 
 N00006267,Transport,6500, Mike Crapo (R) , R 
 N00006267,committees,1000, Mike Crapo (R) , R 
-N00009573,Agriculture,5000, Jeff Flake (R) , R 
-N00009573,Agriculture,5000, Jeff Flake (R) , R 
-N00009573,Agriculture,1000, Jeff Flake (R) , R 
+N00009573,Agri,5000, Jeff Flake (R) , R 
+N00009573,Agri,5000, Jeff Flake (R) , R 
+N00009573,Agri,1000, Jeff Flake (R) , R 
 N00009573,Builders,5000, Jeff Flake (R) , R 
 N00009573,Builders,5000, Jeff Flake (R) , R 
 N00009573,Builders,5400, Jeff Flake (R) , R 
@@ -6433,10 +6433,10 @@ N00009573,Legal,37575, Jeff Flake (R) , R
 N00009573,Legal,10500, Jeff Flake (R) , R 
 N00009573,Legal,2000, Jeff Flake (R) , R 
 N00009573,Unions,1000, Jeff Flake (R) , R 
-N00009573,Manufacturing,8000, Jeff Flake (R) , R 
-N00009573,Manufacturing,7500, Jeff Flake (R) , R 
-N00009573,Manufacturing,1000, Jeff Flake (R) , R 
-N00009573,Manufacturing,1000, Jeff Flake (R) , R 
+N00009573,MFG,8000, Jeff Flake (R) , R 
+N00009573,MFG,7500, Jeff Flake (R) , R 
+N00009573,MFG,1000, Jeff Flake (R) , R 
+N00009573,MFG,1000, Jeff Flake (R) , R 
 N00009573,Transport,-500, Jeff Flake (R) , R 
 N00009573,Transport,2000, Jeff Flake (R) , R 
 N00009573,Transport,2500, Jeff Flake (R) , R 
@@ -6453,8 +6453,8 @@ N00009573,Transport,22500, Jeff Flake (R) , R
 N00009573,Transport,1000, Jeff Flake (R) , R 
 N00009573,committees,47400, Jeff Flake (R) , R 
 N00009573,committees,10000, Jeff Flake (R) , R 
-N00009771,Agriculture,1500, Shelley Moore Capito (R) , R 
-N00009771,Agriculture,5500, Shelley Moore Capito (R) , R 
+N00009771,Agri,1500, Shelley Moore Capito (R) , R 
+N00009771,Agri,5500, Shelley Moore Capito (R) , R 
 N00009771,Builders,1000, Shelley Moore Capito (R) , R 
 N00009771,Builders,2000, Shelley Moore Capito (R) , R 
 N00009771,Builders,1000, Shelley Moore Capito (R) , R 
@@ -6534,13 +6534,13 @@ N00009771,Energy,3000, Shelley Moore Capito (R) , R
 N00009771,Unions,2500, Shelley Moore Capito (R) , R 
 N00009771,Unions,7500, Shelley Moore Capito (R) , R 
 N00009771,Unions,2500, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,7000, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,2000, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,3000, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,4500, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,2500, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,1000, Shelley Moore Capito (R) , R 
-N00009771,Manufacturing,1000, Shelley Moore Capito (R) , R 
+N00009771,MFG,7000, Shelley Moore Capito (R) , R 
+N00009771,MFG,2000, Shelley Moore Capito (R) , R 
+N00009771,MFG,3000, Shelley Moore Capito (R) , R 
+N00009771,MFG,4500, Shelley Moore Capito (R) , R 
+N00009771,MFG,2500, Shelley Moore Capito (R) , R 
+N00009771,MFG,1000, Shelley Moore Capito (R) , R 
+N00009771,MFG,1000, Shelley Moore Capito (R) , R 
 N00009771,Transport,7000, Shelley Moore Capito (R) , R 
 N00009771,Transport,3500, Shelley Moore Capito (R) , R 
 N00009771,Transport,1000, Shelley Moore Capito (R) , R 
@@ -6555,17 +6555,17 @@ N00009771,Transport,1000, Shelley Moore Capito (R) , R
 N00009771,Transport,0, Shelley Moore Capito (R) , R 
 N00009771,Transport,2500, Shelley Moore Capito (R) , R 
 N00009771,Govt/NGO,1000, Shelley Moore Capito (R) , R 
-N00009869,Agriculture,-2500, Orrin G Hatch (R) , R 
-N00009869,Agriculture,-2000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,3000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,1000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,-1000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,1000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,1000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,5000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,5000, Orrin G Hatch (R) , R 
-N00009869,Agriculture,3500, Orrin G Hatch (R) , R 
-N00009869,Agriculture,4000, Orrin G Hatch (R) , R 
+N00009869,Agri,-2500, Orrin G Hatch (R) , R 
+N00009869,Agri,-2000, Orrin G Hatch (R) , R 
+N00009869,Agri,3000, Orrin G Hatch (R) , R 
+N00009869,Agri,1000, Orrin G Hatch (R) , R 
+N00009869,Agri,-1000, Orrin G Hatch (R) , R 
+N00009869,Agri,1000, Orrin G Hatch (R) , R 
+N00009869,Agri,1000, Orrin G Hatch (R) , R 
+N00009869,Agri,5000, Orrin G Hatch (R) , R 
+N00009869,Agri,5000, Orrin G Hatch (R) , R 
+N00009869,Agri,3500, Orrin G Hatch (R) , R 
+N00009869,Agri,4000, Orrin G Hatch (R) , R 
 N00009869,Builders,13500, Orrin G Hatch (R) , R 
 N00009869,Builders,3000, Orrin G Hatch (R) , R 
 N00009869,Builders,18500, Orrin G Hatch (R) , R 
@@ -6701,19 +6701,19 @@ N00009869,Legal,5500, Orrin G Hatch (R) , R
 N00009869,Energy,1000, Orrin G Hatch (R) , R 
 N00009869,Unions,1000, Orrin G Hatch (R) , R 
 N00009869,Unions,6500, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,13500, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,700, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,1000, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,1000, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,9000, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,2500, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,5000, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,3500, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,0, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,2500, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,-1125, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,1000, Orrin G Hatch (R) , R 
-N00009869,Manufacturing,3500, Orrin G Hatch (R) , R 
+N00009869,MFG,13500, Orrin G Hatch (R) , R 
+N00009869,MFG,700, Orrin G Hatch (R) , R 
+N00009869,MFG,1000, Orrin G Hatch (R) , R 
+N00009869,MFG,1000, Orrin G Hatch (R) , R 
+N00009869,MFG,9000, Orrin G Hatch (R) , R 
+N00009869,MFG,2500, Orrin G Hatch (R) , R 
+N00009869,MFG,5000, Orrin G Hatch (R) , R 
+N00009869,MFG,3500, Orrin G Hatch (R) , R 
+N00009869,MFG,0, Orrin G Hatch (R) , R 
+N00009869,MFG,2500, Orrin G Hatch (R) , R 
+N00009869,MFG,-1125, Orrin G Hatch (R) , R 
+N00009869,MFG,1000, Orrin G Hatch (R) , R 
+N00009869,MFG,3500, Orrin G Hatch (R) , R 
 N00009869,Transport,-3500, Orrin G Hatch (R) , R 
 N00009869,Transport,5000, Orrin G Hatch (R) , R 
 N00009869,Transport,5000, Orrin G Hatch (R) , R 
@@ -6732,10 +6732,10 @@ N00009869,Transport,6500, Orrin G Hatch (R) , R
 N00009869,Transport,1500, Orrin G Hatch (R) , R 
 N00009869,Transport,9000, Orrin G Hatch (R) , R 
 N00009869,Transport,5000, Orrin G Hatch (R) , R 
-N00009869,Pvt citizens,1000, Orrin G Hatch (R) , R 
+N00009869,Pvt,1000, Orrin G Hatch (R) , R 
 N00009869,committees,92000, Orrin G Hatch (R) , R 
-N00009888,Agriculture,4000, Lamar Alexander (R) , R 
-N00009888,Agriculture,2500, Lamar Alexander (R) , R 
+N00009888,Agri,4000, Lamar Alexander (R) , R 
+N00009888,Agri,2500, Lamar Alexander (R) , R 
 N00009888,Comms,1000, Lamar Alexander (R) , R 
 N00009888,Comms,2000, Lamar Alexander (R) , R 
 N00009888,Comms,1000, Lamar Alexander (R) , R 
@@ -6781,19 +6781,19 @@ N00009888,Policy,-2000, Lamar Alexander (R) , R
 N00009888,Legal,9500, Lamar Alexander (R) , R 
 N00009888,Legal,2500, Lamar Alexander (R) , R 
 N00009888,Unions,2500, Lamar Alexander (R) , R 
-N00009888,Manufacturing,2000, Lamar Alexander (R) , R 
-N00009888,Manufacturing,1000, Lamar Alexander (R) , R 
-N00009888,Manufacturing,3000, Lamar Alexander (R) , R 
-N00009888,Manufacturing,2000, Lamar Alexander (R) , R 
-N00009888,Manufacturing,2500, Lamar Alexander (R) , R 
+N00009888,MFG,2000, Lamar Alexander (R) , R 
+N00009888,MFG,1000, Lamar Alexander (R) , R 
+N00009888,MFG,3000, Lamar Alexander (R) , R 
+N00009888,MFG,2000, Lamar Alexander (R) , R 
+N00009888,MFG,2500, Lamar Alexander (R) , R 
 N00009888,Transport,1000, Lamar Alexander (R) , R 
 N00009888,Transport,1000, Lamar Alexander (R) , R 
 N00009888,Transport,2000, Lamar Alexander (R) , R 
 N00009888,Transport,5000, Lamar Alexander (R) , R 
 N00009888,Govt/NGO,3000, Lamar Alexander (R) , R 
 N00009888,committees,2000, Lamar Alexander (R) , R 
-N00009920,Agriculture,2500, Richard C Shelby (R) , R 
-N00009920,Agriculture,1000, Richard C Shelby (R) , R 
+N00009920,Agri,2500, Richard C Shelby (R) , R 
+N00009920,Agri,1000, Richard C Shelby (R) , R 
 N00009920,Comms,0, Richard C Shelby (R) , R 
 N00009920,Defense,5000, Richard C Shelby (R) , R 
 N00009920,Defense,0, Richard C Shelby (R) , R 
@@ -6812,13 +6812,13 @@ N00009920,Transport,4500, Richard C Shelby (R) , R
 N00009920,Transport,0, Richard C Shelby (R) , R 
 N00009920,Transport,0, Richard C Shelby (R) , R 
 N00009920,Transport,500, Richard C Shelby (R) , R 
-N00009975,Agriculture,6000, Lindsey Graham (R) , R 
-N00009975,Agriculture,3500, Lindsey Graham (R) , R 
-N00009975,Agriculture,5000, Lindsey Graham (R) , R 
-N00009975,Agriculture,4200, Lindsey Graham (R) , R 
-N00009975,Agriculture,2000, Lindsey Graham (R) , R 
-N00009975,Agriculture,2000, Lindsey Graham (R) , R 
-N00009975,Agriculture,1000, Lindsey Graham (R) , R 
+N00009975,Agri,6000, Lindsey Graham (R) , R 
+N00009975,Agri,3500, Lindsey Graham (R) , R 
+N00009975,Agri,5000, Lindsey Graham (R) , R 
+N00009975,Agri,4200, Lindsey Graham (R) , R 
+N00009975,Agri,2000, Lindsey Graham (R) , R 
+N00009975,Agri,2000, Lindsey Graham (R) , R 
+N00009975,Agri,1000, Lindsey Graham (R) , R 
 N00009975,Builders,6500, Lindsey Graham (R) , R 
 N00009975,Builders,1000, Lindsey Graham (R) , R 
 N00009975,Builders,3500, Lindsey Graham (R) , R 
@@ -6880,12 +6880,12 @@ N00009975,Legal,4500, Lindsey Graham (R) , R
 N00009975,Legal,1000, Lindsey Graham (R) , R 
 N00009975,Unions,3700, Lindsey Graham (R) , R 
 N00009975,Unions,2500, Lindsey Graham (R) , R 
-N00009975,Manufacturing,2000, Lindsey Graham (R) , R 
-N00009975,Manufacturing,1000, Lindsey Graham (R) , R 
-N00009975,Manufacturing,2000, Lindsey Graham (R) , R 
-N00009975,Manufacturing,1000, Lindsey Graham (R) , R 
-N00009975,Manufacturing,2500, Lindsey Graham (R) , R 
-N00009975,Manufacturing,1000, Lindsey Graham (R) , R 
+N00009975,MFG,2000, Lindsey Graham (R) , R 
+N00009975,MFG,1000, Lindsey Graham (R) , R 
+N00009975,MFG,2000, Lindsey Graham (R) , R 
+N00009975,MFG,1000, Lindsey Graham (R) , R 
+N00009975,MFG,2500, Lindsey Graham (R) , R 
+N00009975,MFG,1000, Lindsey Graham (R) , R 
 N00009975,Transport,2500, Lindsey Graham (R) , R 
 N00009975,Transport,2500, Lindsey Graham (R) , R 
 N00009975,Transport,300, Lindsey Graham (R) , R 
@@ -6896,18 +6896,18 @@ N00009975,Transport,2000, Lindsey Graham (R) , R
 N00009975,Transport,8500, Lindsey Graham (R) , R 
 N00009975,Transport,2500, Lindsey Graham (R) , R 
 N00009975,committees,200, Lindsey Graham (R) , R 
-N00013873,Agriculture,2500, John Boozman (R) , R 
-N00013873,Agriculture,500, John Boozman (R) , R 
-N00013873,Agriculture,2500, John Boozman (R) , R 
-N00013873,Agriculture,1000, John Boozman (R) , R 
-N00013873,Agriculture,10750, John Boozman (R) , R 
-N00013873,Agriculture,5000, John Boozman (R) , R 
-N00013873,Agriculture,4500, John Boozman (R) , R 
-N00013873,Agriculture,1000, John Boozman (R) , R 
-N00013873,Agriculture,5000, John Boozman (R) , R 
-N00013873,Agriculture,4500, John Boozman (R) , R 
-N00013873,Agriculture,10500, John Boozman (R) , R 
-N00013873,Agriculture,8500, John Boozman (R) , R 
+N00013873,Agri,2500, John Boozman (R) , R 
+N00013873,Agri,500, John Boozman (R) , R 
+N00013873,Agri,2500, John Boozman (R) , R 
+N00013873,Agri,1000, John Boozman (R) , R 
+N00013873,Agri,10750, John Boozman (R) , R 
+N00013873,Agri,5000, John Boozman (R) , R 
+N00013873,Agri,4500, John Boozman (R) , R 
+N00013873,Agri,1000, John Boozman (R) , R 
+N00013873,Agri,5000, John Boozman (R) , R 
+N00013873,Agri,4500, John Boozman (R) , R 
+N00013873,Agri,10500, John Boozman (R) , R 
+N00013873,Agri,8500, John Boozman (R) , R 
 N00013873,Comms,1000, John Boozman (R) , R 
 N00013873,Comms,2000, John Boozman (R) , R 
 N00013873,Comms,4000, John Boozman (R) , R 
@@ -6932,25 +6932,25 @@ N00013873,Health,500, John Boozman (R) , R
 N00013873,Policy,861, John Boozman (R) , R 
 N00013873,Legal,3500, John Boozman (R) , R 
 N00013873,Unions,3500, John Boozman (R) , R 
-N00013873,Manufacturing,2500, John Boozman (R) , R 
-N00013873,Manufacturing,2500, John Boozman (R) , R 
-N00013873,Manufacturing,500, John Boozman (R) , R 
+N00013873,MFG,2500, John Boozman (R) , R 
+N00013873,MFG,2500, John Boozman (R) , R 
+N00013873,MFG,500, John Boozman (R) , R 
 N00013873,Transport,3000, John Boozman (R) , R 
 N00013873,Transport,1000, John Boozman (R) , R 
 N00013873,Transport,-1500, John Boozman (R) , R 
 N00013873,Transport,2000, John Boozman (R) , R 
 N00013873,Transport,1000, John Boozman (R) , R 
-N00024852,Agriculture,1000, John Cornyn (R) , R 
-N00024852,Agriculture,5000, John Cornyn (R) , R 
-N00024852,Agriculture,1000, John Cornyn (R) , R 
-N00024852,Agriculture,1000, John Cornyn (R) , R 
-N00024852,Agriculture,1500, John Cornyn (R) , R 
-N00024852,Agriculture,2500, John Cornyn (R) , R 
-N00024852,Agriculture,2500, John Cornyn (R) , R 
-N00024852,Agriculture,3500, John Cornyn (R) , R 
-N00024852,Agriculture,2500, John Cornyn (R) , R 
-N00024852,Agriculture,3500, John Cornyn (R) , R 
-N00024852,Agriculture,1000, John Cornyn (R) , R 
+N00024852,Agri,1000, John Cornyn (R) , R 
+N00024852,Agri,5000, John Cornyn (R) , R 
+N00024852,Agri,1000, John Cornyn (R) , R 
+N00024852,Agri,1000, John Cornyn (R) , R 
+N00024852,Agri,1500, John Cornyn (R) , R 
+N00024852,Agri,2500, John Cornyn (R) , R 
+N00024852,Agri,2500, John Cornyn (R) , R 
+N00024852,Agri,3500, John Cornyn (R) , R 
+N00024852,Agri,2500, John Cornyn (R) , R 
+N00024852,Agri,3500, John Cornyn (R) , R 
+N00024852,Agri,1000, John Cornyn (R) , R 
 N00024852,Builders,19500, John Cornyn (R) , R 
 N00024852,Builders,17500, John Cornyn (R) , R 
 N00024852,Builders,8500, John Cornyn (R) , R 
@@ -7038,17 +7038,17 @@ N00024852,Legal,18450, John Cornyn (R) , R
 N00024852,Legal,3000, John Cornyn (R) , R 
 N00024852,Legal,500, John Cornyn (R) , R 
 N00024852,Unions,1000, John Cornyn (R) , R 
-N00024852,Manufacturing,1000, John Cornyn (R) , R 
-N00024852,Manufacturing,9000, John Cornyn (R) , R 
-N00024852,Manufacturing,2000, John Cornyn (R) , R 
-N00024852,Manufacturing,3500, John Cornyn (R) , R 
-N00024852,Manufacturing,2000, John Cornyn (R) , R 
-N00024852,Manufacturing,8000, John Cornyn (R) , R 
-N00024852,Manufacturing,6000, John Cornyn (R) , R 
-N00024852,Manufacturing,1000, John Cornyn (R) , R 
-N00024852,Manufacturing,1000, John Cornyn (R) , R 
-N00024852,Manufacturing,2500, John Cornyn (R) , R 
-N00024852,Manufacturing,5000, John Cornyn (R) , R 
+N00024852,MFG,1000, John Cornyn (R) , R 
+N00024852,MFG,9000, John Cornyn (R) , R 
+N00024852,MFG,2000, John Cornyn (R) , R 
+N00024852,MFG,3500, John Cornyn (R) , R 
+N00024852,MFG,2000, John Cornyn (R) , R 
+N00024852,MFG,8000, John Cornyn (R) , R 
+N00024852,MFG,6000, John Cornyn (R) , R 
+N00024852,MFG,1000, John Cornyn (R) , R 
+N00024852,MFG,1000, John Cornyn (R) , R 
+N00024852,MFG,2500, John Cornyn (R) , R 
+N00024852,MFG,5000, John Cornyn (R) , R 
 N00024852,Transport,2500, John Cornyn (R) , R 
 N00024852,Transport,4500, John Cornyn (R) , R 
 N00024852,Transport,1000, John Cornyn (R) , R 
@@ -7143,23 +7143,23 @@ N00026050,Comms,5000, Lisa Murkowski (R) , R
 N00026050,Energy,3000, Lisa Murkowski (R) , R 
 N00026050,Unions,2000, Lisa Murkowski (R) , R 
 N00026050,Unions,4000, Lisa Murkowski (R) , R 
-N00026050,Manufacturing,5500, Lisa Murkowski (R) , R 
-N00026050,Manufacturing,4000, Lisa Murkowski (R) , R 
-N00026050,Manufacturing,1000, Lisa Murkowski (R) , R 
-N00026050,Manufacturing,1666, Lisa Murkowski (R) , R 
+N00026050,MFG,5500, Lisa Murkowski (R) , R 
+N00026050,MFG,4000, Lisa Murkowski (R) , R 
+N00026050,MFG,1000, Lisa Murkowski (R) , R 
+N00026050,MFG,1666, Lisa Murkowski (R) , R 
 N00026050,Transport,7500, Lisa Murkowski (R) , R 
 N00026050,Transport,1500, Lisa Murkowski (R) , R 
 N00026050,Transport,2500, Lisa Murkowski (R) , R 
 N00026050,Transport,2000, Lisa Murkowski (R) , R 
 N00026050,Transport,2000, Lisa Murkowski (R) , R 
 N00026050,Transport,2000, Lisa Murkowski (R) , R 
-N00026823,Agriculture,6000, John Kennedy (R) , R 
-N00026823,Agriculture,22500, John Kennedy (R) , R 
-N00026823,Agriculture,2173, John Kennedy (R) , R 
-N00026823,Agriculture,3000, John Kennedy (R) , R 
-N00026823,Agriculture,8500, John Kennedy (R) , R 
-N00026823,Agriculture,4000, John Kennedy (R) , R 
-N00026823,Agriculture,4000, John Kennedy (R) , R 
+N00026823,Agri,6000, John Kennedy (R) , R 
+N00026823,Agri,22500, John Kennedy (R) , R 
+N00026823,Agri,2173, John Kennedy (R) , R 
+N00026823,Agri,3000, John Kennedy (R) , R 
+N00026823,Agri,8500, John Kennedy (R) , R 
+N00026823,Agri,4000, John Kennedy (R) , R 
+N00026823,Agri,4000, John Kennedy (R) , R 
 N00026823,Builders,2000, John Kennedy (R) , R 
 N00026823,Builders,1000, John Kennedy (R) , R 
 N00026823,Builders,1000, John Kennedy (R) , R 
@@ -7228,11 +7228,11 @@ N00026823,Legal,1094, John Kennedy (R) , R
 N00026823,Unions,1000, John Kennedy (R) , R 
 N00026823,Unions,0, John Kennedy (R) , R 
 N00026823,Unions,6000, John Kennedy (R) , R 
-N00026823,Manufacturing,3000, John Kennedy (R) , R 
-N00026823,Manufacturing,1000, John Kennedy (R) , R 
-N00026823,Manufacturing,2000, John Kennedy (R) , R 
-N00026823,Manufacturing,3000, John Kennedy (R) , R 
-N00026823,Manufacturing,1000, John Kennedy (R) , R 
+N00026823,MFG,3000, John Kennedy (R) , R 
+N00026823,MFG,1000, John Kennedy (R) , R 
+N00026823,MFG,2000, John Kennedy (R) , R 
+N00026823,MFG,3000, John Kennedy (R) , R 
+N00026823,MFG,1000, John Kennedy (R) , R 
 N00026823,Transport,1000, John Kennedy (R) , R 
 N00026823,Transport,5000, John Kennedy (R) , R 
 N00026823,Transport,5000, John Kennedy (R) , R 
@@ -7243,8 +7243,8 @@ N00026823,Transport,3000, John Kennedy (R) , R
 N00026823,Transport,2500, John Kennedy (R) , R 
 N00026823,Govt/NGO,1000, John Kennedy (R) , R 
 N00026823,committees,16982, John Kennedy (R) , R 
-N00027441,Agriculture,-2500, Bob Corker (R) , R 
-N00027441,Agriculture,2500, Bob Corker (R) , R 
+N00027441,Agri,-2500, Bob Corker (R) , R 
+N00027441,Agri,2500, Bob Corker (R) , R 
 N00027441,Builders,2500, Bob Corker (R) , R 
 N00027441,Builders,5000, Bob Corker (R) , R 
 N00027441,Builders,0, Bob Corker (R) , R 
@@ -7318,11 +7318,11 @@ N00027441,Legal,16000, Bob Corker (R) , R
 N00027441,Legal,2500, Bob Corker (R) , R 
 N00027441,Legal,3500, Bob Corker (R) , R 
 N00027441,Unions,3500, Bob Corker (R) , R 
-N00027441,Manufacturing,4000, Bob Corker (R) , R 
-N00027441,Manufacturing,2000, Bob Corker (R) , R 
-N00027441,Manufacturing,6000, Bob Corker (R) , R 
-N00027441,Manufacturing,5000, Bob Corker (R) , R 
-N00027441,Manufacturing,2500, Bob Corker (R) , R 
+N00027441,MFG,4000, Bob Corker (R) , R 
+N00027441,MFG,2000, Bob Corker (R) , R 
+N00027441,MFG,6000, Bob Corker (R) , R 
+N00027441,MFG,5000, Bob Corker (R) , R 
+N00027441,MFG,2500, Bob Corker (R) , R 
 N00027441,Transport,1500, Bob Corker (R) , R 
 N00027441,Transport,5000, Bob Corker (R) , R 
 N00027441,Transport,2500, Bob Corker (R) , R 
@@ -7332,15 +7332,15 @@ N00027441,Transport,0, Bob Corker (R) , R
 N00027441,Transport,1000, Bob Corker (R) , R 
 N00027441,Govt/NGO,0, Bob Corker (R) , R 
 N00027441,committees,35000, Bob Corker (R) , R 
-N00027522,Agriculture,14000, Dean Heller (R) , R 
-N00027522,Agriculture,7500, Dean Heller (R) , R 
-N00027522,Agriculture,10000, Dean Heller (R) , R 
-N00027522,Agriculture,1000, Dean Heller (R) , R 
-N00027522,Agriculture,1000, Dean Heller (R) , R 
-N00027522,Agriculture,2500, Dean Heller (R) , R 
-N00027522,Agriculture,10000, Dean Heller (R) , R 
-N00027522,Agriculture,1000, Dean Heller (R) , R 
-N00027522,Agriculture,2000, Dean Heller (R) , R 
+N00027522,Agri,14000, Dean Heller (R) , R 
+N00027522,Agri,7500, Dean Heller (R) , R 
+N00027522,Agri,10000, Dean Heller (R) , R 
+N00027522,Agri,1000, Dean Heller (R) , R 
+N00027522,Agri,1000, Dean Heller (R) , R 
+N00027522,Agri,2500, Dean Heller (R) , R 
+N00027522,Agri,10000, Dean Heller (R) , R 
+N00027522,Agri,1000, Dean Heller (R) , R 
+N00027522,Agri,2000, Dean Heller (R) , R 
 N00027522,Builders,11500, Dean Heller (R) , R 
 N00027522,Builders,17000, Dean Heller (R) , R 
 N00027522,Builders,5000, Dean Heller (R) , R 
@@ -7498,12 +7498,12 @@ N00027522,Unions,3500, Dean Heller (R) , R
 N00027522,Unions,10000, Dean Heller (R) , R 
 N00027522,Builders,2500, Dean Heller (R) , R 
 N00027522,Unions,8500, Dean Heller (R) , R 
-N00027522,Manufacturing,602839, Dean Heller (R) , R 
-N00027522,Manufacturing,8700, Dean Heller (R) , R 
-N00027522,Manufacturing,2000, Dean Heller (R) , R 
-N00027522,Manufacturing,5000, Dean Heller (R) , R 
-N00027522,Manufacturing,2500, Dean Heller (R) , R 
-N00027522,Manufacturing,2500, Dean Heller (R) , R 
+N00027522,MFG,602839, Dean Heller (R) , R 
+N00027522,MFG,8700, Dean Heller (R) , R 
+N00027522,MFG,2000, Dean Heller (R) , R 
+N00027522,MFG,5000, Dean Heller (R) , R 
+N00027522,MFG,2500, Dean Heller (R) , R 
+N00027522,MFG,2500, Dean Heller (R) , R 
 N00027522,Transport,16500, Dean Heller (R) , R 
 N00027522,Transport,11125, Dean Heller (R) , R 
 N00027522,Transport,24500, Dean Heller (R) , R 
@@ -7530,8 +7530,8 @@ N00027522,Govt/NGO,10000, Dean Heller (R) , R
 N00027522,committees,9976, Dean Heller (R) , R 
 N00027522,committees,47400, Dean Heller (R) , R 
 N00027522,committees,-1000, Dean Heller (R) , R 
-N00029441,Agriculture,0, James E Risch (R) , R 
-N00029441,Agriculture,1500, James E Risch (R) , R 
+N00029441,Agri,0, James E Risch (R) , R 
+N00029441,Agri,1500, James E Risch (R) , R 
 N00029441,Builders,1000, James E Risch (R) , R 
 N00029441,Comms,2000, James E Risch (R) , R 
 N00029441,Comms,2500, James E Risch (R) , R 
@@ -7556,19 +7556,19 @@ N00029441,Health,2500, James E Risch (R) , R
 N00029441,Policy,861, James E Risch (R) , R 
 N00029441,Policy,1000, James E Risch (R) , R 
 N00029441,Legal,2000, James E Risch (R) , R 
-N00029441,Manufacturing,5000, James E Risch (R) , R 
-N00029441,Manufacturing,1668, James E Risch (R) , R 
+N00029441,MFG,5000, James E Risch (R) , R 
+N00029441,MFG,1668, James E Risch (R) , R 
 N00029441,Transport,1000, James E Risch (R) , R 
 N00029441,Transport,1000, James E Risch (R) , R 
 N00029441,Transport,5000, James E Risch (R) , R 
 N00029441,Transport,2000, James E Risch (R) , R 
 N00029441,Transport,1000, James E Risch (R) , R 
-N00030245,Agriculture,2000, Bill Cassidy (R) , R 
-N00030245,Agriculture,2500, Bill Cassidy (R) , R 
-N00030245,Agriculture,8500, Bill Cassidy (R) , R 
-N00030245,Agriculture,6000, Bill Cassidy (R) , R 
-N00030245,Agriculture,1000, Bill Cassidy (R) , R 
-N00030245,Agriculture,9000, Bill Cassidy (R) , R 
+N00030245,Agri,2000, Bill Cassidy (R) , R 
+N00030245,Agri,2500, Bill Cassidy (R) , R 
+N00030245,Agri,8500, Bill Cassidy (R) , R 
+N00030245,Agri,6000, Bill Cassidy (R) , R 
+N00030245,Agri,1000, Bill Cassidy (R) , R 
+N00030245,Agri,9000, Bill Cassidy (R) , R 
 N00030245,Builders,1000, Bill Cassidy (R) , R 
 N00030245,Builders,1500, Bill Cassidy (R) , R 
 N00030245,Builders,1000, Bill Cassidy (R) , R 
@@ -7650,13 +7650,13 @@ N00030245,Legal,25000, Bill Cassidy (R) , R
 N00030245,Legal,5500, Bill Cassidy (R) , R 
 N00030245,Legal,2500, Bill Cassidy (R) , R 
 N00030245,Unions,1000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,10000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,3500, Bill Cassidy (R) , R 
-N00030245,Manufacturing,2000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,1000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,2000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,1000, Bill Cassidy (R) , R 
-N00030245,Manufacturing,1000, Bill Cassidy (R) , R 
+N00030245,MFG,10000, Bill Cassidy (R) , R 
+N00030245,MFG,3500, Bill Cassidy (R) , R 
+N00030245,MFG,2000, Bill Cassidy (R) , R 
+N00030245,MFG,1000, Bill Cassidy (R) , R 
+N00030245,MFG,2000, Bill Cassidy (R) , R 
+N00030245,MFG,1000, Bill Cassidy (R) , R 
+N00030245,MFG,1000, Bill Cassidy (R) , R 
 N00030245,Transport,1000, Bill Cassidy (R) , R 
 N00030245,Transport,0, Bill Cassidy (R) , R 
 N00030245,Transport,5000, Bill Cassidy (R) , R 
@@ -7668,16 +7668,16 @@ N00030245,Transport,4000, Bill Cassidy (R) , R
 N00030245,Transport,2500, Bill Cassidy (R) , R 
 N00030245,Govt/NGO,1000, Bill Cassidy (R) , R 
 N00030245,committees,-1000, Bill Cassidy (R) , R 
-N00030612,Agriculture,4000, Marco Rubio (R) , R 
-N00030612,Agriculture,2500, Marco Rubio (R) , R 
-N00030612,Agriculture,1000, Marco Rubio (R) , R 
-N00030612,Agriculture,3500, Marco Rubio (R) , R 
-N00030612,Agriculture,2500, Marco Rubio (R) , R 
-N00030612,Agriculture,1000, Marco Rubio (R) , R 
-N00030612,Agriculture,1000, Marco Rubio (R) , R 
-N00030612,Agriculture,2000, Marco Rubio (R) , R 
-N00030612,Agriculture,1000, Marco Rubio (R) , R 
-N00030612,Agriculture,1000, Marco Rubio (R) , R 
+N00030612,Agri,4000, Marco Rubio (R) , R 
+N00030612,Agri,2500, Marco Rubio (R) , R 
+N00030612,Agri,1000, Marco Rubio (R) , R 
+N00030612,Agri,3500, Marco Rubio (R) , R 
+N00030612,Agri,2500, Marco Rubio (R) , R 
+N00030612,Agri,1000, Marco Rubio (R) , R 
+N00030612,Agri,1000, Marco Rubio (R) , R 
+N00030612,Agri,2000, Marco Rubio (R) , R 
+N00030612,Agri,1000, Marco Rubio (R) , R 
+N00030612,Agri,1000, Marco Rubio (R) , R 
 N00030612,Builders,1000, Marco Rubio (R) , R 
 N00030612,Builders,1000, Marco Rubio (R) , R 
 N00030612,Builders,1000, Marco Rubio (R) , R 
@@ -7757,10 +7757,10 @@ N00030612,Legal,1000, Marco Rubio (R) , R
 N00030612,Unions,3500, Marco Rubio (R) , R 
 N00030612,Unions,6500, Marco Rubio (R) , R 
 N00030612,Unions,4500, Marco Rubio (R) , R 
-N00030612,Manufacturing,1000, Marco Rubio (R) , R 
-N00030612,Manufacturing,1000, Marco Rubio (R) , R 
-N00030612,Manufacturing,1000, Marco Rubio (R) , R 
-N00030612,Manufacturing,1000, Marco Rubio (R) , R 
+N00030612,MFG,1000, Marco Rubio (R) , R 
+N00030612,MFG,1000, Marco Rubio (R) , R 
+N00030612,MFG,1000, Marco Rubio (R) , R 
+N00030612,MFG,1000, Marco Rubio (R) , R 
 N00030612,Transport,9000, Marco Rubio (R) , R 
 N00030612,Transport,1000, Marco Rubio (R) , R 
 N00030612,Transport,1000, Marco Rubio (R) , R 
@@ -7774,8 +7774,8 @@ N00030612,Transport,3500, Marco Rubio (R) , R
 N00030612,Transport,1000, Marco Rubio (R) , R 
 N00030612,Transport,1000, Marco Rubio (R) , R 
 N00030612,Transport,1000, Marco Rubio (R) , R 
-N00030670,Agriculture,5000, Todd Young (R) , R 
-N00030670,Agriculture,2000, Todd Young (R) , R 
+N00030670,Agri,5000, Todd Young (R) , R 
+N00030670,Agri,2000, Todd Young (R) , R 
 N00030670,Builders,1000, Todd Young (R) , R 
 N00030670,Builders,2500, Todd Young (R) , R 
 N00030670,Comms,1000, Todd Young (R) , R 
@@ -7822,12 +7822,12 @@ N00030670,Policy,861, Todd Young (R) , R
 N00030670,Policy,2500, Todd Young (R) , R 
 N00030670,Legal,6750, Todd Young (R) , R 
 N00030670,Legal,2500, Todd Young (R) , R 
-N00030670,Agriculture,1250, Todd Young (R) , R 
-N00030670,Manufacturing,1000, Todd Young (R) , R 
-N00030670,Manufacturing,3500, Todd Young (R) , R 
-N00030670,Manufacturing,2500, Todd Young (R) , R 
-N00030670,Manufacturing,1000, Todd Young (R) , R 
-N00030670,Manufacturing,2500, Todd Young (R) , R 
+N00030670,Agri,1250, Todd Young (R) , R 
+N00030670,MFG,1000, Todd Young (R) , R 
+N00030670,MFG,3500, Todd Young (R) , R 
+N00030670,MFG,2500, Todd Young (R) , R 
+N00030670,MFG,1000, Todd Young (R) , R 
+N00030670,MFG,2500, Todd Young (R) , R 
 N00030670,Transport,1000, Todd Young (R) , R 
 N00030670,Transport,1000, Todd Young (R) , R 
 N00030670,Transport,5500, Todd Young (R) , R 
@@ -7840,15 +7840,15 @@ N00030670,Transport,1000, Todd Young (R) , R
 N00030670,Transport,14000, Todd Young (R) , R 
 N00030670,Transport,6000, Todd Young (R) , R 
 N00030670,Govt/NGO,4000, Todd Young (R) , R 
-N00030670,Pvt citizens,1250, Todd Young (R) , R 
-N00030780,Agriculture,1000, Cory Gardner (R) , R 
-N00030780,Agriculture,1000, Cory Gardner (R) , R 
-N00030780,Agriculture,5000, Cory Gardner (R) , R 
-N00030780,Agriculture,5000, Cory Gardner (R) , R 
-N00030780,Agriculture,3000, Cory Gardner (R) , R 
-N00030780,Agriculture,2000, Cory Gardner (R) , R 
-N00030780,Agriculture,7500, Cory Gardner (R) , R 
-N00030780,Agriculture,1000, Cory Gardner (R) , R 
+N00030670,Pvt,1250, Todd Young (R) , R 
+N00030780,Agri,1000, Cory Gardner (R) , R 
+N00030780,Agri,1000, Cory Gardner (R) , R 
+N00030780,Agri,5000, Cory Gardner (R) , R 
+N00030780,Agri,5000, Cory Gardner (R) , R 
+N00030780,Agri,3000, Cory Gardner (R) , R 
+N00030780,Agri,2000, Cory Gardner (R) , R 
+N00030780,Agri,7500, Cory Gardner (R) , R 
+N00030780,Agri,1000, Cory Gardner (R) , R 
 N00030780,Builders,3000, Cory Gardner (R) , R 
 N00030780,Builders,9500, Cory Gardner (R) , R 
 N00030780,Comms,2000, Cory Gardner (R) , R 
@@ -7939,14 +7939,14 @@ N00030780,Policy,5000, Cory Gardner (R) , R
 N00030780,Energy,1000, Cory Gardner (R) , R 
 N00030780,Legal,10500, Cory Gardner (R) , R 
 N00030780,Unions,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,3500, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,1500, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
-N00030780,Manufacturing,1000, Cory Gardner (R) , R 
+N00030780,MFG,3500, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
+N00030780,MFG,1500, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
+N00030780,MFG,1000, Cory Gardner (R) , R 
 N00030780,Transport,8500, Cory Gardner (R) , R 
 N00030780,Transport,3000, Cory Gardner (R) , R 
 N00030780,Transport,0, Cory Gardner (R) , R 
@@ -7958,7 +7958,7 @@ N00030780,Transport,2000, Cory Gardner (R) , R
 N00030780,Transport,4000, Cory Gardner (R) , R 
 N00030780,Transport,3500, Cory Gardner (R) , R 
 N00030780,Transport,1000, Cory Gardner (R) , R 
-N00030836,Agriculture,1000, Rand Paul (R) , R 
+N00030836,Agri,1000, Rand Paul (R) , R 
 N00030836,Builders,2500, Rand Paul (R) , R 
 N00030836,Comms,2000, Rand Paul (R) , R 
 N00030836,Comms,1000, Rand Paul (R) , R 
@@ -7987,7 +7987,7 @@ N00030836,Transport,-5000, Rand Paul (R) , R
 N00030836,Transport,-2500, Rand Paul (R) , R 
 N00030836,committees,10000, Rand Paul (R) , R 
 N00030836,committees,54237, Rand Paul (R) , R 
-N00031129,Agriculture,1000, James Lankford (R) , R 
+N00031129,Agri,1000, James Lankford (R) , R 
 N00031129,Builders,2000, James Lankford (R) , R 
 N00031129,Builders,-1500, James Lankford (R) , R 
 N00031129,Comms,1000, James Lankford (R) , R 
@@ -8047,10 +8047,10 @@ N00031129,Policy,861, James Lankford (R) , R
 N00031129,Legal,8250, James Lankford (R) , R 
 N00031129,Unions,14000, James Lankford (R) , R 
 N00031129,Unions,7000, James Lankford (R) , R 
-N00031129,Manufacturing,5500, James Lankford (R) , R 
-N00031129,Manufacturing,2000, James Lankford (R) , R 
-N00031129,Manufacturing,2000, James Lankford (R) , R 
-N00031129,Manufacturing,1000, James Lankford (R) , R 
+N00031129,MFG,5500, James Lankford (R) , R 
+N00031129,MFG,2000, James Lankford (R) , R 
+N00031129,MFG,2000, James Lankford (R) , R 
+N00031129,MFG,1000, James Lankford (R) , R 
 N00031129,Transport,6000, James Lankford (R) , R 
 N00031129,Transport,3000, James Lankford (R) , R 
 N00031129,Transport,3500, James Lankford (R) , R 
@@ -8060,19 +8060,19 @@ N00031129,Transport,1000, James Lankford (R) , R
 N00031129,Transport,1000, James Lankford (R) , R 
 N00031129,Transport,1000, James Lankford (R) , R 
 N00031129,Govt/NGO,1000, James Lankford (R) , R 
-N00031688,Agriculture,1000, John Hoeven (R) , R 
-N00031688,Agriculture,500, John Hoeven (R) , R 
-N00031688,Agriculture,1000, John Hoeven (R) , R 
-N00031688,Agriculture,1000, John Hoeven (R) , R 
-N00031688,Agriculture,2000, John Hoeven (R) , R 
-N00031688,Agriculture,5000, John Hoeven (R) , R 
-N00031688,Agriculture,8000, John Hoeven (R) , R 
-N00031688,Agriculture,5500, John Hoeven (R) , R 
-N00031688,Agriculture,2000, John Hoeven (R) , R 
-N00031688,Agriculture,2500, John Hoeven (R) , R 
-N00031688,Agriculture,3500, John Hoeven (R) , R 
-N00031688,Agriculture,4500, John Hoeven (R) , R 
-N00031688,Agriculture,10000, John Hoeven (R) , R 
+N00031688,Agri,1000, John Hoeven (R) , R 
+N00031688,Agri,500, John Hoeven (R) , R 
+N00031688,Agri,1000, John Hoeven (R) , R 
+N00031688,Agri,1000, John Hoeven (R) , R 
+N00031688,Agri,2000, John Hoeven (R) , R 
+N00031688,Agri,5000, John Hoeven (R) , R 
+N00031688,Agri,8000, John Hoeven (R) , R 
+N00031688,Agri,5500, John Hoeven (R) , R 
+N00031688,Agri,2000, John Hoeven (R) , R 
+N00031688,Agri,2500, John Hoeven (R) , R 
+N00031688,Agri,3500, John Hoeven (R) , R 
+N00031688,Agri,4500, John Hoeven (R) , R 
+N00031688,Agri,10000, John Hoeven (R) , R 
 N00031688,Builders,2000, John Hoeven (R) , R 
 N00031688,Comms,7080, John Hoeven (R) , R 
 N00031688,Comms,1000, John Hoeven (R) , R 
@@ -8110,15 +8110,15 @@ N00031688,Health,500, John Hoeven (R) , R
 N00031688,Legal,1000, John Hoeven (R) , R 
 N00031688,Unions,1000, John Hoeven (R) , R 
 N00031688,Unions,2500, John Hoeven (R) , R 
-N00031688,Manufacturing,2500, John Hoeven (R) , R 
-N00031688,Manufacturing,5000, John Hoeven (R) , R 
-N00031688,Manufacturing,250, John Hoeven (R) , R 
+N00031688,MFG,2500, John Hoeven (R) , R 
+N00031688,MFG,5000, John Hoeven (R) , R 
+N00031688,MFG,250, John Hoeven (R) , R 
 N00031688,Transport,2500, John Hoeven (R) , R 
 N00031688,Transport,-2000, John Hoeven (R) , R 
 N00031688,Transport,1000, John Hoeven (R) , R 
 N00031688,Govt/NGO,1000, John Hoeven (R) , R 
-N00031696,Agriculture,1000, Mike Lee (R) , R 
-N00031696,Agriculture,1000, Mike Lee (R) , R 
+N00031696,Agri,1000, Mike Lee (R) , R 
+N00031696,Agri,1000, Mike Lee (R) , R 
 N00031696,Builders,-5000, Mike Lee (R) , R 
 N00031696,Comms,1500, Mike Lee (R) , R 
 N00031696,Comms,2000, Mike Lee (R) , R 
@@ -8159,10 +8159,10 @@ N00031696,Legal,0, Mike Lee (R) , R
 N00031696,Legal,1000, Mike Lee (R) , R 
 N00031696,Legal,2500, Mike Lee (R) , R 
 N00031696,Unions,2000, Mike Lee (R) , R 
-N00031696,Manufacturing,1500, Mike Lee (R) , R 
-N00031696,Manufacturing,2000, Mike Lee (R) , R 
-N00031696,Manufacturing,1500, Mike Lee (R) , R 
-N00031696,Manufacturing,-2700, Mike Lee (R) , R 
+N00031696,MFG,1500, Mike Lee (R) , R 
+N00031696,MFG,2000, Mike Lee (R) , R 
+N00031696,MFG,1500, Mike Lee (R) , R 
+N00031696,MFG,-2700, Mike Lee (R) , R 
 N00031696,Transport,2500, Mike Lee (R) , R 
 N00031696,Transport,2000, Mike Lee (R) , R 
 N00031696,Transport,1000, Mike Lee (R) , R 
@@ -8171,11 +8171,11 @@ N00031696,Transport,1000, Mike Lee (R) , R
 N00031696,Transport,-4000, Mike Lee (R) , R 
 N00031696,Transport,5000, Mike Lee (R) , R 
 N00031696,committees,477, Mike Lee (R) , R 
-N00031782,Agriculture,3500, Tim Scott (R) , R 
-N00031782,Agriculture,1000, Tim Scott (R) , R 
-N00031782,Agriculture,500, Tim Scott (R) , R 
-N00031782,Agriculture,7500, Tim Scott (R) , R 
-N00031782,Agriculture,2500, Tim Scott (R) , R 
+N00031782,Agri,3500, Tim Scott (R) , R 
+N00031782,Agri,1000, Tim Scott (R) , R 
+N00031782,Agri,500, Tim Scott (R) , R 
+N00031782,Agri,7500, Tim Scott (R) , R 
+N00031782,Agri,2500, Tim Scott (R) , R 
 N00031782,Builders,6000, Tim Scott (R) , R 
 N00031782,Builders,5000, Tim Scott (R) , R 
 N00031782,Builders,1000, Tim Scott (R) , R 
@@ -8268,15 +8268,15 @@ N00031782,Legal,1000, Tim Scott (R) , R
 N00031782,Unions,1000, Tim Scott (R) , R 
 N00031782,Builders,1000, Tim Scott (R) , R 
 N00031782,Unions,4500, Tim Scott (R) , R 
-N00031782,Manufacturing,9500, Tim Scott (R) , R 
-N00031782,Manufacturing,2500, Tim Scott (R) , R 
-N00031782,Manufacturing,1000, Tim Scott (R) , R 
-N00031782,Manufacturing,1000, Tim Scott (R) , R 
-N00031782,Manufacturing,2000, Tim Scott (R) , R 
-N00031782,Manufacturing,1000, Tim Scott (R) , R 
-N00031782,Manufacturing,1000, Tim Scott (R) , R 
-N00031782,Manufacturing,5000, Tim Scott (R) , R 
-N00031782,Manufacturing,1000, Tim Scott (R) , R 
+N00031782,MFG,9500, Tim Scott (R) , R 
+N00031782,MFG,2500, Tim Scott (R) , R 
+N00031782,MFG,1000, Tim Scott (R) , R 
+N00031782,MFG,1000, Tim Scott (R) , R 
+N00031782,MFG,2000, Tim Scott (R) , R 
+N00031782,MFG,1000, Tim Scott (R) , R 
+N00031782,MFG,1000, Tim Scott (R) , R 
+N00031782,MFG,5000, Tim Scott (R) , R 
+N00031782,MFG,1000, Tim Scott (R) , R 
 N00031782,Transport,3000, Tim Scott (R) , R 
 N00031782,Transport,1500, Tim Scott (R) , R 
 N00031782,Transport,1000, Tim Scott (R) , R 
@@ -8292,10 +8292,10 @@ N00031782,Transport,2500, Tim Scott (R) , R
 N00031782,Transport,5000, Tim Scott (R) , R 
 N00031782,Govt/NGO,1000, Tim Scott (R) , R 
 N00031782,committees,1840, Tim Scott (R) , R 
-N00032546,Agriculture,5000, Ron Johnson (R) , R 
-N00032546,Agriculture,5000, Ron Johnson (R) , R 
-N00032546,Agriculture,5000, Ron Johnson (R) , R 
-N00032546,Agriculture,2500, Ron Johnson (R) , R 
+N00032546,Agri,5000, Ron Johnson (R) , R 
+N00032546,Agri,5000, Ron Johnson (R) , R 
+N00032546,Agri,5000, Ron Johnson (R) , R 
+N00032546,Agri,2500, Ron Johnson (R) , R 
 N00032546,Builders,3500, Ron Johnson (R) , R 
 N00032546,Builders,-4000, Ron Johnson (R) , R 
 N00032546,Comms,1000, Ron Johnson (R) , R 
@@ -8363,14 +8363,14 @@ N00032546,Legal,3500, Ron Johnson (R) , R
 N00032546,Unions,6000, Ron Johnson (R) , R 
 N00032546,Unions,10000, Ron Johnson (R) , R 
 N00032546,Unions,5000, Ron Johnson (R) , R 
-N00032546,Manufacturing,1000, Ron Johnson (R) , R 
-N00032546,Manufacturing,9500, Ron Johnson (R) , R 
-N00032546,Manufacturing,2500, Ron Johnson (R) , R 
-N00032546,Manufacturing,1000, Ron Johnson (R) , R 
-N00032546,Manufacturing,2500, Ron Johnson (R) , R 
-N00032546,Manufacturing,4000, Ron Johnson (R) , R 
-N00032546,Manufacturing,1500, Ron Johnson (R) , R 
-N00032546,Manufacturing,2500, Ron Johnson (R) , R 
+N00032546,MFG,1000, Ron Johnson (R) , R 
+N00032546,MFG,9500, Ron Johnson (R) , R 
+N00032546,MFG,2500, Ron Johnson (R) , R 
+N00032546,MFG,1000, Ron Johnson (R) , R 
+N00032546,MFG,2500, Ron Johnson (R) , R 
+N00032546,MFG,4000, Ron Johnson (R) , R 
+N00032546,MFG,1500, Ron Johnson (R) , R 
+N00032546,MFG,2500, Ron Johnson (R) , R 
 N00032546,Transport,7000, Ron Johnson (R) , R 
 N00032546,Transport,3000, Ron Johnson (R) , R 
 N00032546,Transport,5000, Ron Johnson (R) , R 
@@ -8386,13 +8386,13 @@ N00032546,Transport,7000, Ron Johnson (R) , R
 N00032546,Transport,5000, Ron Johnson (R) , R 
 N00032546,Transport,1000, Ron Johnson (R) , R 
 N00032546,committees,2610, Ron Johnson (R) , R 
-N00033054,Agriculture,1000, Steven Daines (R) , R 
-N00033054,Agriculture,1000, Steven Daines (R) , R 
-N00033054,Agriculture,1000, Steven Daines (R) , R 
-N00033054,Agriculture,3500, Steven Daines (R) , R 
-N00033054,Agriculture,1000, Steven Daines (R) , R 
-N00033054,Agriculture,12000, Steven Daines (R) , R 
-N00033054,Agriculture,2500, Steven Daines (R) , R 
+N00033054,Agri,1000, Steven Daines (R) , R 
+N00033054,Agri,1000, Steven Daines (R) , R 
+N00033054,Agri,1000, Steven Daines (R) , R 
+N00033054,Agri,3500, Steven Daines (R) , R 
+N00033054,Agri,1000, Steven Daines (R) , R 
+N00033054,Agri,12000, Steven Daines (R) , R 
+N00033054,Agri,2500, Steven Daines (R) , R 
 N00033054,Builders,1000, Steven Daines (R) , R 
 N00033054,Builders,7000, Steven Daines (R) , R 
 N00033054,Builders,3000, Steven Daines (R) , R 
@@ -8458,8 +8458,8 @@ N00033054,Builders,2500, Steven Daines (R) , R
 N00033054,Unions,1000, Steven Daines (R) , R 
 N00033054,Unions,2000, Steven Daines (R) , R 
 N00033054,Unions,2500, Steven Daines (R) , R 
-N00033054,Manufacturing,2500, Steven Daines (R) , R 
-N00033054,Manufacturing,1000, Steven Daines (R) , R 
+N00033054,MFG,2500, Steven Daines (R) , R 
+N00033054,MFG,1000, Steven Daines (R) , R 
 N00033054,Transport,1000, Steven Daines (R) , R 
 N00033054,Transport,2500, Steven Daines (R) , R 
 N00033054,Transport,4000, Steven Daines (R) , R 
@@ -8469,13 +8469,13 @@ N00033054,Transport,2000, Steven Daines (R) , R
 N00033054,Transport,500, Steven Daines (R) , R 
 N00033054,Transport,2500, Steven Daines (R) , R 
 N00033054,Transport,3500, Steven Daines (R) , R 
-N00033085,Agriculture,2500, Ted Cruz (R) , R 
-N00033085,Agriculture,5500, Ted Cruz (R) , R 
-N00033085,Agriculture,4500, Ted Cruz (R) , R 
-N00033085,Agriculture,2500, Ted Cruz (R) , R 
-N00033085,Agriculture,2500, Ted Cruz (R) , R 
-N00033085,Agriculture,1000, Ted Cruz (R) , R 
-N00033085,Agriculture,4827, Ted Cruz (R) , R 
+N00033085,Agri,2500, Ted Cruz (R) , R 
+N00033085,Agri,5500, Ted Cruz (R) , R 
+N00033085,Agri,4500, Ted Cruz (R) , R 
+N00033085,Agri,2500, Ted Cruz (R) , R 
+N00033085,Agri,2500, Ted Cruz (R) , R 
+N00033085,Agri,1000, Ted Cruz (R) , R 
+N00033085,Agri,4827, Ted Cruz (R) , R 
 N00033085,Builders,5000, Ted Cruz (R) , R 
 N00033085,Builders,5000, Ted Cruz (R) , R 
 N00033085,Builders,5000, Ted Cruz (R) , R 
@@ -8551,10 +8551,10 @@ N00033085,Policy,1794, Ted Cruz (R) , R
 N00033085,Policy,1000, Ted Cruz (R) , R 
 N00033085,Legal,16500, Ted Cruz (R) , R 
 N00033085,Unions,6500, Ted Cruz (R) , R 
-N00033085,Manufacturing,20000, Ted Cruz (R) , R 
-N00033085,Manufacturing,2500, Ted Cruz (R) , R 
-N00033085,Manufacturing,6500, Ted Cruz (R) , R 
-N00033085,Manufacturing,1000, Ted Cruz (R) , R 
+N00033085,MFG,20000, Ted Cruz (R) , R 
+N00033085,MFG,2500, Ted Cruz (R) , R 
+N00033085,MFG,6500, Ted Cruz (R) , R 
+N00033085,MFG,1000, Ted Cruz (R) , R 
 N00033085,Transport,30998, Ted Cruz (R) , R 
 N00033085,Transport,2500, Ted Cruz (R) , R 
 N00033085,Transport,2500, Ted Cruz (R) , R 
@@ -8574,9 +8574,9 @@ N00033085,Transport,5000, Ted Cruz (R) , R
 N00033085,Transport,7500, Ted Cruz (R) , R 
 N00033085,committees,2000, Ted Cruz (R) , R 
 N00033085,committees,124177, Ted Cruz (R) , R 
-N00033363,Agriculture,1000, Tom Cotton (R) , R 
-N00033363,Agriculture,1000, Tom Cotton (R) , R 
-N00033363,Agriculture,2000, Tom Cotton (R) , R 
+N00033363,Agri,1000, Tom Cotton (R) , R 
+N00033363,Agri,1000, Tom Cotton (R) , R 
+N00033363,Agri,2000, Tom Cotton (R) , R 
 N00033363,Builders,1000, Tom Cotton (R) , R 
 N00033363,Comms,6180, Tom Cotton (R) , R 
 N00033363,Comms,10500, Tom Cotton (R) , R 
@@ -8629,8 +8629,8 @@ N00033363,Policy,1000, Tom Cotton (R) , R
 N00033363,Policy,10000, Tom Cotton (R) , R 
 N00033363,Legal,12500, Tom Cotton (R) , R 
 N00033363,Legal,500, Tom Cotton (R) , R 
-N00033363,Manufacturing,1500, Tom Cotton (R) , R 
-N00033363,Manufacturing,2000, Tom Cotton (R) , R 
+N00033363,MFG,1500, Tom Cotton (R) , R 
+N00033363,MFG,2000, Tom Cotton (R) , R 
 N00033363,Transport,2000, Tom Cotton (R) , R 
 N00033363,Transport,1500, Tom Cotton (R) , R 
 N00033363,Transport,2500, Tom Cotton (R) , R 
@@ -8639,27 +8639,27 @@ N00033363,Transport,2000, Tom Cotton (R) , R
 N00033363,Transport,2000, Tom Cotton (R) , R 
 N00033363,Transport,2500, Tom Cotton (R) , R 
 N00033363,committees,1000, Tom Cotton (R) , R 
-N00033443,Agriculture,2000, Deb Fischer (R) , R 
-N00033443,Agriculture,1000, Deb Fischer (R) , R 
-N00033443,Agriculture,3000, Deb Fischer (R) , R 
-N00033443,Agriculture,30000, Deb Fischer (R) , R 
-N00033443,Agriculture,7500, Deb Fischer (R) , R 
-N00033443,Agriculture,10000, Deb Fischer (R) , R 
-N00033443,Agriculture,12500, Deb Fischer (R) , R 
-N00033443,Agriculture,9000, Deb Fischer (R) , R 
-N00033443,Agriculture,12500, Deb Fischer (R) , R 
-N00033443,Agriculture,11000, Deb Fischer (R) , R 
-N00033443,Agriculture,5500, Deb Fischer (R) , R 
-N00033443,Agriculture,5000, Deb Fischer (R) , R 
-N00033443,Agriculture,1000, Deb Fischer (R) , R 
-N00033443,Agriculture,5750, Deb Fischer (R) , R 
-N00033443,Agriculture,9500, Deb Fischer (R) , R 
-N00033443,Agriculture,10000, Deb Fischer (R) , R 
-N00033443,Agriculture,10500, Deb Fischer (R) , R 
-N00033443,Agriculture,1000, Deb Fischer (R) , R 
-N00033443,Agriculture,6000, Deb Fischer (R) , R 
-N00033443,Agriculture,10000, Deb Fischer (R) , R 
-N00033443,Agriculture,13000, Deb Fischer (R) , R 
+N00033443,Agri,2000, Deb Fischer (R) , R 
+N00033443,Agri,1000, Deb Fischer (R) , R 
+N00033443,Agri,3000, Deb Fischer (R) , R 
+N00033443,Agri,30000, Deb Fischer (R) , R 
+N00033443,Agri,7500, Deb Fischer (R) , R 
+N00033443,Agri,10000, Deb Fischer (R) , R 
+N00033443,Agri,12500, Deb Fischer (R) , R 
+N00033443,Agri,9000, Deb Fischer (R) , R 
+N00033443,Agri,12500, Deb Fischer (R) , R 
+N00033443,Agri,11000, Deb Fischer (R) , R 
+N00033443,Agri,5500, Deb Fischer (R) , R 
+N00033443,Agri,5000, Deb Fischer (R) , R 
+N00033443,Agri,1000, Deb Fischer (R) , R 
+N00033443,Agri,5750, Deb Fischer (R) , R 
+N00033443,Agri,9500, Deb Fischer (R) , R 
+N00033443,Agri,10000, Deb Fischer (R) , R 
+N00033443,Agri,10500, Deb Fischer (R) , R 
+N00033443,Agri,1000, Deb Fischer (R) , R 
+N00033443,Agri,6000, Deb Fischer (R) , R 
+N00033443,Agri,10000, Deb Fischer (R) , R 
+N00033443,Agri,13000, Deb Fischer (R) , R 
 N00033443,Builders,10000, Deb Fischer (R) , R 
 N00033443,Builders,12500, Deb Fischer (R) , R 
 N00033443,Builders,5000, Deb Fischer (R) , R 
@@ -8784,15 +8784,15 @@ N00033443,Builders,2500, Deb Fischer (R) , R
 N00033443,Unions,1500, Deb Fischer (R) , R 
 N00033443,Unions,13000, Deb Fischer (R) , R 
 N00033443,Unions,15583, Deb Fischer (R) , R 
-N00033443,Manufacturing,19500, Deb Fischer (R) , R 
-N00033443,Manufacturing,8000, Deb Fischer (R) , R 
-N00033443,Manufacturing,3500, Deb Fischer (R) , R 
-N00033443,Manufacturing,4000, Deb Fischer (R) , R 
-N00033443,Manufacturing,2500, Deb Fischer (R) , R 
-N00033443,Manufacturing,3500, Deb Fischer (R) , R 
-N00033443,Manufacturing,2000, Deb Fischer (R) , R 
-N00033443,Manufacturing,1000, Deb Fischer (R) , R 
-N00033443,Manufacturing,2500, Deb Fischer (R) , R 
+N00033443,MFG,19500, Deb Fischer (R) , R 
+N00033443,MFG,8000, Deb Fischer (R) , R 
+N00033443,MFG,3500, Deb Fischer (R) , R 
+N00033443,MFG,4000, Deb Fischer (R) , R 
+N00033443,MFG,2500, Deb Fischer (R) , R 
+N00033443,MFG,3500, Deb Fischer (R) , R 
+N00033443,MFG,2000, Deb Fischer (R) , R 
+N00033443,MFG,1000, Deb Fischer (R) , R 
+N00033443,MFG,2500, Deb Fischer (R) , R 
 N00033443,Transport,18500, Deb Fischer (R) , R 
 N00033443,Transport,2000, Deb Fischer (R) , R 
 N00033443,Transport,5500, Deb Fischer (R) , R 
@@ -8821,9 +8821,9 @@ N00033443,Transport,1000, Deb Fischer (R) , R
 N00033443,Govt/NGO,3000, Deb Fischer (R) , R 
 N00033443,committees,11656, Deb Fischer (R) , R 
 N00033443,committees,24705, Deb Fischer (R) , R 
-N00035187,Agriculture,5500, Mike Rounds (R) , R 
-N00035187,Agriculture,3000, Mike Rounds (R) , R 
-N00035187,Agriculture,5000, Mike Rounds (R) , R 
+N00035187,Agri,5500, Mike Rounds (R) , R 
+N00035187,Agri,3000, Mike Rounds (R) , R 
+N00035187,Agri,5000, Mike Rounds (R) , R 
 N00035187,Comms,1000, Mike Rounds (R) , R 
 N00035187,Comms,8500, Mike Rounds (R) , R 
 N00035187,Comms,2000, Mike Rounds (R) , R 
@@ -8874,10 +8874,10 @@ N00035187,Policy,861, Mike Rounds (R) , R
 N00035187,Policy,-250, Mike Rounds (R) , R 
 N00035187,Legal,4500, Mike Rounds (R) , R 
 N00035187,Unions,6000, Mike Rounds (R) , R 
-N00035187,Manufacturing,13000, Mike Rounds (R) , R 
-N00035187,Manufacturing,3500, Mike Rounds (R) , R 
-N00035187,Manufacturing,2500, Mike Rounds (R) , R 
-N00035187,Manufacturing,2348, Mike Rounds (R) , R 
+N00035187,MFG,13000, Mike Rounds (R) , R 
+N00035187,MFG,3500, Mike Rounds (R) , R 
+N00035187,MFG,2500, Mike Rounds (R) , R 
+N00035187,MFG,2348, Mike Rounds (R) , R 
 N00035187,Transport,1000, Mike Rounds (R) , R 
 N00035187,Transport,3000, Mike Rounds (R) , R 
 N00035187,Transport,4000, Mike Rounds (R) , R 
@@ -8886,15 +8886,15 @@ N00035187,Transport,5000, Mike Rounds (R) , R
 N00035187,Transport,5000, Mike Rounds (R) , R 
 N00035187,Transport,2500, Mike Rounds (R) , R 
 N00035187,committees,1000, Mike Rounds (R) , R 
-N00035483,Agriculture,1000, Joni Ernst (R) , R 
-N00035483,Agriculture,1500, Joni Ernst (R) , R 
-N00035483,Agriculture,2500, Joni Ernst (R) , R 
-N00035483,Agriculture,1000, Joni Ernst (R) , R 
-N00035483,Agriculture,2000, Joni Ernst (R) , R 
-N00035483,Agriculture,1000, Joni Ernst (R) , R 
-N00035483,Agriculture,5000, Joni Ernst (R) , R 
-N00035483,Agriculture,1000, Joni Ernst (R) , R 
-N00035483,Agriculture,1000, Joni Ernst (R) , R 
+N00035483,Agri,1000, Joni Ernst (R) , R 
+N00035483,Agri,1500, Joni Ernst (R) , R 
+N00035483,Agri,2500, Joni Ernst (R) , R 
+N00035483,Agri,1000, Joni Ernst (R) , R 
+N00035483,Agri,2000, Joni Ernst (R) , R 
+N00035483,Agri,1000, Joni Ernst (R) , R 
+N00035483,Agri,5000, Joni Ernst (R) , R 
+N00035483,Agri,1000, Joni Ernst (R) , R 
+N00035483,Agri,1000, Joni Ernst (R) , R 
 N00035483,Builders,2500, Joni Ernst (R) , R 
 N00035483,Builders,5500, Joni Ernst (R) , R 
 N00035483,Builders,1000, Joni Ernst (R) , R 
@@ -8939,11 +8939,11 @@ N00035483,Policy,-1000, Joni Ernst (R) , R
 N00035483,Legal,14000, Joni Ernst (R) , R 
 N00035483,Unions,1000, Joni Ernst (R) , R 
 N00035483,Unions,1000, Joni Ernst (R) , R 
-N00035483,Manufacturing,8500, Joni Ernst (R) , R 
-N00035483,Manufacturing,2500, Joni Ernst (R) , R 
-N00035483,Manufacturing,2500, Joni Ernst (R) , R 
-N00035483,Manufacturing,2000, Joni Ernst (R) , R 
-N00035483,Manufacturing,2500, Joni Ernst (R) , R 
+N00035483,MFG,8500, Joni Ernst (R) , R 
+N00035483,MFG,2500, Joni Ernst (R) , R 
+N00035483,MFG,2500, Joni Ernst (R) , R 
+N00035483,MFG,2000, Joni Ernst (R) , R 
+N00035483,MFG,2500, Joni Ernst (R) , R 
 N00035483,Transport,2500, Joni Ernst (R) , R 
 N00035483,Transport,2500, Joni Ernst (R) , R 
 N00035483,Transport,8500, Joni Ernst (R) , R 
@@ -8952,18 +8952,18 @@ N00035483,Transport,3000, Joni Ernst (R) , R
 N00035483,Transport,1000, Joni Ernst (R) , R 
 N00035483,Transport,2000, Joni Ernst (R) , R 
 N00035483,Transport,2000, Joni Ernst (R) , R 
-N00035492,Agriculture,1000, Thom Tillis (R) , R 
-N00035492,Agriculture,1000, Thom Tillis (R) , R 
-N00035492,Agriculture,1000, Thom Tillis (R) , R 
-N00035492,Agriculture,10000, Thom Tillis (R) , R 
-N00035492,Agriculture,1000, Thom Tillis (R) , R 
-N00035492,Agriculture,2000, Thom Tillis (R) , R 
-N00035492,Agriculture,2500, Thom Tillis (R) , R 
-N00035492,Agriculture,3000, Thom Tillis (R) , R 
-N00035492,Agriculture,2500, Thom Tillis (R) , R 
-N00035492,Agriculture,1000, Thom Tillis (R) , R 
-N00035492,Agriculture,5000, Thom Tillis (R) , R 
-N00035492,Agriculture,4000, Thom Tillis (R) , R 
+N00035492,Agri,1000, Thom Tillis (R) , R 
+N00035492,Agri,1000, Thom Tillis (R) , R 
+N00035492,Agri,1000, Thom Tillis (R) , R 
+N00035492,Agri,10000, Thom Tillis (R) , R 
+N00035492,Agri,1000, Thom Tillis (R) , R 
+N00035492,Agri,2000, Thom Tillis (R) , R 
+N00035492,Agri,2500, Thom Tillis (R) , R 
+N00035492,Agri,3000, Thom Tillis (R) , R 
+N00035492,Agri,2500, Thom Tillis (R) , R 
+N00035492,Agri,1000, Thom Tillis (R) , R 
+N00035492,Agri,5000, Thom Tillis (R) , R 
+N00035492,Agri,4000, Thom Tillis (R) , R 
 N00035492,Builders,1000, Thom Tillis (R) , R 
 N00035492,Builders,5000, Thom Tillis (R) , R 
 N00035492,Builders,3750, Thom Tillis (R) , R 
@@ -9057,14 +9057,14 @@ N00035492,Policy,2000, Thom Tillis (R) , R
 N00035492,Policy,0, Thom Tillis (R) , R 
 N00035492,Legal,18250, Thom Tillis (R) , R 
 N00035492,Unions,1000, Thom Tillis (R) , R 
-N00035492,Manufacturing,3000, Thom Tillis (R) , R 
-N00035492,Manufacturing,1000, Thom Tillis (R) , R 
-N00035492,Manufacturing,3000, Thom Tillis (R) , R 
-N00035492,Manufacturing,1000, Thom Tillis (R) , R 
-N00035492,Manufacturing,2000, Thom Tillis (R) , R 
-N00035492,Manufacturing,2500, Thom Tillis (R) , R 
-N00035492,Manufacturing,2500, Thom Tillis (R) , R 
-N00035492,Manufacturing,6000, Thom Tillis (R) , R 
+N00035492,MFG,3000, Thom Tillis (R) , R 
+N00035492,MFG,1000, Thom Tillis (R) , R 
+N00035492,MFG,3000, Thom Tillis (R) , R 
+N00035492,MFG,1000, Thom Tillis (R) , R 
+N00035492,MFG,2000, Thom Tillis (R) , R 
+N00035492,MFG,2500, Thom Tillis (R) , R 
+N00035492,MFG,2500, Thom Tillis (R) , R 
+N00035492,MFG,6000, Thom Tillis (R) , R 
 N00035492,Transport,2500, Thom Tillis (R) , R 
 N00035492,Transport,3500, Thom Tillis (R) , R 
 N00035492,Transport,2000, Thom Tillis (R) , R 
@@ -9075,16 +9075,16 @@ N00035492,Transport,2500, Thom Tillis (R) , R
 N00035492,Transport,1000, Thom Tillis (R) , R 
 N00035492,Govt/NGO,1000, Thom Tillis (R) , R 
 N00035492,committees,2000, Thom Tillis (R) , R 
-N00035516,Agriculture,2500, David Perdue (R) , R 
-N00035516,Agriculture,2500, David Perdue (R) , R 
-N00035516,Agriculture,6000, David Perdue (R) , R 
-N00035516,Agriculture,8500, David Perdue (R) , R 
-N00035516,Agriculture,5000, David Perdue (R) , R 
-N00035516,Agriculture,10500, David Perdue (R) , R 
-N00035516,Agriculture,1000, David Perdue (R) , R 
-N00035516,Agriculture,1000, David Perdue (R) , R 
-N00035516,Agriculture,1000, David Perdue (R) , R 
-N00035516,Agriculture,13000, David Perdue (R) , R 
+N00035516,Agri,2500, David Perdue (R) , R 
+N00035516,Agri,2500, David Perdue (R) , R 
+N00035516,Agri,6000, David Perdue (R) , R 
+N00035516,Agri,8500, David Perdue (R) , R 
+N00035516,Agri,5000, David Perdue (R) , R 
+N00035516,Agri,10500, David Perdue (R) , R 
+N00035516,Agri,1000, David Perdue (R) , R 
+N00035516,Agri,1000, David Perdue (R) , R 
+N00035516,Agri,1000, David Perdue (R) , R 
+N00035516,Agri,13000, David Perdue (R) , R 
 N00035516,Builders,5000, David Perdue (R) , R 
 N00035516,Builders,2500, David Perdue (R) , R 
 N00035516,Comms,1500, David Perdue (R) , R 
@@ -9157,9 +9157,9 @@ N00035516,Legal,9000, David Perdue (R) , R
 N00035516,Legal,500, David Perdue (R) , R 
 N00035516,Legal,1500, David Perdue (R) , R 
 N00035516,Unions,4500, David Perdue (R) , R 
-N00035516,Manufacturing,2500, David Perdue (R) , R 
-N00035516,Manufacturing,0, David Perdue (R) , R 
-N00035516,Manufacturing,2500, David Perdue (R) , R 
+N00035516,MFG,2500, David Perdue (R) , R 
+N00035516,MFG,0, David Perdue (R) , R 
+N00035516,MFG,2500, David Perdue (R) , R 
 N00035516,Transport,12500, David Perdue (R) , R 
 N00035516,Transport,10000, David Perdue (R) , R 
 N00035516,Transport,3000, David Perdue (R) , R 
@@ -9167,11 +9167,11 @@ N00035516,Transport,4000, David Perdue (R) , R
 N00035516,Govt/NGO,1000, David Perdue (R) , R 
 N00035516,committees,1000, David Perdue (R) , R 
 N00035516,committees,2000, David Perdue (R) , R 
-N00035544,Agriculture,1000, Ben Sasse (R) , R 
-N00035544,Agriculture,1000, Ben Sasse (R) , R 
-N00035544,Agriculture,1000, Ben Sasse (R) , R 
-N00035544,Agriculture,2000, Ben Sasse (R) , R 
-N00035544,Agriculture,1000, Ben Sasse (R) , R 
+N00035544,Agri,1000, Ben Sasse (R) , R 
+N00035544,Agri,1000, Ben Sasse (R) , R 
+N00035544,Agri,1000, Ben Sasse (R) , R 
+N00035544,Agri,2000, Ben Sasse (R) , R 
+N00035544,Agri,1000, Ben Sasse (R) , R 
 N00035544,Builders,1000, Ben Sasse (R) , R 
 N00035544,Builders,2000, Ben Sasse (R) , R 
 N00035544,Comms,3000, Ben Sasse (R) , R 
@@ -9237,8 +9237,8 @@ N00035544,Legal,4250, Ben Sasse (R) , R
 N00035544,Legal,2000, Ben Sasse (R) , R 
 N00035544,Legal,1000, Ben Sasse (R) , R 
 N00035544,Unions,2000, Ben Sasse (R) , R 
-N00035544,Manufacturing,0, Ben Sasse (R) , R 
-N00035544,Manufacturing,1000, Ben Sasse (R) , R 
+N00035544,MFG,0, Ben Sasse (R) , R 
+N00035544,MFG,1000, Ben Sasse (R) , R 
 N00035544,Transport,2500, Ben Sasse (R) , R 
 N00035544,Transport,5000, Ben Sasse (R) , R 
 N00035544,Transport,1000, Ben Sasse (R) , R 
@@ -9246,7 +9246,7 @@ N00035544,Transport,2000, Ben Sasse (R) , R
 N00035544,Transport,-500, Ben Sasse (R) , R 
 N00035544,Transport,2500, Ben Sasse (R) , R 
 N00035544,committees,4000, Ben Sasse (R) , R 
-N00035774,Agriculture,1000, Dan Sullivan (R) , R 
+N00035774,Agri,1000, Dan Sullivan (R) , R 
 N00035774,Builders,1000, Dan Sullivan (R) , R 
 N00035774,Builders,1000, Dan Sullivan (R) , R 
 N00035774,Comms,7500, Dan Sullivan (R) , R 
@@ -9305,24 +9305,24 @@ N00035774,Transport,5000, Dan Sullivan (R) , R
 N00035774,Transport,2000, Dan Sullivan (R) , R 
 N00035774,Transport,3500, Dan Sullivan (R) , R 
 N00035774,committees,3000, Dan Sullivan (R) , R 
-N00043298,Agriculture,1000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,11000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,28000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,6000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,4500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,10000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,2500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,11000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,11000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,15500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,6500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,5000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,1500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,1000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,5500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,7000, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,10500, Cindy Hyde-Smith (R) , R 
-N00043298,Agriculture,2500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,1000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,11000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,28000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,6000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,4500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,10000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,2500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,11000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,11000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,15500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,6500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,5000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,1500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,1000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,5500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,7000, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,10500, Cindy Hyde-Smith (R) , R 
+N00043298,Agri,2500, Cindy Hyde-Smith (R) , R 
 N00043298,Builders,6000, Cindy Hyde-Smith (R) , R 
 N00043298,Builders,2500, Cindy Hyde-Smith (R) , R 
 N00043298,Builders,2000, Cindy Hyde-Smith (R) , R 
@@ -9401,9 +9401,9 @@ N00043298,Legal,2500, Cindy Hyde-Smith (R) , R
 N00043298,Legal,5558, Cindy Hyde-Smith (R) , R 
 N00043298,Unions,3000, Cindy Hyde-Smith (R) , R 
 N00043298,Unions,1000, Cindy Hyde-Smith (R) , R 
-N00043298,Manufacturing,2500, Cindy Hyde-Smith (R) , R 
-N00043298,Manufacturing,5000, Cindy Hyde-Smith (R) , R 
-N00043298,Manufacturing,2500, Cindy Hyde-Smith (R) , R 
+N00043298,MFG,2500, Cindy Hyde-Smith (R) , R 
+N00043298,MFG,5000, Cindy Hyde-Smith (R) , R 
+N00043298,MFG,2500, Cindy Hyde-Smith (R) , R 
 N00043298,Transport,3500, Cindy Hyde-Smith (R) , R 
 N00043298,Transport,2500, Cindy Hyde-Smith (R) , R 
 N00043298,Transport,1000, Cindy Hyde-Smith (R) , R 
