@@ -4,7 +4,7 @@ import scipy.cluster.hierarchy as sch
 from sklearn import preprocessing
 import matplotlib.pyplot as plt
 
-dataset = pd.read_csv('project/test')
+dataset = pd.read_csv('test.csv')
 #dataset.drop(dataset.index[98])
 dataset = dataset.fillna('0')
 
@@ -29,7 +29,7 @@ clustered_row = dataset.assign(cluster = pd.Series(ind).values)
 clustered_row = clustered_row.sort_values(['cluster','Grand Total'], ascending=[True,False])
 
 # export
-#clustered_row.to_csv('clustered_row.csv')
+clustered_row.to_csv('clustered_row.csv')
 
 
 # cluster columns
@@ -55,4 +55,4 @@ transpose = transpose.sort_values(['cluster'], ascending=[True])
 clustered_row_column = transpose.T
 
 # export
-#clustered_row_column.to_csv('clustered_row_column.csv')
+clustered_row_column.to_csv('clustered_row_column.csv')
