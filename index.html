@@ -16,8 +16,8 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 70, right: 25, bottom: 30, left: 100},
-  width = 850 - margin.left - margin.right,
-  height = 800 - margin.top - margin.bottom;
+  width = 900 - margin.left - margin.right,
+  height = 850 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -29,7 +29,7 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("final.csv", function(data) {
+d3.csv("project/final.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(data, function(d){return d.ideology;}).keys()
@@ -50,7 +50,7 @@ d3.csv("final.csv", function(data) {
   var y = d3.scaleBand()
     .range([ height, 0 ])
     .domain(myVars)
-    .padding(0.3);
+    .padding(0.4);
   svg.append("g")
     .style("font-size", 10)
     .call(d3.axisLeft(y).tickSize(0))
@@ -83,8 +83,8 @@ d3.csv("final.csv", function(data) {
   var mousemove = function(d) {
     tooltip
         .html("The contribution is: " + d.Amt)
-        .style("left", (d3.mouse(this)[0]+70) + "px")
-        .style("top", (d3.mouse(this)[1]) + "px")
+        .style("left", (d3.mouse(this)[0]+200) + "px")
+        .style("top", (d3.mouse(this)[1]+300) + "px")
   }
   var mouseleave = function(d) {
     tooltip
