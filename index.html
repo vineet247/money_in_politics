@@ -29,11 +29,11 @@ var svg = d3.select("#my_dataviz")
         "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("project/final.csv", function(data) {
+d3.csv("project/new_clustered_2.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(data, function(d){return d.ideology;}).keys()
-  var myVars = d3.map(data, function(d){return d.Cand_name;}).keys()
+  var myVars = d3.map(data, function(d){return d.Name;}).keys()
 
   // Build X scales and axis:
   var x = d3.scaleBand()
@@ -59,7 +59,7 @@ d3.csv("project/final.csv", function(data) {
   // Build color scale
   var myColor = d3.scaleLinear()
   .range(["blue", "red"])
-  .domain([1,10000])
+  .domain([1,100000])
 
   // create a tooltip
   var tooltip = d3.select("#my_dataviz")
@@ -96,11 +96,11 @@ d3.csv("project/final.csv", function(data) {
 
   // add the squares
   svg.selectAll()
-    .data(data, function(d) {return d.ideology+':'+d.Cand_name;})
+    .data(data, function(d) {return d.ideology+':'+d.Name;})
     .enter()
     .append("rect")
       .attr("x", function(d) { return x(d.ideology) })
-      .attr("y", function(d) { return y(d.Cand_name) })
+      .attr("y", function(d) { return y(d.Name) })
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth() )
