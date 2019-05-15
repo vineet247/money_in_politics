@@ -76,6 +76,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   // create a tooltip
   var tooltip = d3.select("#my_dataviz")
     .append("div")
+    .style("position", "absolute")
     .style("opacity", 0)
     .attr("class", "tooltip")
     .style("background-color", "white")
@@ -95,8 +96,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   var mousemove = function(d) {
     tooltip
         .html("The contribution is: " + d.Amt)
-        .style("left", (d3.mouse(this)[0]+200) + "px")
-        .style("top", (d3.mouse(this)[1]+300) + "px")
+        .style("left", (d3.mouse(this)[0]+50) + "px")
+        .style("top", (d3.mouse(this)[1]+50) + "px")
   }
   var mouseleave = function(d) {
     tooltip
@@ -113,8 +114,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
     .append("rect")
       .attr("x", function(d) { return x(d.ideology) })
       .attr("y", function(d) { return y(d.Name) })
-      .attr("rx", 1)
-      .attr("ry", 1)
+    //  .attr("rx", 1)
+    //  .attr("ry", 1)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
       .style("fill", function(d) { return myColor(d.Amt)} )
