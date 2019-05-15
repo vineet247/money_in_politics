@@ -67,6 +67,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
 
   var legendLinear = d3.legendColor()
     .labelFormat(d3.format(".0f"))
+    .cells([0,20000,40000,60000,80000])
     .shapeWidth(10)
     .orient('vertical')
     .scale(myColor);
