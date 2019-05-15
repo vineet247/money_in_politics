@@ -66,6 +66,7 @@ d3.csv("project/new_clustered.csv", function(data) {
     .attr("transform", "translate(775,20)");
 
   var legendLinear = d3.legendColor()
+    .labelFormat(d3.format(".0f"))
     .shapeWidth(10)
     .orient('vertical')
     .scale(myColor);
