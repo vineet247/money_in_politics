@@ -1,1569 +1,1471 @@
-,Origin,Name,ideology,Amt
-0,6, Bill Nelson (D) ,Agriculture,49000
-1,68, Orrin G Hatch (R) ,Agriculture,18000
-2,94, Todd Young (R) ,Agriculture,8250
-3,17, Claire McCaskill (D) ,Agriculture,42500
-4,27, Doug Jones (D) ,Agriculture,36500
-5,41, Joe Manchin (D) ,Agriculture,41642
-6,40, Joe Donnelly (D) ,Agriculture,140100
-7,87, Tammy Baldwin (D) ,Agriculture,60000
-8,22, Dean Heller (R) ,Agriculture,49000
-9,31, Heidi Heitkamp (D) ,Agriculture,212500
-10,49, Jon Tester (D) ,Agriculture,68500
-11,24, Debbie Stabenow (D) ,Agriculture,318103
-12,42, John A Barrasso (R) ,Agriculture,107500
-13,7, Bob Casey (D) ,Agriculture,115750
-14,84, Sherrod Brown (D) ,Agriculture,40500
-15,79, Roger Wicker (R) ,Agriculture,129500
-16,91, Tim Kaine (D) ,Agriculture,34000
-17,23, Deb Fischer (R) ,Agriculture,175750
-18,60, Martin Heinrich (D) ,Agriculture,24000
-19,0, Amy Klobuchar (D) ,Agriculture,177000
-20,16, Cindy Hyde-Smith (R) ,Agriculture,140000
-21,95, Tom Carper (D) ,Agriculture,29000
-22,2, Ben Cardin (D) ,Agriculture,22500
-23,25, Dianne Feinstein (D) ,Agriculture,110950
-24,14, Christopher S Murphy (D) ,Agriculture,7000
-25,89, Ted Cruz (R) ,Agriculture,23327
-26,78, Robert Menendez (D) ,Agriculture,7000
-27,93, Tina Smith (D) ,Agriculture,86500
-28,1, Angus King (I) ,Agriculture,72500
-29,37, Jeff Flake (R) ,Agriculture,11000
-30,61, Mazie K Hirono (D) ,Agriculture,22000
-31,82, Sheldon Whitehouse (D) ,Agriculture,700
-32,63, Mike Crapo (R) ,Agriculture,16000
-33,52, Kirsten Gillibrand (D) ,Agriculture,20000
-34,44, John Cornyn (R) ,Agriculture,25000
-35,67, Mitch McConnell (R) ,Agriculture,32000
-36,29, Elizabeth Warren (D) ,Agriculture,0
-37,90, Thom Tillis (R) ,Agriculture,34000
-38,70, Pat Toomey (R) ,Agriculture,9000
-39,5, Bill Cassidy (R) ,Agriculture,29000
-40,59, Mark Warner (D) ,Agriculture,30500
-41,92, Tim Scott (R) ,Agriculture,15000
-42,77, Rob Portman (R) ,Agriculture,5000
-43,47, John Thune (R) ,Agriculture,35000
-44,8, Bob Corker (R) ,Agriculture,0
-45,19, Cory Gardner (R) ,Agriculture,25500
-46,21, David Perdue (R) ,Agriculture,51000
-47,86, Susan Collins (R) ,Agriculture,13000
-48,30, Gary Peters (D) ,Agriculture,10000
-49,55, Lisa Murkowski (R) ,Agriculture,0
-50,46, John Kennedy (R) ,Agriculture,50173
-51,69, Pat Roberts (R) ,Agriculture,124500
-52,83, Shelley Moore Capito (R) ,Agriculture,7000
-53,80, Ron Johnson (R) ,Agriculture,17500
-54,54, Lindsey Graham (R) ,Agriculture,23700
-55,35, James M Inhofe (R) ,Agriculture,11000
-56,48, Johnny Isakson (R) ,Agriculture,15000
-57,72, Patty Murray (D) ,Agriculture,6000
-58,57, Marco Rubio (R) ,Agriculture,19500
-59,81, Ron Wyden (D) ,Agriculture,4000
-60,3, Ben Sasse (R) ,Agriculture,6000
-61,96, Tom Cotton (R) ,Agriculture,4000
-62,28, Ed Markey (D) ,Agriculture,5000
-63,66, Mike Rounds (R) ,Agriculture,13500
-64,9, Brian Schatz (D) ,Agriculture,0
-65,85, Steven Daines (R) ,Agriculture,22000
-66,88, Tammy Duckworth (D) ,Agriculture,18500
-67,20, Dan Sullivan (R) ,Agriculture,1000
-68,10, Catherine Cortez Masto (D) ,Agriculture,15000
-69,36, Jeanne Shaheen (D) ,Agriculture,5500
-70,50, Joni Ernst (R) ,Agriculture,16000
-71,39, Jerry Moran (R) ,Agriculture,19250
-72,34, James Lankford (R) ,Agriculture,1000
-73,53, Lamar Alexander (R) ,Agriculture,6500
-74,26, Dick Durbin (D) ,Agriculture,0
-75,45, John Hoeven (R) ,Agriculture,46500
-76,18, Cory Booker (D) ,Agriculture,0
-77,12, Chris Coons (D) ,Agriculture,6000
-78,43, John Boozman (R) ,Agriculture,56250
-79,32, Jack Reed (D) ,Agriculture,0
-80,15, Chuck Grassley (R) ,Agriculture,8000
-81,73, Rand Paul (R) ,Agriculture,1000
-82,65, Mike Lee (R) ,Agriculture,2000
-83,56, Maggie Hassan (D) ,Agriculture,4500
-84,4, Bernie Sanders (I) ,Agriculture,0
-85,62, Michael F Bennet (D) ,Agriculture,2000
-86,58, Maria Cantwell (D) ,Agriculture,5000
-87,64, Mike Enzi (R) ,Agriculture,3500
-88,71, Patrick Leahy (D) ,Agriculture,8600
-89,33, James E Risch (R) ,Agriculture,1500
-90,97, Tom Udall (D) ,Agriculture,1000
-91,74, Richard Blumenthal (D) ,Agriculture,0
-92,11, Charles E Schumer (D) ,Agriculture,8000
-93,75, Richard Burr (R) ,Agriculture,0
-94,38, Jeff Merkley (D) ,Agriculture,7500
-95,51, Kamala D Harris (D) ,Agriculture,6000
-96,76, Richard C Shelby (R) ,Agriculture,3500
-97,13, Chris Van Hollen (D) ,Agriculture,0
-98,6, Bill Nelson (D) ,Builders,75600
-99,68, Orrin G Hatch (R) ,Builders,59000
-100,94, Todd Young (R) ,Builders,3500
-101,17, Claire McCaskill (D) ,Builders,100450
-102,27, Doug Jones (D) ,Builders,65500
-103,41, Joe Manchin (D) ,Builders,70500
-104,40, Joe Donnelly (D) ,Builders,69250
-105,87, Tammy Baldwin (D) ,Builders,62500
-106,22, Dean Heller (R) ,Builders,106000
-107,31, Heidi Heitkamp (D) ,Builders,99201
-108,49, Jon Tester (D) ,Builders,34500
-109,24, Debbie Stabenow (D) ,Builders,82500
-110,42, John A Barrasso (R) ,Builders,130000
-111,7, Bob Casey (D) ,Builders,72750
-112,84, Sherrod Brown (D) ,Builders,87750
-113,79, Roger Wicker (R) ,Builders,65750
-114,91, Tim Kaine (D) ,Builders,61700
-115,23, Deb Fischer (R) ,Builders,72200
-116,60, Martin Heinrich (D) ,Builders,52000
-117,0, Amy Klobuchar (D) ,Builders,70000
-118,16, Cindy Hyde-Smith (R) ,Builders,24500
-119,95, Tom Carper (D) ,Builders,51200
-120,2, Ben Cardin (D) ,Builders,71125
-121,25, Dianne Feinstein (D) ,Builders,46200
-122,14, Christopher S Murphy (D) ,Builders,17000
-123,89, Ted Cruz (R) ,Builders,30500
-124,78, Robert Menendez (D) ,Builders,54600
-125,93, Tina Smith (D) ,Builders,49000
-126,1, Angus King (I) ,Builders,31000
-127,37, Jeff Flake (R) ,Builders,11900
-128,61, Mazie K Hirono (D) ,Builders,59500
-129,82, Sheldon Whitehouse (D) ,Builders,44750
-130,63, Mike Crapo (R) ,Builders,37100
-131,52, Kirsten Gillibrand (D) ,Builders,24500
-132,44, John Cornyn (R) ,Builders,48000
-133,67, Mitch McConnell (R) ,Builders,23500
-134,29, Elizabeth Warren (D) ,Builders,22500
-135,90, Thom Tillis (R) ,Builders,9750
-136,70, Pat Toomey (R) ,Builders,18500
-137,5, Bill Cassidy (R) ,Builders,4500
-138,59, Mark Warner (D) ,Builders,10000
-139,92, Tim Scott (R) ,Builders,19000
-140,77, Rob Portman (R) ,Builders,34000
-141,47, John Thune (R) ,Builders,16500
-142,8, Bob Corker (R) ,Builders,8500
-143,19, Cory Gardner (R) ,Builders,12500
-144,21, David Perdue (R) ,Builders,7500
-145,86, Susan Collins (R) ,Builders,8250
-146,30, Gary Peters (D) ,Builders,14000
-147,55, Lisa Murkowski (R) ,Builders,16500
-148,46, John Kennedy (R) ,Builders,5000
-149,69, Pat Roberts (R) ,Builders,5000
-150,83, Shelley Moore Capito (R) ,Builders,29500
-151,80, Ron Johnson (R) ,Builders,-500
-152,54, Lindsey Graham (R) ,Builders,12000
-153,35, James M Inhofe (R) ,Builders,15000
-154,48, Johnny Isakson (R) ,Builders,6500
-155,72, Patty Murray (D) ,Builders,19500
-156,57, Marco Rubio (R) ,Builders,12500
-157,81, Ron Wyden (D) ,Builders,7000
-158,3, Ben Sasse (R) ,Builders,3000
-159,96, Tom Cotton (R) ,Builders,1000
-160,28, Ed Markey (D) ,Builders,2000
-161,66, Mike Rounds (R) ,Builders,0
-162,9, Brian Schatz (D) ,Builders,4000
-163,85, Steven Daines (R) ,Builders,17500
-164,88, Tammy Duckworth (D) ,Builders,12500
-165,20, Dan Sullivan (R) ,Builders,2000
-166,10, Catherine Cortez Masto (D) ,Builders,17321
-167,36, Jeanne Shaheen (D) ,Builders,11000
-168,50, Joni Ernst (R) ,Builders,9000
-169,39, Jerry Moran (R) ,Builders,0
-170,34, James Lankford (R) ,Builders,500
-171,53, Lamar Alexander (R) ,Builders,0
-172,26, Dick Durbin (D) ,Builders,18500
-173,45, John Hoeven (R) ,Builders,2000
-174,18, Cory Booker (D) ,Builders,6500
-175,12, Chris Coons (D) ,Builders,1000
-176,43, John Boozman (R) ,Builders,0
-177,32, Jack Reed (D) ,Builders,24000
-178,15, Chuck Grassley (R) ,Builders,0
-179,73, Rand Paul (R) ,Builders,2500
-180,65, Mike Lee (R) ,Builders,-5000
-181,56, Maggie Hassan (D) ,Builders,24236
-182,4, Bernie Sanders (I) ,Builders,15600
-183,62, Michael F Bennet (D) ,Builders,12500
-184,58, Maria Cantwell (D) ,Builders,-1000
-185,64, Mike Enzi (R) ,Builders,0
-186,71, Patrick Leahy (D) ,Builders,0
-187,33, James E Risch (R) ,Builders,1000
-188,97, Tom Udall (D) ,Builders,5000
-189,74, Richard Blumenthal (D) ,Builders,0
-190,11, Charles E Schumer (D) ,Builders,5000
-191,75, Richard Burr (R) ,Builders,0
-192,38, Jeff Merkley (D) ,Builders,2200
-193,51, Kamala D Harris (D) ,Builders,-5000
-194,76, Richard C Shelby (R) ,Builders,0
-195,13, Chris Van Hollen (D) ,Builders,1000
-196,6, Bill Nelson (D) ,Comms,168475
-197,68, Orrin G Hatch (R) ,Comms,137100
-198,94, Todd Young (R) ,Comms,19000
-199,17, Claire McCaskill (D) ,Comms,140250
-200,27, Doug Jones (D) ,Comms,32500
-201,41, Joe Manchin (D) ,Comms,140377
-202,40, Joe Donnelly (D) ,Comms,96999
-203,87, Tammy Baldwin (D) ,Comms,74700
-204,22, Dean Heller (R) ,Comms,186500
-205,31, Heidi Heitkamp (D) ,Comms,125250
-206,49, Jon Tester (D) ,Comms,145750
-207,24, Debbie Stabenow (D) ,Comms,139200
-208,42, John A Barrasso (R) ,Comms,113500
-209,7, Bob Casey (D) ,Comms,146800
-210,84, Sherrod Brown (D) ,Comms,102613
-211,79, Roger Wicker (R) ,Comms,219400
-212,91, Tim Kaine (D) ,Comms,129500
-213,23, Deb Fischer (R) ,Comms,130050
-214,60, Martin Heinrich (D) ,Comms,87700
-215,0, Amy Klobuchar (D) ,Comms,124350
-216,16, Cindy Hyde-Smith (R) ,Comms,38200
-217,95, Tom Carper (D) ,Comms,67000
-218,2, Ben Cardin (D) ,Comms,50500
-219,25, Dianne Feinstein (D) ,Comms,132250
-220,14, Christopher S Murphy (D) ,Comms,58322
-221,89, Ted Cruz (R) ,Comms,92000
-222,78, Robert Menendez (D) ,Comms,63000
-223,93, Tina Smith (D) ,Comms,31500
-224,1, Angus King (I) ,Comms,102000
-225,37, Jeff Flake (R) ,Comms,66750
-226,61, Mazie K Hirono (D) ,Comms,109000
-227,82, Sheldon Whitehouse (D) ,Comms,94500
-228,63, Mike Crapo (R) ,Comms,30900
-229,52, Kirsten Gillibrand (D) ,Comms,32500
-230,44, John Cornyn (R) ,Comms,51000
-231,67, Mitch McConnell (R) ,Comms,35000
-232,29, Elizabeth Warren (D) ,Comms,-10000
-233,90, Thom Tillis (R) ,Comms,38500
-234,70, Pat Toomey (R) ,Comms,28000
-235,5, Bill Cassidy (R) ,Comms,23500
-236,59, Mark Warner (D) ,Comms,44500
-237,92, Tim Scott (R) ,Comms,11000
-238,77, Rob Portman (R) ,Comms,23500
-239,47, John Thune (R) ,Comms,71000
-240,8, Bob Corker (R) ,Comms,32000
-241,19, Cory Gardner (R) ,Comms,73500
-242,21, David Perdue (R) ,Comms,21000
-243,86, Susan Collins (R) ,Comms,15000
-244,30, Gary Peters (D) ,Comms,27500
-245,55, Lisa Murkowski (R) ,Comms,20000
-246,46, John Kennedy (R) ,Comms,14000
-247,69, Pat Roberts (R) ,Comms,18500
-248,83, Shelley Moore Capito (R) ,Comms,45500
-249,80, Ron Johnson (R) ,Comms,50000
-250,54, Lindsey Graham (R) ,Comms,12500
-251,35, James M Inhofe (R) ,Comms,26500
-252,48, Johnny Isakson (R) ,Comms,25000
-253,72, Patty Murray (D) ,Comms,7000
-254,57, Marco Rubio (R) ,Comms,18000
-255,81, Ron Wyden (D) ,Comms,18600
-256,3, Ben Sasse (R) ,Comms,27200
-257,96, Tom Cotton (R) ,Comms,38180
-258,28, Ed Markey (D) ,Comms,57700
-259,66, Mike Rounds (R) ,Comms,16500
-260,9, Brian Schatz (D) ,Comms,45000
-261,85, Steven Daines (R) ,Comms,33000
-262,88, Tammy Duckworth (D) ,Comms,22000
-263,20, Dan Sullivan (R) ,Comms,28000
-264,10, Catherine Cortez Masto (D) ,Comms,29500
-265,36, Jeanne Shaheen (D) ,Comms,12750
-266,50, Joni Ernst (R) ,Comms,11500
-267,39, Jerry Moran (R) ,Comms,42200
-268,34, James Lankford (R) ,Comms,27250
-269,53, Lamar Alexander (R) ,Comms,8500
-270,26, Dick Durbin (D) ,Comms,3500
-271,45, John Hoeven (R) ,Comms,8080
-272,18, Cory Booker (D) ,Comms,49500
-273,12, Chris Coons (D) ,Comms,27500
-274,43, John Boozman (R) ,Comms,18000
-275,32, Jack Reed (D) ,Comms,7500
-276,15, Chuck Grassley (R) ,Comms,13500
-277,73, Rand Paul (R) ,Comms,13000
-278,65, Mike Lee (R) ,Comms,24000
-279,56, Maggie Hassan (D) ,Comms,18250
-280,4, Bernie Sanders (I) ,Comms,1500
-281,62, Michael F Bennet (D) ,Comms,3000
-282,58, Maria Cantwell (D) ,Comms,0
-283,64, Mike Enzi (R) ,Comms,7000
-284,71, Patrick Leahy (D) ,Comms,14500
-285,33, James E Risch (R) ,Comms,11000
-286,97, Tom Udall (D) ,Comms,16000
-287,74, Richard Blumenthal (D) ,Comms,12500
-288,11, Charles E Schumer (D) ,Comms,-2000
-289,75, Richard Burr (R) ,Comms,-3000
-290,38, Jeff Merkley (D) ,Comms,0
-291,51, Kamala D Harris (D) ,Comms,5000
-292,76, Richard C Shelby (R) ,Comms,0
-293,13, Chris Van Hollen (D) ,Comms,-2000
-294,6, Bill Nelson (D) ,Defense,98500
-295,68, Orrin G Hatch (R) ,Defense,19625
-296,94, Todd Young (R) ,Defense,1000
-297,17, Claire McCaskill (D) ,Defense,54000
-298,27, Doug Jones (D) ,Defense,9500
-299,41, Joe Manchin (D) ,Defense,99000
-300,40, Joe Donnelly (D) ,Defense,92000
-301,87, Tammy Baldwin (D) ,Defense,30500
-302,22, Dean Heller (R) ,Defense,10500
-303,31, Heidi Heitkamp (D) ,Defense,34000
-304,49, Jon Tester (D) ,Defense,436822
-305,24, Debbie Stabenow (D) ,Defense,33000
-306,42, John A Barrasso (R) ,Defense,47000
-307,7, Bob Casey (D) ,Defense,47500
-308,84, Sherrod Brown (D) ,Defense,28390
-309,79, Roger Wicker (R) ,Defense,116625
-310,91, Tim Kaine (D) ,Defense,145188
-311,23, Deb Fischer (R) ,Defense,67000
-312,60, Martin Heinrich (D) ,Defense,118000
-313,0, Amy Klobuchar (D) ,Defense,2000
-314,16, Cindy Hyde-Smith (R) ,Defense,31500
-315,95, Tom Carper (D) ,Defense,22000
-316,2, Ben Cardin (D) ,Defense,66950
-317,25, Dianne Feinstein (D) ,Defense,57500
-318,14, Christopher S Murphy (D) ,Defense,51000
-319,89, Ted Cruz (R) ,Defense,35000
-320,78, Robert Menendez (D) ,Defense,22000
-321,93, Tina Smith (D) ,Defense,13500
-322,1, Angus King (I) ,Defense,84000
-323,37, Jeff Flake (R) ,Defense,19000
-324,61, Mazie K Hirono (D) ,Defense,53500
-325,82, Sheldon Whitehouse (D) ,Defense,12500
-326,63, Mike Crapo (R) ,Defense,7000
-327,52, Kirsten Gillibrand (D) ,Defense,21500
-328,44, John Cornyn (R) ,Defense,10000
-329,67, Mitch McConnell (R) ,Defense,38000
-330,29, Elizabeth Warren (D) ,Defense,1280
-331,90, Thom Tillis (R) ,Defense,25500
-332,70, Pat Toomey (R) ,Defense,9500
-333,5, Bill Cassidy (R) ,Defense,4500
-334,59, Mark Warner (D) ,Defense,33000
-335,92, Tim Scott (R) ,Defense,19500
-336,77, Rob Portman (R) ,Defense,11500
-337,47, John Thune (R) ,Defense,4000
-338,8, Bob Corker (R) ,Defense,32125
-339,19, Cory Gardner (R) ,Defense,4000
-340,21, David Perdue (R) ,Defense,32900
-341,86, Susan Collins (R) ,Defense,16000
-342,30, Gary Peters (D) ,Defense,14000
-343,55, Lisa Murkowski (R) ,Defense,18000
-344,46, John Kennedy (R) ,Defense,6500
-345,69, Pat Roberts (R) ,Defense,0
-346,83, Shelley Moore Capito (R) ,Defense,18500
-347,80, Ron Johnson (R) ,Defense,3000
-348,54, Lindsey Graham (R) ,Defense,44000
-349,35, James M Inhofe (R) ,Defense,60500
-350,48, Johnny Isakson (R) ,Defense,10000
-351,72, Patty Murray (D) ,Defense,0
-352,57, Marco Rubio (R) ,Defense,35500
-353,81, Ron Wyden (D) ,Defense,1000
-354,3, Ben Sasse (R) ,Defense,10500
-355,96, Tom Cotton (R) ,Defense,15500
-356,28, Ed Markey (D) ,Defense,0
-357,66, Mike Rounds (R) ,Defense,11500
-358,9, Brian Schatz (D) ,Defense,22500
-359,85, Steven Daines (R) ,Defense,22000
-360,88, Tammy Duckworth (D) ,Defense,6000
-361,20, Dan Sullivan (R) ,Defense,47000
-362,10, Catherine Cortez Masto (D) ,Defense,0
-363,36, Jeanne Shaheen (D) ,Defense,71500
-364,50, Joni Ernst (R) ,Defense,24000
-365,39, Jerry Moran (R) ,Defense,20500
-366,34, James Lankford (R) ,Defense,11000
-367,53, Lamar Alexander (R) ,Defense,8000
-368,26, Dick Durbin (D) ,Defense,21000
-369,45, John Hoeven (R) ,Defense,15000
-370,18, Cory Booker (D) ,Defense,0
-371,12, Chris Coons (D) ,Defense,2000
-372,43, John Boozman (R) ,Defense,16500
-373,32, Jack Reed (D) ,Defense,47000
-374,15, Chuck Grassley (R) ,Defense,0
-375,73, Rand Paul (R) ,Defense,0
-376,65, Mike Lee (R) ,Defense,1000
-377,56, Maggie Hassan (D) ,Defense,4000
-378,4, Bernie Sanders (I) ,Defense,0
-379,62, Michael F Bennet (D) ,Defense,6000
-380,58, Maria Cantwell (D) ,Defense,1000
-381,64, Mike Enzi (R) ,Defense,5000
-382,71, Patrick Leahy (D) ,Defense,7000
-383,33, James E Risch (R) ,Defense,0
-384,97, Tom Udall (D) ,Defense,0
-385,74, Richard Blumenthal (D) ,Defense,4500
-386,11, Charles E Schumer (D) ,Defense,0
-387,75, Richard Burr (R) ,Defense,4000
-388,38, Jeff Merkley (D) ,Defense,0
-389,51, Kamala D Harris (D) ,Defense,0
-390,76, Richard C Shelby (R) ,Defense,5000
-391,13, Chris Van Hollen (D) ,Defense,1000
-392,6, Bill Nelson (D) ,Energy,48675
-393,68, Orrin G Hatch (R) ,Energy,139500
-394,94, Todd Young (R) ,Energy,11000
-395,17, Claire McCaskill (D) ,Energy,72500
-396,27, Doug Jones (D) ,Energy,27999
-397,41, Joe Manchin (D) ,Energy,525158
-398,40, Joe Donnelly (D) ,Energy,120750
-399,87, Tammy Baldwin (D) ,Energy,66467
-400,22, Dean Heller (R) ,Energy,384837
-401,31, Heidi Heitkamp (D) ,Energy,250050
-402,49, Jon Tester (D) ,Energy,51532
-403,24, Debbie Stabenow (D) ,Energy,146543
-404,42, John A Barrasso (R) ,Energy,450400
-405,7, Bob Casey (D) ,Energy,76651
-406,84, Sherrod Brown (D) ,Energy,84953
-407,79, Roger Wicker (R) ,Energy,174200
-408,91, Tim Kaine (D) ,Energy,87419
-409,23, Deb Fischer (R) ,Energy,138500
-410,60, Martin Heinrich (D) ,Energy,152630
-411,0, Amy Klobuchar (D) ,Energy,55250
-412,16, Cindy Hyde-Smith (R) ,Energy,70000
-413,95, Tom Carper (D) ,Energy,130000
-414,2, Ben Cardin (D) ,Energy,46793
-415,25, Dianne Feinstein (D) ,Energy,48400
-416,14, Christopher S Murphy (D) ,Energy,49110
-417,89, Ted Cruz (R) ,Energy,91500
-418,78, Robert Menendez (D) ,Energy,34895
-419,93, Tina Smith (D) ,Energy,44531
-420,1, Angus King (I) ,Energy,70033
-421,37, Jeff Flake (R) ,Energy,155550
-422,61, Mazie K Hirono (D) ,Energy,39209
-423,82, Sheldon Whitehouse (D) ,Energy,57751
-424,63, Mike Crapo (R) ,Energy,23500
-425,52, Kirsten Gillibrand (D) ,Energy,21510
-426,44, John Cornyn (R) ,Energy,69900
-427,67, Mitch McConnell (R) ,Energy,38500
-428,29, Elizabeth Warren (D) ,Energy,6031
-429,90, Thom Tillis (R) ,Energy,33500
-430,70, Pat Toomey (R) ,Energy,44500
-431,5, Bill Cassidy (R) ,Energy,60500
-432,59, Mark Warner (D) ,Energy,41500
-433,92, Tim Scott (R) ,Energy,49200
-434,77, Rob Portman (R) ,Energy,63500
-435,47, John Thune (R) ,Energy,50200
-436,8, Bob Corker (R) ,Energy,39500
-437,19, Cory Gardner (R) ,Energy,79000
-438,21, David Perdue (R) ,Energy,17500
-439,86, Susan Collins (R) ,Energy,5500
-440,30, Gary Peters (D) ,Energy,11000
-441,55, Lisa Murkowski (R) ,Energy,130450
-442,46, John Kennedy (R) ,Energy,36500
-443,69, Pat Roberts (R) ,Energy,20000
-444,83, Shelley Moore Capito (R) ,Energy,20000
-445,80, Ron Johnson (R) ,Energy,8500
-446,54, Lindsey Graham (R) ,Energy,28000
-447,35, James M Inhofe (R) ,Energy,64189
-448,48, Johnny Isakson (R) ,Energy,500
-449,72, Patty Murray (D) ,Energy,9900
-450,57, Marco Rubio (R) ,Energy,28500
-451,81, Ron Wyden (D) ,Energy,16500
-452,3, Ben Sasse (R) ,Energy,15000
-453,96, Tom Cotton (R) ,Energy,14500
-454,28, Ed Markey (D) ,Energy,10000
-455,66, Mike Rounds (R) ,Energy,19500
-456,9, Brian Schatz (D) ,Energy,13000
-457,85, Steven Daines (R) ,Energy,32000
-458,88, Tammy Duckworth (D) ,Energy,8000
-459,20, Dan Sullivan (R) ,Energy,45900
-460,10, Catherine Cortez Masto (D) ,Energy,10500
-461,36, Jeanne Shaheen (D) ,Energy,13750
-462,50, Joni Ernst (R) ,Energy,34500
-463,39, Jerry Moran (R) ,Energy,11500
-464,34, James Lankford (R) ,Energy,38000
-465,53, Lamar Alexander (R) ,Energy,5000
-466,26, Dick Durbin (D) ,Energy,2750
-467,45, John Hoeven (R) ,Energy,29750
-468,18, Cory Booker (D) ,Energy,6500
-469,12, Chris Coons (D) ,Energy,2500
-470,43, John Boozman (R) ,Energy,0
-471,32, Jack Reed (D) ,Energy,5000
-472,15, Chuck Grassley (R) ,Energy,27000
-473,73, Rand Paul (R) ,Energy,3500
-474,65, Mike Lee (R) ,Energy,3000
-475,56, Maggie Hassan (D) ,Energy,500
-476,4, Bernie Sanders (I) ,Energy,10
-477,62, Michael F Bennet (D) ,Energy,7500
-478,58, Maria Cantwell (D) ,Energy,-990
-479,64, Mike Enzi (R) ,Energy,5000
-480,71, Patrick Leahy (D) ,Energy,5000
-481,33, James E Risch (R) ,Energy,-1000
-482,97, Tom Udall (D) ,Energy,8500
-483,74, Richard Blumenthal (D) ,Energy,500
-484,11, Charles E Schumer (D) ,Energy,-1000
-485,75, Richard Burr (R) ,Energy,-500
-486,38, Jeff Merkley (D) ,Energy,9500
-487,51, Kamala D Harris (D) ,Energy,5000
-488,76, Richard C Shelby (R) ,Energy,0
-489,13, Chris Van Hollen (D) ,Energy,0
-490,6, Bill Nelson (D) ,Finance,232000
-491,68, Orrin G Hatch (R) ,Finance,262550
-492,94, Todd Young (R) ,Finance,43500
-493,17, Claire McCaskill (D) ,Finance,369600
-494,27, Doug Jones (D) ,Finance,126000
-495,41, Joe Manchin (D) ,Finance,328288
-496,40, Joe Donnelly (D) ,Finance,500890
-497,87, Tammy Baldwin (D) ,Finance,93900
-498,22, Dean Heller (R) ,Finance,748650
-499,31, Heidi Heitkamp (D) ,Finance,593490
-500,49, Jon Tester (D) ,Finance,568910
-501,24, Debbie Stabenow (D) ,Finance,387500
-502,42, John A Barrasso (R) ,Finance,316500
-503,7, Bob Casey (D) ,Finance,276584
-504,84, Sherrod Brown (D) ,Finance,426500
-505,79, Roger Wicker (R) ,Finance,186161
-506,91, Tim Kaine (D) ,Finance,238300
-507,23, Deb Fischer (R) ,Finance,220630
-508,60, Martin Heinrich (D) ,Finance,182990
-509,0, Amy Klobuchar (D) ,Finance,153900
-510,16, Cindy Hyde-Smith (R) ,Finance,106089
-511,95, Tom Carper (D) ,Finance,374350
-512,2, Ben Cardin (D) ,Finance,239000
-513,25, Dianne Feinstein (D) ,Finance,132900
-514,14, Christopher S Murphy (D) ,Finance,279500
-515,89, Ted Cruz (R) ,Finance,60500
-516,78, Robert Menendez (D) ,Finance,169500
-517,93, Tina Smith (D) ,Finance,95500
-518,1, Angus King (I) ,Finance,176000
-519,37, Jeff Flake (R) ,Finance,145200
-520,61, Mazie K Hirono (D) ,Finance,63800
-521,82, Sheldon Whitehouse (D) ,Finance,55000
-522,63, Mike Crapo (R) ,Finance,503700
-523,52, Kirsten Gillibrand (D) ,Finance,130200
-524,44, John Cornyn (R) ,Finance,143200
-525,67, Mitch McConnell (R) ,Finance,207000
-526,29, Elizabeth Warren (D) ,Finance,0
-527,90, Thom Tillis (R) ,Finance,254650
-528,70, Pat Toomey (R) ,Finance,252000
-529,5, Bill Cassidy (R) ,Finance,80500
-530,59, Mark Warner (D) ,Finance,229000
-531,92, Tim Scott (R) ,Finance,219200
-532,77, Rob Portman (R) ,Finance,140000
-533,47, John Thune (R) ,Finance,82000
-534,8, Bob Corker (R) ,Finance,130200
-535,19, Cory Gardner (R) ,Finance,63000
-536,21, David Perdue (R) ,Finance,128250
-537,86, Susan Collins (R) ,Finance,74500
-538,30, Gary Peters (D) ,Finance,172700
-539,55, Lisa Murkowski (R) ,Finance,17000
-540,46, John Kennedy (R) ,Finance,87200
-541,69, Pat Roberts (R) ,Finance,65000
-542,83, Shelley Moore Capito (R) ,Finance,72500
-543,80, Ron Johnson (R) ,Finance,55000
-544,54, Lindsey Graham (R) ,Finance,53500
-545,35, James M Inhofe (R) ,Finance,16500
-546,48, Johnny Isakson (R) ,Finance,45000
-547,72, Patty Murray (D) ,Finance,58500
-548,57, Marco Rubio (R) ,Finance,40500
-549,81, Ron Wyden (D) ,Finance,52000
-550,3, Ben Sasse (R) ,Finance,127422
-551,96, Tom Cotton (R) ,Finance,103200
-552,28, Ed Markey (D) ,Finance,20000
-553,66, Mike Rounds (R) ,Finance,117000
-554,9, Brian Schatz (D) ,Finance,39500
-555,85, Steven Daines (R) ,Finance,39000
-556,88, Tammy Duckworth (D) ,Finance,21000
-557,20, Dan Sullivan (R) ,Finance,10500
-558,10, Catherine Cortez Masto (D) ,Finance,23500
-559,36, Jeanne Shaheen (D) ,Finance,14500
-560,50, Joni Ernst (R) ,Finance,42500
-561,39, Jerry Moran (R) ,Finance,30500
-562,34, James Lankford (R) ,Finance,50200
-563,53, Lamar Alexander (R) ,Finance,29500
-564,26, Dick Durbin (D) ,Finance,26500
-565,45, John Hoeven (R) ,Finance,11000
-566,18, Cory Booker (D) ,Finance,40500
-567,12, Chris Coons (D) ,Finance,42500
-568,43, John Boozman (R) ,Finance,23500
-569,32, Jack Reed (D) ,Finance,11000
-570,15, Chuck Grassley (R) ,Finance,30250
-571,73, Rand Paul (R) ,Finance,7500
-572,65, Mike Lee (R) ,Finance,4500
-573,56, Maggie Hassan (D) ,Finance,5000
-574,4, Bernie Sanders (I) ,Finance,0
-575,62, Michael F Bennet (D) ,Finance,8500
-576,58, Maria Cantwell (D) ,Finance,347
-577,64, Mike Enzi (R) ,Finance,5500
-578,71, Patrick Leahy (D) ,Finance,8000
-579,33, James E Risch (R) ,Finance,22500
-580,97, Tom Udall (D) ,Finance,3500
-581,74, Richard Blumenthal (D) ,Finance,4500
-582,11, Charles E Schumer (D) ,Finance,16000
-583,75, Richard Burr (R) ,Finance,13000
-584,38, Jeff Merkley (D) ,Finance,12000
-585,51, Kamala D Harris (D) ,Finance,3475
-586,76, Richard C Shelby (R) ,Finance,-6500
-587,13, Chris Van Hollen (D) ,Finance,6010
-588,6, Bill Nelson (D) ,General,487900
-589,68, Orrin G Hatch (R) ,General,149200
-590,94, Todd Young (R) ,General,17500
-591,17, Claire McCaskill (D) ,General,103500
-592,27, Doug Jones (D) ,General,21000
-593,41, Joe Manchin (D) ,General,74000
-594,40, Joe Donnelly (D) ,General,104200
-595,87, Tammy Baldwin (D) ,General,52500
-596,22, Dean Heller (R) ,General,234500
-597,31, Heidi Heitkamp (D) ,General,150250
-598,49, Jon Tester (D) ,General,111850
-599,24, Debbie Stabenow (D) ,General,186000
-600,42, John A Barrasso (R) ,General,135500
-601,7, Bob Casey (D) ,General,151346
-602,84, Sherrod Brown (D) ,General,159000
-603,79, Roger Wicker (R) ,General,95900
-604,91, Tim Kaine (D) ,General,88855
-605,23, Deb Fischer (R) ,General,157340
-606,60, Martin Heinrich (D) ,General,73700
-607,0, Amy Klobuchar (D) ,General,120000
-608,16, Cindy Hyde-Smith (R) ,General,718500
-609,95, Tom Carper (D) ,General,70500
-610,2, Ben Cardin (D) ,General,63750
-611,25, Dianne Feinstein (D) ,General,97200
-612,14, Christopher S Murphy (D) ,General,31321
-613,89, Ted Cruz (R) ,General,82000
-614,78, Robert Menendez (D) ,General,38500
-615,93, Tina Smith (D) ,General,57950
-616,1, Angus King (I) ,General,55000
-617,37, Jeff Flake (R) ,General,90750
-618,61, Mazie K Hirono (D) ,General,68500
-619,82, Sheldon Whitehouse (D) ,General,50500
-620,63, Mike Crapo (R) ,General,24148
-621,52, Kirsten Gillibrand (D) ,General,55400
-622,44, John Cornyn (R) ,General,55000
-623,67, Mitch McConnell (R) ,General,71000
-624,29, Elizabeth Warren (D) ,General,17500
-625,90, Thom Tillis (R) ,General,54250
-626,70, Pat Toomey (R) ,General,33000
-627,5, Bill Cassidy (R) ,General,35200
-628,59, Mark Warner (D) ,General,18000
-629,92, Tim Scott (R) ,General,32750
-630,77, Rob Portman (R) ,General,35150
-631,47, John Thune (R) ,General,43000
-632,8, Bob Corker (R) ,General,29000
-633,19, Cory Gardner (R) ,General,72250
-634,21, David Perdue (R) ,General,57000
-635,86, Susan Collins (R) ,General,13500
-636,30, Gary Peters (D) ,General,18557
-637,55, Lisa Murkowski (R) ,General,19000
-638,46, John Kennedy (R) ,General,10700
-639,69, Pat Roberts (R) ,General,58500
-640,83, Shelley Moore Capito (R) ,General,19500
-641,80, Ron Johnson (R) ,General,33000
-642,54, Lindsey Graham (R) ,General,22500
-643,35, James M Inhofe (R) ,General,0
-644,48, Johnny Isakson (R) ,General,19000
-645,72, Patty Murray (D) ,General,6000
-646,57, Marco Rubio (R) ,General,23500
-647,81, Ron Wyden (D) ,General,39500
-648,3, Ben Sasse (R) ,General,15500
-649,96, Tom Cotton (R) ,General,23500
-650,28, Ed Markey (D) ,General,3700
-651,66, Mike Rounds (R) ,General,5500
-652,9, Brian Schatz (D) ,General,14500
-653,85, Steven Daines (R) ,General,19696
-654,88, Tammy Duckworth (D) ,General,12500
-655,20, Dan Sullivan (R) ,General,5700
-656,10, Catherine Cortez Masto (D) ,General,11000
-657,36, Jeanne Shaheen (D) ,General,6500
-658,50, Joni Ernst (R) ,General,10500
-659,39, Jerry Moran (R) ,General,14500
-660,34, James Lankford (R) ,General,11500
-661,53, Lamar Alexander (R) ,General,9500
-662,26, Dick Durbin (D) ,General,11000
-663,45, John Hoeven (R) ,General,9000
-664,18, Cory Booker (D) ,General,6250
-665,12, Chris Coons (D) ,General,7000
-666,43, John Boozman (R) ,General,10500
-667,32, Jack Reed (D) ,General,0
-668,15, Chuck Grassley (R) ,General,9500
-669,73, Rand Paul (R) ,General,9100
-670,65, Mike Lee (R) ,General,19000
-671,56, Maggie Hassan (D) ,General,2556
-672,4, Bernie Sanders (I) ,General,0
-673,62, Michael F Bennet (D) ,General,5500
-674,58, Maria Cantwell (D) ,General,12500
-675,64, Mike Enzi (R) ,General,7000
-676,71, Patrick Leahy (D) ,General,5000
-677,33, James E Risch (R) ,General,4821
-678,97, Tom Udall (D) ,General,5000
-679,74, Richard Blumenthal (D) ,General,1000
-680,11, Charles E Schumer (D) ,General,12500
-681,75, Richard Burr (R) ,General,7000
-682,38, Jeff Merkley (D) ,General,0
-683,51, Kamala D Harris (D) ,General,6480
-684,76, Richard C Shelby (R) ,General,5000
-685,13, Chris Van Hollen (D) ,General,0
-686,6, Bill Nelson (D) ,Health,248199
-687,68, Orrin G Hatch (R) ,Health,284099
-688,94, Todd Young (R) ,Health,46150
-689,17, Claire McCaskill (D) ,Health,154700
-690,27, Doug Jones (D) ,Health,31500
-691,41, Joe Manchin (D) ,Health,80500
-692,40, Joe Donnelly (D) ,Health,180500
-693,87, Tammy Baldwin (D) ,Health,141800
-694,22, Dean Heller (R) ,Health,413332
-695,31, Heidi Heitkamp (D) ,Health,186000
-696,49, Jon Tester (D) ,Health,199750
-697,24, Debbie Stabenow (D) ,Health,328050
-698,42, John A Barrasso (R) ,Health,390200
-699,7, Bob Casey (D) ,Health,416403
-700,84, Sherrod Brown (D) ,Health,237200
-701,79, Roger Wicker (R) ,Health,148500
-702,91, Tim Kaine (D) ,Health,231950
-703,23, Deb Fischer (R) ,Health,93500
-704,60, Martin Heinrich (D) ,Health,212500
-705,0, Amy Klobuchar (D) ,Health,78650
-706,16, Cindy Hyde-Smith (R) ,Health,29500
-707,95, Tom Carper (D) ,Health,207910
-708,2, Ben Cardin (D) ,Health,218000
-709,25, Dianne Feinstein (D) ,Health,127500
-710,14, Christopher S Murphy (D) ,Health,203750
-711,89, Ted Cruz (R) ,Health,45500
-712,78, Robert Menendez (D) ,Health,180500
-713,93, Tina Smith (D) ,Health,53500
-714,1, Angus King (I) ,Health,61500
-715,37, Jeff Flake (R) ,Health,60000
-716,61, Mazie K Hirono (D) ,Health,43500
-717,82, Sheldon Whitehouse (D) ,Health,65906
-718,63, Mike Crapo (R) ,Health,118000
-719,52, Kirsten Gillibrand (D) ,Health,39250
-720,44, John Cornyn (R) ,Health,109309
-721,67, Mitch McConnell (R) ,Health,75613
-722,29, Elizabeth Warren (D) ,Health,4500
-723,90, Thom Tillis (R) ,Health,90000
-724,70, Pat Toomey (R) ,Health,73000
-725,5, Bill Cassidy (R) ,Health,212700
-726,59, Mark Warner (D) ,Health,45000
-727,92, Tim Scott (R) ,Health,87500
-728,77, Rob Portman (R) ,Health,103900
-729,47, John Thune (R) ,Health,67500
-730,8, Bob Corker (R) ,Health,35500
-731,19, Cory Gardner (R) ,Health,75500
-732,21, David Perdue (R) ,Health,51500
-733,86, Susan Collins (R) ,Health,103500
-734,30, Gary Peters (D) ,Health,28250
-735,55, Lisa Murkowski (R) ,Health,60000
-736,46, John Kennedy (R) ,Health,33500
-737,69, Pat Roberts (R) ,Health,44500
-738,83, Shelley Moore Capito (R) ,Health,34500
-739,80, Ron Johnson (R) ,Health,14000
-740,54, Lindsey Graham (R) ,Health,24000
-741,35, James M Inhofe (R) ,Health,5500
-742,48, Johnny Isakson (R) ,Health,123000
-743,72, Patty Murray (D) ,Health,128150
-744,57, Marco Rubio (R) ,Health,38250
-745,81, Ron Wyden (D) ,Health,107150
-746,3, Ben Sasse (R) ,Health,31500
-747,96, Tom Cotton (R) ,Health,7000
-748,28, Ed Markey (D) ,Health,45500
-749,66, Mike Rounds (R) ,Health,12000
-750,9, Brian Schatz (D) ,Health,14000
-751,85, Steven Daines (R) ,Health,15500
-752,88, Tammy Duckworth (D) ,Health,41000
-753,20, Dan Sullivan (R) ,Health,6000
-754,10, Catherine Cortez Masto (D) ,Health,22000
-755,36, Jeanne Shaheen (D) ,Health,29200
-756,50, Joni Ernst (R) ,Health,5000
-757,39, Jerry Moran (R) ,Health,12500
-758,34, James Lankford (R) ,Health,8500
-759,53, Lamar Alexander (R) ,Health,76200
-760,26, Dick Durbin (D) ,Health,18000
-761,45, John Hoeven (R) ,Health,20500
-762,18, Cory Booker (D) ,Health,8500
-763,12, Chris Coons (D) ,Health,30000
-764,43, John Boozman (R) ,Health,5500
-765,32, Jack Reed (D) ,Health,3000
-766,15, Chuck Grassley (R) ,Health,20000
-767,73, Rand Paul (R) ,Health,7500
-768,65, Mike Lee (R) ,Health,17000
-769,56, Maggie Hassan (D) ,Health,19500
-770,4, Bernie Sanders (I) ,Health,2500
-771,62, Michael F Bennet (D) ,Health,29500
-772,58, Maria Cantwell (D) ,Health,2500
-773,64, Mike Enzi (R) ,Health,27000
-774,71, Patrick Leahy (D) ,Health,4500
-775,33, James E Risch (R) ,Health,4500
-776,97, Tom Udall (D) ,Health,2500
-777,74, Richard Blumenthal (D) ,Health,14500
-778,11, Charles E Schumer (D) ,Health,11500
-779,75, Richard Burr (R) ,Health,24000
-780,38, Jeff Merkley (D) ,Health,4000
-781,51, Kamala D Harris (D) ,Health,-6000
-782,76, Richard C Shelby (R) ,Health,2500
-783,13, Chris Van Hollen (D) ,Health,6500
-784,6, Bill Nelson (D) ,Policy,12174145
-785,68, Orrin G Hatch (R) ,Policy,164561
-786,94, Todd Young (R) ,Policy,13361
-787,17, Claire McCaskill (D) ,Policy,5442998
-788,27, Doug Jones (D) ,Policy,5561661
-789,41, Joe Manchin (D) ,Policy,4270331
-790,40, Joe Donnelly (D) ,Policy,4468131
-791,87, Tammy Baldwin (D) ,Policy,4799224
-792,22, Dean Heller (R) ,Policy,2491987
-793,31, Heidi Heitkamp (D) ,Policy,1524905
-794,49, Jon Tester (D) ,Policy,1609652
-795,24, Debbie Stabenow (D) ,Policy,420776
-796,42, John A Barrasso (R) ,Policy,316961
-797,7, Bob Casey (D) ,Policy,456099
-798,84, Sherrod Brown (D) ,Policy,588615
-799,79, Roger Wicker (R) ,Policy,494831
-800,91, Tim Kaine (D) ,Policy,575265
-801,23, Deb Fischer (R) ,Policy,351436
-802,60, Martin Heinrich (D) ,Policy,342723
-803,0, Amy Klobuchar (D) ,Policy,352407
-804,16, Cindy Hyde-Smith (R) ,Policy,215561
-805,95, Tom Carper (D) ,Policy,229900
-806,2, Ben Cardin (D) ,Policy,215050
-807,25, Dianne Feinstein (D) ,Policy,288584
-808,14, Christopher S Murphy (D) ,Policy,242030
-809,89, Ted Cruz (R) ,Policy,395500
-810,78, Robert Menendez (D) ,Policy,337478
-811,93, Tina Smith (D) ,Policy,350800
-812,1, Angus King (I) ,Policy,184069
-813,37, Jeff Flake (R) ,Policy,184080
-814,61, Mazie K Hirono (D) ,Policy,240500
-815,82, Sheldon Whitehouse (D) ,Policy,302100
-816,63, Mike Crapo (R) ,Policy,4361
-817,52, Kirsten Gillibrand (D) ,Policy,310705
-818,44, John Cornyn (R) ,Policy,5361
-819,67, Mitch McConnell (R) ,Policy,28444
-820,29, Elizabeth Warren (D) ,Policy,451382
-821,90, Thom Tillis (R) ,Policy,12861
-822,70, Pat Toomey (R) ,Policy,17187
-823,5, Bill Cassidy (R) ,Policy,3861
-824,59, Mark Warner (D) ,Policy,13000
-825,92, Tim Scott (R) ,Policy,11861
-826,77, Rob Portman (R) ,Policy,18823
-827,47, John Thune (R) ,Policy,861
-828,8, Bob Corker (R) ,Policy,69608
-829,19, Cory Gardner (R) ,Policy,14571
-830,21, David Perdue (R) ,Policy,18761
-831,86, Susan Collins (R) ,Policy,70991
-832,30, Gary Peters (D) ,Policy,2000
-833,55, Lisa Murkowski (R) ,Policy,7061
-834,46, John Kennedy (R) ,Policy,3861
-835,69, Pat Roberts (R) ,Policy,5861
-836,83, Shelley Moore Capito (R) ,Policy,4361
-837,80, Ron Johnson (R) ,Policy,20961
-838,54, Lindsey Graham (R) ,Policy,25761
-839,35, James M Inhofe (R) ,Policy,4851
-840,48, Johnny Isakson (R) ,Policy,861
-841,72, Patty Murray (D) ,Policy,0
-842,57, Marco Rubio (R) ,Policy,4761
-843,81, Ron Wyden (D) ,Policy,1000
-844,3, Ben Sasse (R) ,Policy,5861
-845,96, Tom Cotton (R) ,Policy,13261
-846,28, Ed Markey (D) ,Policy,2500
-847,66, Mike Rounds (R) ,Policy,611
-848,9, Brian Schatz (D) ,Policy,0
-849,85, Steven Daines (R) ,Policy,9398
-850,88, Tammy Duckworth (D) ,Policy,42409
-851,20, Dan Sullivan (R) ,Policy,7111
-852,10, Catherine Cortez Masto (D) ,Policy,57311
-853,36, Jeanne Shaheen (D) ,Policy,1000
-854,50, Joni Ernst (R) ,Policy,5361
-855,39, Jerry Moran (R) ,Policy,7361
-856,34, James Lankford (R) ,Policy,4861
-857,53, Lamar Alexander (R) ,Policy,-1139
-858,26, Dick Durbin (D) ,Policy,1500
-859,45, John Hoeven (R) ,Policy,5398
-860,18, Cory Booker (D) ,Policy,11300
-861,12, Chris Coons (D) ,Policy,1000
-862,43, John Boozman (R) ,Policy,861
-863,32, Jack Reed (D) ,Policy,500
-864,15, Chuck Grassley (R) ,Policy,864
-865,73, Rand Paul (R) ,Policy,12274
-866,65, Mike Lee (R) ,Policy,26016
-867,56, Maggie Hassan (D) ,Policy,2093
-868,4, Bernie Sanders (I) ,Policy,49512
-869,62, Michael F Bennet (D) ,Policy,2750
-870,58, Maria Cantwell (D) ,Policy,3256
-871,64, Mike Enzi (R) ,Policy,861
-872,71, Patrick Leahy (D) ,Policy,0
-873,33, James E Risch (R) ,Policy,1861
-874,97, Tom Udall (D) ,Policy,2500
-875,74, Richard Blumenthal (D) ,Policy,0
-876,11, Charles E Schumer (D) ,Policy,3000
-877,75, Richard Burr (R) ,Policy,861
-878,38, Jeff Merkley (D) ,Policy,0
-879,51, Kamala D Harris (D) ,Policy,-7356
-880,76, Richard C Shelby (R) ,Policy,-1139
-881,13, Chris Van Hollen (D) ,Policy,0
-882,6, Bill Nelson (D) ,Legal,113884
-883,68, Orrin G Hatch (R) ,Legal,44880
-884,94, Todd Young (R) ,Legal,9250
-885,17, Claire McCaskill (D) ,Legal,84150
-886,27, Doug Jones (D) ,Legal,46500
-887,41, Joe Manchin (D) ,Legal,84000
-888,40, Joe Donnelly (D) ,Legal,103706
-889,87, Tammy Baldwin (D) ,Legal,41900
-890,22, Dean Heller (R) ,Legal,78950
-891,31, Heidi Heitkamp (D) ,Legal,87919
-892,49, Jon Tester (D) ,Legal,87862
-893,24, Debbie Stabenow (D) ,Legal,81950
-894,42, John A Barrasso (R) ,Legal,84000
-895,7, Bob Casey (D) ,Legal,129660
-896,84, Sherrod Brown (D) ,Legal,79200
-897,79, Roger Wicker (R) ,Legal,85500
-898,91, Tim Kaine (D) ,Legal,117950
-899,23, Deb Fischer (R) ,Legal,63623
-900,60, Martin Heinrich (D) ,Legal,84500
-901,0, Amy Klobuchar (D) ,Legal,88023
-902,16, Cindy Hyde-Smith (R) ,Legal,19558
-903,95, Tom Carper (D) ,Legal,46950
-904,2, Ben Cardin (D) ,Legal,48468
-905,25, Dianne Feinstein (D) ,Legal,69250
-906,14, Christopher S Murphy (D) ,Legal,42750
-907,89, Ted Cruz (R) ,Legal,16500
-908,78, Robert Menendez (D) ,Legal,75500
-909,93, Tina Smith (D) ,Legal,44500
-910,1, Angus King (I) ,Legal,31231
-911,37, Jeff Flake (R) ,Legal,50075
-912,61, Mazie K Hirono (D) ,Legal,35800
-913,82, Sheldon Whitehouse (D) ,Legal,60165
-914,63, Mike Crapo (R) ,Legal,19150
-915,52, Kirsten Gillibrand (D) ,Legal,34808
-916,44, John Cornyn (R) ,Legal,21950
-917,67, Mitch McConnell (R) ,Legal,15500
-918,29, Elizabeth Warren (D) ,Legal,9000
-919,90, Thom Tillis (R) ,Legal,18250
-920,70, Pat Toomey (R) ,Legal,33465
-921,5, Bill Cassidy (R) ,Legal,33000
-922,59, Mark Warner (D) ,Legal,17500
-923,92, Tim Scott (R) ,Legal,15250
-924,77, Rob Portman (R) ,Legal,15250
-925,47, John Thune (R) ,Legal,14000
-926,8, Bob Corker (R) ,Legal,22000
-927,19, Cory Gardner (R) ,Legal,10500
-928,21, David Perdue (R) ,Legal,11000
-929,86, Susan Collins (R) ,Legal,13000
-930,30, Gary Peters (D) ,Legal,22000
-931,55, Lisa Murkowski (R) ,Legal,29500
-932,46, John Kennedy (R) ,Legal,37594
-933,69, Pat Roberts (R) ,Legal,7000
-934,83, Shelley Moore Capito (R) ,Legal,16500
-935,80, Ron Johnson (R) ,Legal,9000
-936,54, Lindsey Graham (R) ,Legal,23500
-937,35, James M Inhofe (R) ,Legal,10000
-938,48, Johnny Isakson (R) ,Legal,9500
-939,72, Patty Murray (D) ,Legal,12600
-940,57, Marco Rubio (R) ,Legal,12500
-941,81, Ron Wyden (D) ,Legal,8500
-942,3, Ben Sasse (R) ,Legal,7250
-943,96, Tom Cotton (R) ,Legal,13000
-944,28, Ed Markey (D) ,Legal,27590
-945,66, Mike Rounds (R) ,Legal,4500
-946,9, Brian Schatz (D) ,Legal,10000
-947,85, Steven Daines (R) ,Legal,3500
-948,88, Tammy Duckworth (D) ,Legal,7750
-949,20, Dan Sullivan (R) ,Legal,12152
-950,10, Catherine Cortez Masto (D) ,Legal,8541
-951,36, Jeanne Shaheen (D) ,Legal,7000
-952,50, Joni Ernst (R) ,Legal,14000
-953,39, Jerry Moran (R) ,Legal,6500
-954,34, James Lankford (R) ,Legal,8250
-955,53, Lamar Alexander (R) ,Legal,12000
-956,26, Dick Durbin (D) ,Legal,11000
-957,45, John Hoeven (R) ,Legal,1000
-958,18, Cory Booker (D) ,Legal,5000
-959,12, Chris Coons (D) ,Legal,19500
-960,43, John Boozman (R) ,Legal,3500
-961,32, Jack Reed (D) ,Legal,3000
-962,15, Chuck Grassley (R) ,Legal,7500
-963,73, Rand Paul (R) ,Legal,1000
-964,65, Mike Lee (R) ,Legal,3500
-965,56, Maggie Hassan (D) ,Legal,1250
-966,4, Bernie Sanders (I) ,Legal,0
-967,62, Michael F Bennet (D) ,Legal,8500
-968,58, Maria Cantwell (D) ,Legal,-250
-969,64, Mike Enzi (R) ,Legal,1000
-970,71, Patrick Leahy (D) ,Legal,9500
-971,33, James E Risch (R) ,Legal,2000
-972,97, Tom Udall (D) ,Legal,1000
-973,74, Richard Blumenthal (D) ,Legal,8250
-974,11, Charles E Schumer (D) ,Legal,0
-975,75, Richard Burr (R) ,Legal,0
-976,38, Jeff Merkley (D) ,Legal,2500
-977,51, Kamala D Harris (D) ,Legal,12500
-978,76, Richard C Shelby (R) ,Legal,5000
-979,13, Chris Van Hollen (D) ,Legal,1500
-980,6, Bill Nelson (D) ,Unions,1202966
-981,68, Orrin G Hatch (R) ,Unions,7500
-982,94, Todd Young (R) ,Unions,0
-983,17, Claire McCaskill (D) ,Unions,177500
-984,27, Doug Jones (D) ,Unions,148918
-985,41, Joe Manchin (D) ,Unions,125000
-986,40, Joe Donnelly (D) ,Unions,149250
-987,87, Tammy Baldwin (D) ,Unions,164750
-988,22, Dean Heller (R) ,Unions,22000
-989,31, Heidi Heitkamp (D) ,Unions,139500
-990,49, Jon Tester (D) ,Unions,119000
-991,24, Debbie Stabenow (D) ,Unions,121000
-992,42, John A Barrasso (R) ,Unions,5000
-993,7, Bob Casey (D) ,Unions,150000
-994,84, Sherrod Brown (D) ,Unions,188649
-995,79, Roger Wicker (R) ,Unions,27000
-996,91, Tim Kaine (D) ,Unions,112100
-997,23, Deb Fischer (R) ,Unions,44083
-998,60, Martin Heinrich (D) ,Unions,101762
-999,0, Amy Klobuchar (D) ,Unions,110500
-1000,16, Cindy Hyde-Smith (R) ,Unions,4000
-1001,95, Tom Carper (D) ,Unions,32000
-1002,2, Ben Cardin (D) ,Unions,119000
-1003,25, Dianne Feinstein (D) ,Unions,43000
-1004,14, Christopher S Murphy (D) ,Unions,87000
-1005,89, Ted Cruz (R) ,Unions,6500
-1006,78, Robert Menendez (D) ,Unions,80400
-1007,93, Tina Smith (D) ,Unions,108000
-1008,1, Angus King (I) ,Unions,104000
-1009,37, Jeff Flake (R) ,Unions,1000
-1010,61, Mazie K Hirono (D) ,Unions,121639
-1011,82, Sheldon Whitehouse (D) ,Unions,69150
-1012,63, Mike Crapo (R) ,Unions,3500
-1013,52, Kirsten Gillibrand (D) ,Unions,57000
-1014,44, John Cornyn (R) ,Unions,1000
-1015,67, Mitch McConnell (R) ,Unions,8700
-1016,29, Elizabeth Warren (D) ,Unions,121275
-1017,90, Thom Tillis (R) ,Unions,1000
-1018,70, Pat Toomey (R) ,Unions,5500
-1019,5, Bill Cassidy (R) ,Unions,1000
-1020,59, Mark Warner (D) ,Unions,6500
-1021,92, Tim Scott (R) ,Unions,5500
-1022,77, Rob Portman (R) ,Unions,6500
-1023,47, John Thune (R) ,Unions,12000
-1024,8, Bob Corker (R) ,Unions,3500
-1025,19, Cory Gardner (R) ,Unions,1000
-1026,21, David Perdue (R) ,Unions,4500
-1027,86, Susan Collins (R) ,Unions,11500
-1028,30, Gary Peters (D) ,Unions,14000
-1029,55, Lisa Murkowski (R) ,Unions,18000
-1030,46, John Kennedy (R) ,Unions,7000
-1031,69, Pat Roberts (R) ,Unions,1000
-1032,83, Shelley Moore Capito (R) ,Unions,14500
-1033,80, Ron Johnson (R) ,Unions,21000
-1034,54, Lindsey Graham (R) ,Unions,6200
-1035,35, James M Inhofe (R) ,Unions,9500
-1036,48, Johnny Isakson (R) ,Unions,6000
-1037,72, Patty Murray (D) ,Unions,21510
-1038,57, Marco Rubio (R) ,Unions,14500
-1039,81, Ron Wyden (D) ,Unions,1500
-1040,3, Ben Sasse (R) ,Unions,2000
-1041,96, Tom Cotton (R) ,Unions,0
-1042,28, Ed Markey (D) ,Unions,50500
-1043,66, Mike Rounds (R) ,Unions,6000
-1044,9, Brian Schatz (D) ,Unions,31000
-1045,85, Steven Daines (R) ,Unions,5500
-1046,88, Tammy Duckworth (D) ,Unions,27750
-1047,20, Dan Sullivan (R) ,Unions,11000
-1048,10, Catherine Cortez Masto (D) ,Unions,4750
-1049,36, Jeanne Shaheen (D) ,Unions,19250
-1050,50, Joni Ernst (R) ,Unions,2000
-1051,39, Jerry Moran (R) ,Unions,9000
-1052,34, James Lankford (R) ,Unions,21000
-1053,53, Lamar Alexander (R) ,Unions,2500
-1054,26, Dick Durbin (D) ,Unions,15500
-1055,45, John Hoeven (R) ,Unions,3500
-1056,18, Cory Booker (D) ,Unions,10500
-1057,12, Chris Coons (D) ,Unions,2500
-1058,43, John Boozman (R) ,Unions,3500
-1059,32, Jack Reed (D) ,Unions,16750
-1060,15, Chuck Grassley (R) ,Unions,1000
-1061,73, Rand Paul (R) ,Unions,0
-1062,65, Mike Lee (R) ,Unions,2000
-1063,56, Maggie Hassan (D) ,Unions,8000
-1064,4, Bernie Sanders (I) ,Unions,21100
-1065,62, Michael F Bennet (D) ,Unions,1000
-1066,58, Maria Cantwell (D) ,Unions,22000
-1067,64, Mike Enzi (R) ,Unions,0
-1068,71, Patrick Leahy (D) ,Unions,4500
-1069,33, James E Risch (R) ,Unions,0
-1070,97, Tom Udall (D) ,Unions,3000
-1071,74, Richard Blumenthal (D) ,Unions,7000
-1072,11, Charles E Schumer (D) ,Unions,1000
-1073,75, Richard Burr (R) ,Unions,0
-1074,38, Jeff Merkley (D) ,Unions,6500
-1075,51, Kamala D Harris (D) ,Unions,3000
-1076,76, Richard C Shelby (R) ,Unions,0
-1077,13, Chris Van Hollen (D) ,Unions,0
-1078,6, Bill Nelson (D) ,MFG,25500
-1079,68, Orrin G Hatch (R) ,MFG,42075
-1080,94, Todd Young (R) ,MFG,10500
-1081,17, Claire McCaskill (D) ,MFG,34500
-1082,27, Doug Jones (D) ,MFG,0
-1083,41, Joe Manchin (D) ,MFG,254500
-1084,40, Joe Donnelly (D) ,MFG,49500
-1085,87, Tammy Baldwin (D) ,MFG,41900
-1086,22, Dean Heller (R) ,MFG,623539
-1087,31, Heidi Heitkamp (D) ,MFG,200300
-1088,49, Jon Tester (D) ,MFG,12000
-1089,24, Debbie Stabenow (D) ,MFG,613900
-1090,42, John A Barrasso (R) ,MFG,270904
-1091,7, Bob Casey (D) ,MFG,67500
-1092,84, Sherrod Brown (D) ,MFG,53500
-1093,79, Roger Wicker (R) ,MFG,29000
-1094,91, Tim Kaine (D) ,MFG,16500
-1095,23, Deb Fischer (R) ,MFG,46500
-1096,60, Martin Heinrich (D) ,MFG,18000
-1097,0, Amy Klobuchar (D) ,MFG,21000
-1098,16, Cindy Hyde-Smith (R) ,MFG,10000
-1099,95, Tom Carper (D) ,MFG,71210
-1100,2, Ben Cardin (D) ,MFG,21500
-1101,25, Dianne Feinstein (D) ,MFG,35000
-1102,14, Christopher S Murphy (D) ,MFG,31500
-1103,89, Ted Cruz (R) ,MFG,30000
-1104,78, Robert Menendez (D) ,MFG,17000
-1105,93, Tina Smith (D) ,MFG,12000
-1106,1, Angus King (I) ,MFG,9000
-1107,37, Jeff Flake (R) ,MFG,17500
-1108,61, Mazie K Hirono (D) ,MFG,1000
-1109,82, Sheldon Whitehouse (D) ,MFG,8000
-1110,63, Mike Crapo (R) ,MFG,18582
-1111,52, Kirsten Gillibrand (D) ,MFG,8000
-1112,44, John Cornyn (R) ,MFG,41000
-1113,67, Mitch McConnell (R) ,MFG,19200
-1114,29, Elizabeth Warren (D) ,MFG,0
-1115,90, Thom Tillis (R) ,MFG,21000
-1116,70, Pat Toomey (R) ,MFG,34166
-1117,5, Bill Cassidy (R) ,MFG,20500
-1118,59, Mark Warner (D) ,MFG,12500
-1119,92, Tim Scott (R) ,MFG,24000
-1120,77, Rob Portman (R) ,MFG,49666
-1121,47, John Thune (R) ,MFG,15000
-1122,8, Bob Corker (R) ,MFG,19500
-1123,19, Cory Gardner (R) ,MFG,11000
-1124,21, David Perdue (R) ,MFG,5000
-1125,86, Susan Collins (R) ,MFG,6000
-1126,30, Gary Peters (D) ,MFG,3000
-1127,55, Lisa Murkowski (R) ,MFG,12166
-1128,46, John Kennedy (R) ,MFG,10000
-1129,69, Pat Roberts (R) ,MFG,3000
-1130,83, Shelley Moore Capito (R) ,MFG,21000
-1131,80, Ron Johnson (R) ,MFG,24500
-1132,54, Lindsey Graham (R) ,MFG,9500
-1133,35, James M Inhofe (R) ,MFG,17451
-1134,48, Johnny Isakson (R) ,MFG,23000
-1135,72, Patty Murray (D) ,MFG,6000
-1136,57, Marco Rubio (R) ,MFG,4000
-1137,81, Ron Wyden (D) ,MFG,7000
-1138,3, Ben Sasse (R) ,MFG,1000
-1139,96, Tom Cotton (R) ,MFG,3500
-1140,28, Ed Markey (D) ,MFG,7000
-1141,66, Mike Rounds (R) ,MFG,21348
-1142,9, Brian Schatz (D) ,MFG,0
-1143,85, Steven Daines (R) ,MFG,3500
-1144,88, Tammy Duckworth (D) ,MFG,5000
-1145,20, Dan Sullivan (R) ,MFG,0
-1146,10, Catherine Cortez Masto (D) ,MFG,0
-1147,36, Jeanne Shaheen (D) ,MFG,4500
-1148,50, Joni Ernst (R) ,MFG,18000
-1149,39, Jerry Moran (R) ,MFG,11000
-1150,34, James Lankford (R) ,MFG,10500
-1151,53, Lamar Alexander (R) ,MFG,10500
-1152,26, Dick Durbin (D) ,MFG,9000
-1153,45, John Hoeven (R) ,MFG,7750
-1154,18, Cory Booker (D) ,MFG,4000
-1155,12, Chris Coons (D) ,MFG,7000
-1156,43, John Boozman (R) ,MFG,5500
-1157,32, Jack Reed (D) ,MFG,0
-1158,15, Chuck Grassley (R) ,MFG,2000
-1159,73, Rand Paul (R) ,MFG,0
-1160,65, Mike Lee (R) ,MFG,2300
-1161,56, Maggie Hassan (D) ,MFG,2500
-1162,4, Bernie Sanders (I) ,MFG,0
-1163,62, Michael F Bennet (D) ,MFG,-2000
-1164,58, Maria Cantwell (D) ,MFG,0
-1165,64, Mike Enzi (R) ,MFG,11000
-1166,71, Patrick Leahy (D) ,MFG,1000
-1167,33, James E Risch (R) ,MFG,6668
-1168,97, Tom Udall (D) ,MFG,5000
-1169,74, Richard Blumenthal (D) ,MFG,4000
-1170,11, Charles E Schumer (D) ,MFG,2000
-1171,75, Richard Burr (R) ,MFG,2500
-1172,38, Jeff Merkley (D) ,MFG,0
-1173,51, Kamala D Harris (D) ,MFG,1666
-1174,76, Richard C Shelby (R) ,MFG,0
-1175,13, Chris Van Hollen (D) ,MFG,0
-1176,6, Bill Nelson (D) ,Transport,176000
-1177,68, Orrin G Hatch (R) ,Transport,63600
-1178,94, Todd Young (R) ,Transport,59000
-1179,17, Claire McCaskill (D) ,Transport,80499
-1180,27, Doug Jones (D) ,Transport,24500
-1181,41, Joe Manchin (D) ,Transport,69000
-1182,40, Joe Donnelly (D) ,Transport,67500
-1183,87, Tammy Baldwin (D) ,Transport,57500
-1184,22, Dean Heller (R) ,Transport,232625
-1185,31, Heidi Heitkamp (D) ,Transport,65500
-1186,49, Jon Tester (D) ,Transport,106500
-1187,24, Debbie Stabenow (D) ,Transport,59940
-1188,42, John A Barrasso (R) ,Transport,175470
-1189,7, Bob Casey (D) ,Transport,77700
-1190,84, Sherrod Brown (D) ,Transport,25250
-1191,79, Roger Wicker (R) ,Transport,212738
-1192,91, Tim Kaine (D) ,Transport,71500
-1193,23, Deb Fischer (R) ,Transport,180499
-1194,60, Martin Heinrich (D) ,Transport,55500
-1195,0, Amy Klobuchar (D) ,Transport,144400
-1196,16, Cindy Hyde-Smith (R) ,Transport,58000
-1197,95, Tom Carper (D) ,Transport,84910
-1198,2, Ben Cardin (D) ,Transport,56500
-1199,25, Dianne Feinstein (D) ,Transport,58000
-1200,14, Christopher S Murphy (D) ,Transport,44500
-1201,89, Ted Cruz (R) ,Transport,140998
-1202,78, Robert Menendez (D) ,Transport,20500
-1203,93, Tina Smith (D) ,Transport,14000
-1204,1, Angus King (I) ,Transport,32000
-1205,37, Jeff Flake (R) ,Transport,60000
-1206,61, Mazie K Hirono (D) ,Transport,59700
-1207,82, Sheldon Whitehouse (D) ,Transport,23000
-1208,63, Mike Crapo (R) ,Transport,28245
-1209,52, Kirsten Gillibrand (D) ,Transport,8500
-1210,44, John Cornyn (R) ,Transport,62000
-1211,67, Mitch McConnell (R) ,Transport,50000
-1212,29, Elizabeth Warren (D) ,Transport,0
-1213,90, Thom Tillis (R) ,Transport,15500
-1214,70, Pat Toomey (R) ,Transport,14700
-1215,5, Bill Cassidy (R) ,Transport,51100
-1216,59, Mark Warner (D) ,Transport,33000
-1217,92, Tim Scott (R) ,Transport,26500
-1218,77, Rob Portman (R) ,Transport,15700
-1219,47, John Thune (R) ,Transport,86495
-1220,8, Bob Corker (R) ,Transport,21000
-1221,19, Cory Gardner (R) ,Transport,34500
-1222,21, David Perdue (R) ,Transport,29500
-1223,86, Susan Collins (R) ,Transport,45500
-1224,30, Gary Peters (D) ,Transport,28499
-1225,55, Lisa Murkowski (R) ,Transport,17500
-1226,46, John Kennedy (R) ,Transport,38200
-1227,69, Pat Roberts (R) ,Transport,7000
-1228,83, Shelley Moore Capito (R) ,Transport,35000
-1229,80, Ron Johnson (R) ,Transport,61500
-1230,54, Lindsey Graham (R) ,Transport,29800
-1231,35, James M Inhofe (R) ,Transport,68000
-1232,48, Johnny Isakson (R) ,Transport,17500
-1233,72, Patty Murray (D) ,Transport,10000
-1234,57, Marco Rubio (R) ,Transport,35500
-1235,81, Ron Wyden (D) ,Transport,20410
-1236,3, Ben Sasse (R) ,Transport,12500
-1237,96, Tom Cotton (R) ,Transport,14500
-1238,28, Ed Markey (D) ,Transport,20000
-1239,66, Mike Rounds (R) ,Transport,22500
-1240,9, Brian Schatz (D) ,Transport,46200
-1241,85, Steven Daines (R) ,Transport,22000
-1242,88, Tammy Duckworth (D) ,Transport,18500
-1243,20, Dan Sullivan (R) ,Transport,55000
-1244,10, Catherine Cortez Masto (D) ,Transport,20000
-1245,36, Jeanne Shaheen (D) ,Transport,18000
-1246,50, Joni Ernst (R) ,Transport,23000
-1247,39, Jerry Moran (R) ,Transport,24500
-1248,34, James Lankford (R) ,Transport,14500
-1249,53, Lamar Alexander (R) ,Transport,9000
-1250,26, Dick Durbin (D) ,Transport,18500
-1251,45, John Hoeven (R) ,Transport,1500
-1252,18, Cory Booker (D) ,Transport,11500
-1253,12, Chris Coons (D) ,Transport,3500
-1254,43, John Boozman (R) ,Transport,5500
-1255,32, Jack Reed (D) ,Transport,19000
-1256,15, Chuck Grassley (R) ,Transport,4000
-1257,73, Rand Paul (R) ,Transport,-6500
-1258,65, Mike Lee (R) ,Transport,9500
-1259,56, Maggie Hassan (D) ,Transport,7500
-1260,4, Bernie Sanders (I) ,Transport,0
-1261,62, Michael F Bennet (D) ,Transport,0
-1262,58, Maria Cantwell (D) ,Transport,1000
-1263,64, Mike Enzi (R) ,Transport,2000
-1264,71, Patrick Leahy (D) ,Transport,3000
-1265,33, James E Risch (R) ,Transport,10000
-1266,97, Tom Udall (D) ,Transport,10000
-1267,74, Richard Blumenthal (D) ,Transport,1000
-1268,11, Charles E Schumer (D) ,Transport,500
-1269,75, Richard Burr (R) ,Transport,2000
-1270,38, Jeff Merkley (D) ,Transport,2500
-1271,51, Kamala D Harris (D) ,Transport,1000
-1272,76, Richard C Shelby (R) ,Transport,5000
-1273,13, Chris Van Hollen (D) ,Transport,1000
-1274,6, Bill Nelson (D) ,Govt/NGO,2000
-1275,68, Orrin G Hatch (R) ,Govt/NGO,0
-1276,94, Todd Young (R) ,Govt/NGO,4000
-1277,17, Claire McCaskill (D) ,Govt/NGO,5000
-1278,27, Doug Jones (D) ,Govt/NGO,1000
-1279,41, Joe Manchin (D) ,Govt/NGO,0
-1280,40, Joe Donnelly (D) ,Govt/NGO,0
-1281,87, Tammy Baldwin (D) ,Govt/NGO,2000
-1282,22, Dean Heller (R) ,Govt/NGO,10000
-1283,31, Heidi Heitkamp (D) ,Govt/NGO,3500
-1284,49, Jon Tester (D) ,Govt/NGO,0
-1285,24, Debbie Stabenow (D) ,Govt/NGO,8000
-1286,42, John A Barrasso (R) ,Govt/NGO,0
-1287,7, Bob Casey (D) ,Govt/NGO,2000
-1288,84, Sherrod Brown (D) ,Govt/NGO,1000
-1289,79, Roger Wicker (R) ,Govt/NGO,6000
-1290,91, Tim Kaine (D) ,Govt/NGO,6000
-1291,23, Deb Fischer (R) ,Govt/NGO,3000
-1292,60, Martin Heinrich (D) ,Govt/NGO,3500
-1293,0, Amy Klobuchar (D) ,Govt/NGO,0
-1294,16, Cindy Hyde-Smith (R) ,Govt/NGO,0
-1295,95, Tom Carper (D) ,Govt/NGO,9000
-1296,2, Ben Cardin (D) ,Govt/NGO,8000
-1297,25, Dianne Feinstein (D) ,Govt/NGO,0
-1298,14, Christopher S Murphy (D) ,Govt/NGO,0
-1299,89, Ted Cruz (R) ,Govt/NGO,0
-1300,78, Robert Menendez (D) ,Govt/NGO,0
-1301,93, Tina Smith (D) ,Govt/NGO,0
-1302,1, Angus King (I) ,Govt/NGO,0
-1303,37, Jeff Flake (R) ,Govt/NGO,0
-1304,61, Mazie K Hirono (D) ,Govt/NGO,0
-1305,82, Sheldon Whitehouse (D) ,Govt/NGO,0
-1306,63, Mike Crapo (R) ,Govt/NGO,0
-1307,52, Kirsten Gillibrand (D) ,Govt/NGO,0
-1308,44, John Cornyn (R) ,Govt/NGO,1000
-1309,67, Mitch McConnell (R) ,Govt/NGO,0
-1310,29, Elizabeth Warren (D) ,Govt/NGO,0
-1311,90, Thom Tillis (R) ,Govt/NGO,1000
-1312,70, Pat Toomey (R) ,Govt/NGO,0
-1313,5, Bill Cassidy (R) ,Govt/NGO,1000
-1314,59, Mark Warner (D) ,Govt/NGO,1000
-1315,92, Tim Scott (R) ,Govt/NGO,1000
-1316,77, Rob Portman (R) ,Govt/NGO,0
-1317,47, John Thune (R) ,Govt/NGO,1000
-1318,8, Bob Corker (R) ,Govt/NGO,0
-1319,19, Cory Gardner (R) ,Govt/NGO,0
-1320,21, David Perdue (R) ,Govt/NGO,1000
-1321,86, Susan Collins (R) ,Govt/NGO,1000
-1322,30, Gary Peters (D) ,Govt/NGO,0
-1323,55, Lisa Murkowski (R) ,Govt/NGO,0
-1324,46, John Kennedy (R) ,Govt/NGO,1000
-1325,69, Pat Roberts (R) ,Govt/NGO,1000
-1326,83, Shelley Moore Capito (R) ,Govt/NGO,1000
-1327,80, Ron Johnson (R) ,Govt/NGO,0
-1328,54, Lindsey Graham (R) ,Govt/NGO,0
-1329,35, James M Inhofe (R) ,Govt/NGO,0
-1330,48, Johnny Isakson (R) ,Govt/NGO,0
-1331,72, Patty Murray (D) ,Govt/NGO,3000
-1332,57, Marco Rubio (R) ,Govt/NGO,0
-1333,81, Ron Wyden (D) ,Govt/NGO,0
-1334,3, Ben Sasse (R) ,Govt/NGO,0
-1335,96, Tom Cotton (R) ,Govt/NGO,0
-1336,28, Ed Markey (D) ,Govt/NGO,0
-1337,66, Mike Rounds (R) ,Govt/NGO,0
-1338,9, Brian Schatz (D) ,Govt/NGO,0
-1339,85, Steven Daines (R) ,Govt/NGO,0
-1340,88, Tammy Duckworth (D) ,Govt/NGO,0
-1341,20, Dan Sullivan (R) ,Govt/NGO,0
-1342,10, Catherine Cortez Masto (D) ,Govt/NGO,0
-1343,36, Jeanne Shaheen (D) ,Govt/NGO,0
-1344,50, Joni Ernst (R) ,Govt/NGO,0
-1345,39, Jerry Moran (R) ,Govt/NGO,1000
-1346,34, James Lankford (R) ,Govt/NGO,1000
-1347,53, Lamar Alexander (R) ,Govt/NGO,3000
-1348,26, Dick Durbin (D) ,Govt/NGO,0
-1349,45, John Hoeven (R) ,Govt/NGO,1000
-1350,18, Cory Booker (D) ,Govt/NGO,0
-1351,12, Chris Coons (D) ,Govt/NGO,0
-1352,43, John Boozman (R) ,Govt/NGO,0
-1353,32, Jack Reed (D) ,Govt/NGO,0
-1354,15, Chuck Grassley (R) ,Govt/NGO,0
-1355,73, Rand Paul (R) ,Govt/NGO,0
-1356,65, Mike Lee (R) ,Govt/NGO,0
-1357,56, Maggie Hassan (D) ,Govt/NGO,0
-1358,4, Bernie Sanders (I) ,Govt/NGO,0
-1359,62, Michael F Bennet (D) ,Govt/NGO,2000
-1360,58, Maria Cantwell (D) ,Govt/NGO,0
-1361,64, Mike Enzi (R) ,Govt/NGO,0
-1362,71, Patrick Leahy (D) ,Govt/NGO,0
-1363,33, James E Risch (R) ,Govt/NGO,0
-1364,97, Tom Udall (D) ,Govt/NGO,0
-1365,74, Richard Blumenthal (D) ,Govt/NGO,1000
-1366,11, Charles E Schumer (D) ,Govt/NGO,1000
-1367,75, Richard Burr (R) ,Govt/NGO,2500
-1368,38, Jeff Merkley (D) ,Govt/NGO,0
-1369,51, Kamala D Harris (D) ,Govt/NGO,0
-1370,76, Richard C Shelby (R) ,Govt/NGO,0
-1371,13, Chris Van Hollen (D) ,Govt/NGO,1000
-1372,6, Bill Nelson (D) ,pvts,1000
-1373,68, Orrin G Hatch (R) ,pvts,1000
-1374,94, Todd Young (R) ,pvts,1250
-1375,17, Claire McCaskill (D) ,pvts,0
-1376,27, Doug Jones (D) ,pvts,0
-1377,41, Joe Manchin (D) ,pvts,0
-1378,40, Joe Donnelly (D) ,pvts,0
-1379,87, Tammy Baldwin (D) ,pvts,0
-1380,22, Dean Heller (R) ,pvts,0
-1381,31, Heidi Heitkamp (D) ,pvts,0
-1382,49, Jon Tester (D) ,pvts,0
-1383,24, Debbie Stabenow (D) ,pvts,0
-1384,42, John A Barrasso (R) ,pvts,0
-1385,7, Bob Casey (D) ,pvts,0
-1386,84, Sherrod Brown (D) ,pvts,0
-1387,79, Roger Wicker (R) ,pvts,0
-1388,91, Tim Kaine (D) ,pvts,0
-1389,23, Deb Fischer (R) ,pvts,0
-1390,60, Martin Heinrich (D) ,pvts,0
-1391,0, Amy Klobuchar (D) ,pvts,0
-1392,16, Cindy Hyde-Smith (R) ,pvts,0
-1393,95, Tom Carper (D) ,pvts,0
-1394,2, Ben Cardin (D) ,pvts,0
-1395,25, Dianne Feinstein (D) ,pvts,0
-1396,14, Christopher S Murphy (D) ,pvts,0
-1397,89, Ted Cruz (R) ,pvts,0
-1398,78, Robert Menendez (D) ,pvts,0
-1399,93, Tina Smith (D) ,pvts,0
-1400,1, Angus King (I) ,pvts,0
-1401,37, Jeff Flake (R) ,pvts,0
-1402,61, Mazie K Hirono (D) ,pvts,0
-1403,82, Sheldon Whitehouse (D) ,pvts,0
-1404,63, Mike Crapo (R) ,pvts,0
-1405,52, Kirsten Gillibrand (D) ,pvts,0
-1406,44, John Cornyn (R) ,pvts,0
-1407,67, Mitch McConnell (R) ,pvts,0
-1408,29, Elizabeth Warren (D) ,pvts,0
-1409,90, Thom Tillis (R) ,pvts,0
-1410,70, Pat Toomey (R) ,pvts,0
-1411,5, Bill Cassidy (R) ,pvts,0
-1412,59, Mark Warner (D) ,pvts,0
-1413,92, Tim Scott (R) ,pvts,0
-1414,77, Rob Portman (R) ,pvts,0
-1415,47, John Thune (R) ,pvts,0
-1416,8, Bob Corker (R) ,pvts,0
-1417,19, Cory Gardner (R) ,pvts,0
-1418,21, David Perdue (R) ,pvts,0
-1419,86, Susan Collins (R) ,pvts,0
-1420,30, Gary Peters (D) ,pvts,0
-1421,55, Lisa Murkowski (R) ,pvts,0
-1422,46, John Kennedy (R) ,pvts,0
-1423,69, Pat Roberts (R) ,pvts,0
-1424,83, Shelley Moore Capito (R) ,pvts,0
-1425,80, Ron Johnson (R) ,pvts,0
-1426,54, Lindsey Graham (R) ,pvts,0
-1427,35, James M Inhofe (R) ,pvts,0
-1428,48, Johnny Isakson (R) ,pvts,0
-1429,72, Patty Murray (D) ,pvts,0
-1430,57, Marco Rubio (R) ,pvts,0
-1431,81, Ron Wyden (D) ,pvts,0
-1432,3, Ben Sasse (R) ,pvts,0
-1433,96, Tom Cotton (R) ,pvts,0
-1434,28, Ed Markey (D) ,pvts,0
-1435,66, Mike Rounds (R) ,pvts,0
-1436,9, Brian Schatz (D) ,pvts,0
-1437,85, Steven Daines (R) ,pvts,0
-1438,88, Tammy Duckworth (D) ,pvts,0
-1439,20, Dan Sullivan (R) ,pvts,0
-1440,10, Catherine Cortez Masto (D) ,pvts,0
-1441,36, Jeanne Shaheen (D) ,pvts,0
-1442,50, Joni Ernst (R) ,pvts,0
-1443,39, Jerry Moran (R) ,pvts,0
-1444,34, James Lankford (R) ,pvts,0
-1445,53, Lamar Alexander (R) ,pvts,0
-1446,26, Dick Durbin (D) ,pvts,0
-1447,45, John Hoeven (R) ,pvts,0
-1448,18, Cory Booker (D) ,pvts,0
-1449,12, Chris Coons (D) ,pvts,0
-1450,43, John Boozman (R) ,pvts,0
-1451,32, Jack Reed (D) ,pvts,0
-1452,15, Chuck Grassley (R) ,pvts,0
-1453,73, Rand Paul (R) ,pvts,0
-1454,65, Mike Lee (R) ,pvts,0
-1455,56, Maggie Hassan (D) ,pvts,0
-1456,4, Bernie Sanders (I) ,pvts,0
-1457,62, Michael F Bennet (D) ,pvts,0
-1458,58, Maria Cantwell (D) ,pvts,0
-1459,64, Mike Enzi (R) ,pvts,0
-1460,71, Patrick Leahy (D) ,pvts,0
-1461,33, James E Risch (R) ,pvts,0
-1462,97, Tom Udall (D) ,pvts,0
-1463,74, Richard Blumenthal (D) ,pvts,0
-1464,11, Charles E Schumer (D) ,pvts,0
-1465,75, Richard Burr (R) ,pvts,0
-1466,38, Jeff Merkley (D) ,pvts,0
-1467,51, Kamala D Harris (D) ,pvts,0
-1468,76, Richard C Shelby (R) ,pvts,0
-1469,13, Chris Van Hollen (D) ,pvts,0
-1470,6, Bill Nelson (D) ,committees,18930
-1471,68, Orrin G Hatch (R) ,committees,92000
-1472,94, Todd Young (R) ,committees,0
-1473,17, Claire McCaskill (D) ,committees,28299
-1474,27, Doug Jones (D) ,committees,648948
-1475,41, Joe Manchin (D) ,committees,335637
-1476,40, Joe Donnelly (D) ,committees,177274
-1477,87, Tammy Baldwin (D) ,committees,29680
-1478,22, Dean Heller (R) ,committees,56376
-1479,31, Heidi Heitkamp (D) ,committees,870786
-1480,49, Jon Tester (D) ,committees,97327
-1481,24, Debbie Stabenow (D) ,committees,83159
-1482,42, John A Barrasso (R) ,committees,8131
-1483,7, Bob Casey (D) ,committees,281761
-1484,84, Sherrod Brown (D) ,committees,35070
-1485,79, Roger Wicker (R) ,committees,64095
-1486,91, Tim Kaine (D) ,committees,16320
-1487,23, Deb Fischer (R) ,committees,36361
-1488,60, Martin Heinrich (D) ,committees,27825
-1489,0, Amy Klobuchar (D) ,committees,14000
-1490,16, Cindy Hyde-Smith (R) ,committees,7000
-1491,95, Tom Carper (D) ,committees,5500
-1492,2, Ben Cardin (D) ,committees,8000
-1493,25, Dianne Feinstein (D) ,committees,4250
-1494,14, Christopher S Murphy (D) ,committees,58875
-1495,89, Ted Cruz (R) ,committees,126177
-1496,78, Robert Menendez (D) ,committees,24250
-1497,93, Tina Smith (D) ,committees,158693
-1498,1, Angus King (I) ,committees,24674
-1499,37, Jeff Flake (R) ,committees,57400
-1500,61, Mazie K Hirono (D) ,committees,8000
-1501,82, Sheldon Whitehouse (D) ,committees,18920
-1502,63, Mike Crapo (R) ,committees,1000
-1503,52, Kirsten Gillibrand (D) ,committees,4500
-1504,44, John Cornyn (R) ,committees,5000
-1505,67, Mitch McConnell (R) ,committees,0
-1506,29, Elizabeth Warren (D) ,committees,8125
-1507,90, Thom Tillis (R) ,committees,2000
-1508,70, Pat Toomey (R) ,committees,0
-1509,5, Bill Cassidy (R) ,committees,-1000
-1510,59, Mark Warner (D) ,committees,6000
-1511,92, Tim Scott (R) ,committees,1840
-1512,77, Rob Portman (R) ,committees,1500
-1513,47, John Thune (R) ,committees,0
-1514,8, Bob Corker (R) ,committees,35000
-1515,19, Cory Gardner (R) ,committees,0
-1516,21, David Perdue (R) ,committees,3000
-1517,86, Susan Collins (R) ,committees,2000
-1518,30, Gary Peters (D) ,committees,1500
-1519,55, Lisa Murkowski (R) ,committees,0
-1520,46, John Kennedy (R) ,committees,16982
-1521,69, Pat Roberts (R) ,committees,-2654
-1522,83, Shelley Moore Capito (R) ,committees,0
-1523,80, Ron Johnson (R) ,committees,2610
-1524,54, Lindsey Graham (R) ,committees,200
-1525,35, James M Inhofe (R) ,committees,4000
-1526,48, Johnny Isakson (R) ,committees,0
-1527,72, Patty Murray (D) ,committees,9950
-1528,57, Marco Rubio (R) ,committees,0
-1529,81, Ron Wyden (D) ,committees,0
-1530,3, Ben Sasse (R) ,committees,4000
-1531,96, Tom Cotton (R) ,committees,1000
-1532,28, Ed Markey (D) ,committees,0
-1533,66, Mike Rounds (R) ,committees,1000
-1534,9, Brian Schatz (D) ,committees,5000
-1535,85, Steven Daines (R) ,committees,0
-1536,88, Tammy Duckworth (D) ,committees,-100
-1537,20, Dan Sullivan (R) ,committees,3000
-1538,10, Catherine Cortez Masto (D) ,committees,1500
-1539,36, Jeanne Shaheen (D) ,committees,2000
-1540,50, Joni Ernst (R) ,committees,0
-1541,39, Jerry Moran (R) ,committees,0
-1542,34, James Lankford (R) ,committees,0
-1543,53, Lamar Alexander (R) ,committees,2000
-1544,26, Dick Durbin (D) ,committees,12250
-1545,45, John Hoeven (R) ,committees,0
-1546,18, Cory Booker (D) ,committees,1000
-1547,12, Chris Coons (D) ,committees,0
-1548,43, John Boozman (R) ,committees,0
-1549,32, Jack Reed (D) ,committees,7000
-1550,15, Chuck Grassley (R) ,committees,3225
-1551,73, Rand Paul (R) ,committees,64237
-1552,65, Mike Lee (R) ,committees,477
-1553,56, Maggie Hassan (D) ,committees,0
-1554,4, Bernie Sanders (I) ,committees,0
-1555,62, Michael F Bennet (D) ,committees,1500
-1556,58, Maria Cantwell (D) ,committees,34250
-1557,64, Mike Enzi (R) ,committees,0
-1558,71, Patrick Leahy (D) ,committees,0
-1559,33, James E Risch (R) ,committees,0
-1560,97, Tom Udall (D) ,committees,125
-1561,74, Richard Blumenthal (D) ,committees,0
-1562,11, Charles E Schumer (D) ,committees,0
-1563,75, Richard Burr (R) ,committees,0
-1564,38, Jeff Merkley (D) ,committees,1075
-1565,51, Kamala D Harris (D) ,committees,0
-1566,76, Richard C Shelby (R) ,committees,0
-1567,13, Chris Van Hollen (D) ,committees,0
+,Name,ideology,Amt
+0, Amy Klobuchar (D) ,Agriculture,177000.0
+1, Angus King (I) ,Agriculture,72500.0
+2, Ben Cardin (D) ,Agriculture,22500.0
+3, Ben Sasse (R) ,Agriculture,6000.0
+4, Bernie Sanders (I) ,Agriculture,0
+5, Bill Cassidy (R) ,Agriculture,29000.0
+6, Bill Nelson (D) ,Agriculture,49000.0
+7, Bob Casey (D) ,Agriculture,115750.0
+8, Bob Corker (R) ,Agriculture,0.0
+9, Brian Schatz (D) ,Agriculture,0
+10, Catherine Cortez Masto (D) ,Agriculture,15000.0
+11, Charles E Schumer (D) ,Agriculture,8000.0
+12, Chris Coons (D) ,Agriculture,6000.0
+13, Chris Van Hollen (D) ,Agriculture,0
+14, Christopher S Murphy (D) ,Agriculture,7000.0
+15, Chuck Grassley (R) ,Agriculture,8000.0
+16, Cindy Hyde-Smith (R) ,Agriculture,140000.0
+17, Claire McCaskill (D) ,Agriculture,42500.0
+18, Cory Booker (D) ,Agriculture,0
+19, Cory Gardner (R) ,Agriculture,25500.0
+20, Dan Sullivan (R) ,Agriculture,1000.0
+21, David Perdue (R) ,Agriculture,51000.0
+22, Dean Heller (R) ,Agriculture,49000.0
+23, Deb Fischer (R) ,Agriculture,175750.0
+24, Debbie Stabenow (D) ,Agriculture,318103.0
+25, Dianne Feinstein (D) ,Agriculture,110950.0
+26, Dick Durbin (D) ,Agriculture,0
+27, Doug Jones (D) ,Agriculture,36500.0
+28, Ed Markey (D) ,Agriculture,5000.0
+29, Elizabeth Warren (D) ,Agriculture,0
+30, Gary Peters (D) ,Agriculture,10000.0
+31, Heidi Heitkamp (D) ,Agriculture,212500.0
+32, Jack Reed (D) ,Agriculture,0
+33, James E Risch (R) ,Agriculture,1500.0
+34, James Lankford (R) ,Agriculture,1000.0
+35, James M Inhofe (R) ,Agriculture,11000.0
+36, Jeanne Shaheen (D) ,Agriculture,5500.0
+37, Jeff Flake (R) ,Agriculture,11000.0
+38, Jeff Merkley (D) ,Agriculture,7500.0
+39, Jerry Moran (R) ,Agriculture,19250.0
+40, Joe Donnelly (D) ,Agriculture,140100.0
+41, Joe Manchin (D) ,Agriculture,41642.0
+42, John A Barrasso (R) ,Agriculture,107500.0
+43, John Boozman (R) ,Agriculture,56250.0
+44, John Cornyn (R) ,Agriculture,25000.0
+45, John Hoeven (R) ,Agriculture,46500.0
+46, John Kennedy (R) ,Agriculture,50173.0
+47, John Thune (R) ,Agriculture,35000.0
+48, Johnny Isakson (R) ,Agriculture,15000.0
+49, Jon Tester (D) ,Agriculture,68500.0
+50, Joni Ernst (R) ,Agriculture,16000.0
+51, Kamala D Harris (D) ,Agriculture,6000.0
+52, Kirsten Gillibrand (D) ,Agriculture,20000.0
+53, Lamar Alexander (R) ,Agriculture,6500.0
+54, Lindsey Graham (R) ,Agriculture,23700.0
+55, Lisa Murkowski (R) ,Agriculture,0
+56, Maggie Hassan (D) ,Agriculture,4500.0
+57, Marco Rubio (R) ,Agriculture,19500.0
+58, Maria Cantwell (D) ,Agriculture,5000.0
+59, Mark Warner (D) ,Agriculture,30500.0
+60, Martin Heinrich (D) ,Agriculture,24000.0
+61, Mazie K Hirono (D) ,Agriculture,22000.0
+62, Michael F Bennet (D) ,Agriculture,2000.0
+63, Mike Crapo (R) ,Agriculture,16000.0
+64, Mike Enzi (R) ,Agriculture,3500.0
+65, Mike Lee (R) ,Agriculture,2000.0
+66, Mike Rounds (R) ,Agriculture,13500.0
+67, Mitch McConnell (R) ,Agriculture,32000.0
+68, Orrin G Hatch (R) ,Agriculture,18000.0
+69, Pat Roberts (R) ,Agriculture,124500.0
+70, Pat Toomey (R) ,Agriculture,9000.0
+71, Patrick Leahy (D) ,Agriculture,8600.0
+72, Patty Murray (D) ,Agriculture,6000.0
+73, Rand Paul (R) ,Agriculture,1000.0
+74, Richard Blumenthal (D) ,Agriculture,0
+75, Richard Burr (R) ,Agriculture,0
+76, Richard C Shelby (R) ,Agriculture,3500.0
+77, Rob Portman (R) ,Agriculture,5000.0
+78, Robert Menendez (D) ,Agriculture,7000.0
+79, Roger Wicker (R) ,Agriculture,129500.0
+80, Ron Johnson (R) ,Agriculture,17500.0
+81, Ron Wyden (D) ,Agriculture,4000.0
+82, Sheldon Whitehouse (D) ,Agriculture,700.0
+83, Shelley Moore Capito (R) ,Agriculture,7000.0
+84, Sherrod Brown (D) ,Agriculture,40500.0
+85, Steven Daines (R) ,Agriculture,22000.0
+86, Susan Collins (R) ,Agriculture,13000.0
+87, Tammy Baldwin (D) ,Agriculture,60000.0
+88, Tammy Duckworth (D) ,Agriculture,18500.0
+89, Ted Cruz (R) ,Agriculture,23327.0
+90, Thom Tillis (R) ,Agriculture,34000.0
+91, Tim Kaine (D) ,Agriculture,34000.0
+92, Tim Scott (R) ,Agriculture,15000.0
+93, Tina Smith (D) ,Agriculture,86500.0
+94, Todd Young (R) ,Agriculture,8250.0
+95, Tom Carper (D) ,Agriculture,29000.0
+96, Tom Cotton (R) ,Agriculture,4000.0
+97, Tom Udall (D) ,Agriculture,1000.0
+98, Amy Klobuchar (D) ,Builders,70000.0
+99, Angus King (I) ,Builders,31000.0
+100, Ben Cardin (D) ,Builders,71125.0
+101, Ben Sasse (R) ,Builders,3000.0
+102, Bernie Sanders (I) ,Builders,15600.0
+103, Bill Cassidy (R) ,Builders,4500.0
+104, Bill Nelson (D) ,Builders,75600.0
+105, Bob Casey (D) ,Builders,72750.0
+106, Bob Corker (R) ,Builders,8500.0
+107, Brian Schatz (D) ,Builders,4000.0
+108, Catherine Cortez Masto (D) ,Builders,17321.0
+109, Charles E Schumer (D) ,Builders,5000.0
+110, Chris Coons (D) ,Builders,1000.0
+111, Chris Van Hollen (D) ,Builders,1000.0
+112, Christopher S Murphy (D) ,Builders,17000.0
+113, Chuck Grassley (R) ,Builders,0
+114, Cindy Hyde-Smith (R) ,Builders,24500.0
+115, Claire McCaskill (D) ,Builders,100450.0
+116, Cory Booker (D) ,Builders,6500.0
+117, Cory Gardner (R) ,Builders,12500.0
+118, Dan Sullivan (R) ,Builders,2000.0
+119, David Perdue (R) ,Builders,7500.0
+120, Dean Heller (R) ,Builders,106000.0
+121, Deb Fischer (R) ,Builders,72200.0
+122, Debbie Stabenow (D) ,Builders,82500.0
+123, Dianne Feinstein (D) ,Builders,46200.0
+124, Dick Durbin (D) ,Builders,18500.0
+125, Doug Jones (D) ,Builders,65500.0
+126, Ed Markey (D) ,Builders,2000.0
+127, Elizabeth Warren (D) ,Builders,22500.0
+128, Gary Peters (D) ,Builders,14000.0
+129, Heidi Heitkamp (D) ,Builders,99201.0
+130, Jack Reed (D) ,Builders,24000.0
+131, James E Risch (R) ,Builders,1000.0
+132, James Lankford (R) ,Builders,500.0
+133, James M Inhofe (R) ,Builders,15000.0
+134, Jeanne Shaheen (D) ,Builders,11000.0
+135, Jeff Flake (R) ,Builders,11900.0
+136, Jeff Merkley (D) ,Builders,2200.0
+137, Jerry Moran (R) ,Builders,0
+138, Joe Donnelly (D) ,Builders,69250.0
+139, Joe Manchin (D) ,Builders,70500.0
+140, John A Barrasso (R) ,Builders,130000.0
+141, John Boozman (R) ,Builders,0
+142, John Cornyn (R) ,Builders,48000.0
+143, John Hoeven (R) ,Builders,2000.0
+144, John Kennedy (R) ,Builders,5000.0
+145, John Thune (R) ,Builders,16500.0
+146, Johnny Isakson (R) ,Builders,6500.0
+147, Jon Tester (D) ,Builders,34500.0
+148, Joni Ernst (R) ,Builders,9000.0
+149, Kamala D Harris (D) ,Builders,-5000.0
+150, Kirsten Gillibrand (D) ,Builders,24500.0
+151, Lamar Alexander (R) ,Builders,0
+152, Lindsey Graham (R) ,Builders,12000.0
+153, Lisa Murkowski (R) ,Builders,16500.0
+154, Maggie Hassan (D) ,Builders,24236.0
+155, Marco Rubio (R) ,Builders,12500.0
+156, Maria Cantwell (D) ,Builders,-1000.0
+157, Mark Warner (D) ,Builders,10000.0
+158, Martin Heinrich (D) ,Builders,52000.0
+159, Mazie K Hirono (D) ,Builders,59500.0
+160, Michael F Bennet (D) ,Builders,12500.0
+161, Mike Crapo (R) ,Builders,37100.0
+162, Mike Enzi (R) ,Builders,0
+163, Mike Lee (R) ,Builders,-5000.0
+164, Mike Rounds (R) ,Builders,0
+165, Mitch McConnell (R) ,Builders,23500.0
+166, Orrin G Hatch (R) ,Builders,59000.0
+167, Pat Roberts (R) ,Builders,5000.0
+168, Pat Toomey (R) ,Builders,18500.0
+169, Patrick Leahy (D) ,Builders,0
+170, Patty Murray (D) ,Builders,19500.0
+171, Rand Paul (R) ,Builders,2500.0
+172, Richard Blumenthal (D) ,Builders,0
+173, Richard Burr (R) ,Builders,0
+174, Richard C Shelby (R) ,Builders,0
+175, Rob Portman (R) ,Builders,34000.0
+176, Robert Menendez (D) ,Builders,54600.0
+177, Roger Wicker (R) ,Builders,65750.0
+178, Ron Johnson (R) ,Builders,-500.0
+179, Ron Wyden (D) ,Builders,7000.0
+180, Sheldon Whitehouse (D) ,Builders,44750.0
+181, Shelley Moore Capito (R) ,Builders,29500.0
+182, Sherrod Brown (D) ,Builders,87750.0
+183, Steven Daines (R) ,Builders,17500.0
+184, Susan Collins (R) ,Builders,8250.0
+185, Tammy Baldwin (D) ,Builders,62500.0
+186, Tammy Duckworth (D) ,Builders,12500.0
+187, Ted Cruz (R) ,Builders,30500.0
+188, Thom Tillis (R) ,Builders,9750.0
+189, Tim Kaine (D) ,Builders,61700.0
+190, Tim Scott (R) ,Builders,19000.0
+191, Tina Smith (D) ,Builders,49000.0
+192, Todd Young (R) ,Builders,3500.0
+193, Tom Carper (D) ,Builders,51200.0
+194, Tom Cotton (R) ,Builders,1000.0
+195, Tom Udall (D) ,Builders,5000.0
+196, Amy Klobuchar (D) ,Comms,124350.0
+197, Angus King (I) ,Comms,102000.0
+198, Ben Cardin (D) ,Comms,50500.0
+199, Ben Sasse (R) ,Comms,27200.0
+200, Bernie Sanders (I) ,Comms,1500.0
+201, Bill Cassidy (R) ,Comms,23500.0
+202, Bill Nelson (D) ,Comms,168475.0
+203, Bob Casey (D) ,Comms,146800.0
+204, Bob Corker (R) ,Comms,32000.0
+205, Brian Schatz (D) ,Comms,45000.0
+206, Catherine Cortez Masto (D) ,Comms,29500.0
+207, Charles E Schumer (D) ,Comms,-2000.0
+208, Chris Coons (D) ,Comms,27500.0
+209, Chris Van Hollen (D) ,Comms,-2000.0
+210, Christopher S Murphy (D) ,Comms,58322.0
+211, Chuck Grassley (R) ,Comms,13500.0
+212, Cindy Hyde-Smith (R) ,Comms,38200.0
+213, Claire McCaskill (D) ,Comms,140250.0
+214, Cory Booker (D) ,Comms,49500.0
+215, Cory Gardner (R) ,Comms,73500.0
+216, Dan Sullivan (R) ,Comms,28000.0
+217, David Perdue (R) ,Comms,21000.0
+218, Dean Heller (R) ,Comms,186500.0
+219, Deb Fischer (R) ,Comms,130050.0
+220, Debbie Stabenow (D) ,Comms,139200.0
+221, Dianne Feinstein (D) ,Comms,132250.0
+222, Dick Durbin (D) ,Comms,3500.0
+223, Doug Jones (D) ,Comms,32500.0
+224, Ed Markey (D) ,Comms,57700.0
+225, Elizabeth Warren (D) ,Comms,-10000.0
+226, Gary Peters (D) ,Comms,27500.0
+227, Heidi Heitkamp (D) ,Comms,125250.0
+228, Jack Reed (D) ,Comms,7500.0
+229, James E Risch (R) ,Comms,11000.0
+230, James Lankford (R) ,Comms,27250.0
+231, James M Inhofe (R) ,Comms,26500.0
+232, Jeanne Shaheen (D) ,Comms,12750.0
+233, Jeff Flake (R) ,Comms,66750.0
+234, Jeff Merkley (D) ,Comms,0
+235, Jerry Moran (R) ,Comms,42200.0
+236, Joe Donnelly (D) ,Comms,96999.0
+237, Joe Manchin (D) ,Comms,140377.0
+238, John A Barrasso (R) ,Comms,113500.0
+239, John Boozman (R) ,Comms,18000.0
+240, John Cornyn (R) ,Comms,51000.0
+241, John Hoeven (R) ,Comms,8080.0
+242, John Kennedy (R) ,Comms,14000.0
+243, John Thune (R) ,Comms,71000.0
+244, Johnny Isakson (R) ,Comms,25000.0
+245, Jon Tester (D) ,Comms,145750.0
+246, Joni Ernst (R) ,Comms,11500.0
+247, Kamala D Harris (D) ,Comms,5000.0
+248, Kirsten Gillibrand (D) ,Comms,32500.0
+249, Lamar Alexander (R) ,Comms,8500.0
+250, Lindsey Graham (R) ,Comms,12500.0
+251, Lisa Murkowski (R) ,Comms,20000.0
+252, Maggie Hassan (D) ,Comms,18250.0
+253, Marco Rubio (R) ,Comms,18000.0
+254, Maria Cantwell (D) ,Comms,0.0
+255, Mark Warner (D) ,Comms,44500.0
+256, Martin Heinrich (D) ,Comms,87700.0
+257, Mazie K Hirono (D) ,Comms,109000.0
+258, Michael F Bennet (D) ,Comms,3000.0
+259, Mike Crapo (R) ,Comms,30900.0
+260, Mike Enzi (R) ,Comms,7000.0
+261, Mike Lee (R) ,Comms,24000.0
+262, Mike Rounds (R) ,Comms,16500.0
+263, Mitch McConnell (R) ,Comms,35000.0
+264, Orrin G Hatch (R) ,Comms,137100.0
+265, Pat Roberts (R) ,Comms,18500.0
+266, Pat Toomey (R) ,Comms,28000.0
+267, Patrick Leahy (D) ,Comms,14500.0
+268, Patty Murray (D) ,Comms,7000.0
+269, Rand Paul (R) ,Comms,13000.0
+270, Richard Blumenthal (D) ,Comms,12500.0
+271, Richard Burr (R) ,Comms,-3000.0
+272, Richard C Shelby (R) ,Comms,0.0
+273, Rob Portman (R) ,Comms,23500.0
+274, Robert Menendez (D) ,Comms,63000.0
+275, Roger Wicker (R) ,Comms,219400.0
+276, Ron Johnson (R) ,Comms,50000.0
+277, Ron Wyden (D) ,Comms,18600.0
+278, Sheldon Whitehouse (D) ,Comms,94500.0
+279, Shelley Moore Capito (R) ,Comms,45500.0
+280, Sherrod Brown (D) ,Comms,102613.0
+281, Steven Daines (R) ,Comms,33000.0
+282, Susan Collins (R) ,Comms,15000.0
+283, Tammy Baldwin (D) ,Comms,74700.0
+284, Tammy Duckworth (D) ,Comms,22000.0
+285, Ted Cruz (R) ,Comms,92000.0
+286, Thom Tillis (R) ,Comms,38500.0
+287, Tim Kaine (D) ,Comms,129500.0
+288, Tim Scott (R) ,Comms,11000.0
+289, Tina Smith (D) ,Comms,31500.0
+290, Todd Young (R) ,Comms,19000.0
+291, Tom Carper (D) ,Comms,67000.0
+292, Tom Cotton (R) ,Comms,38180.0
+293, Tom Udall (D) ,Comms,16000.0
+294, Amy Klobuchar (D) ,Defense,2000.0
+295, Angus King (I) ,Defense,84000.0
+296, Ben Cardin (D) ,Defense,66950.0
+297, Ben Sasse (R) ,Defense,10500.0
+298, Bernie Sanders (I) ,Defense,0
+299, Bill Cassidy (R) ,Defense,4500.0
+300, Bill Nelson (D) ,Defense,98500.0
+301, Bob Casey (D) ,Defense,47500.0
+302, Bob Corker (R) ,Defense,32125.0
+303, Brian Schatz (D) ,Defense,22500.0
+304, Catherine Cortez Masto (D) ,Defense,0
+305, Charles E Schumer (D) ,Defense,0
+306, Chris Coons (D) ,Defense,2000.0
+307, Chris Van Hollen (D) ,Defense,1000.0
+308, Christopher S Murphy (D) ,Defense,51000.0
+309, Chuck Grassley (R) ,Defense,0
+310, Cindy Hyde-Smith (R) ,Defense,31500.0
+311, Claire McCaskill (D) ,Defense,54000.0
+312, Cory Booker (D) ,Defense,0
+313, Cory Gardner (R) ,Defense,4000.0
+314, Dan Sullivan (R) ,Defense,47000.0
+315, David Perdue (R) ,Defense,32900.0
+316, Dean Heller (R) ,Defense,10500.0
+317, Deb Fischer (R) ,Defense,67000.0
+318, Debbie Stabenow (D) ,Defense,33000.0
+319, Dianne Feinstein (D) ,Defense,57500.0
+320, Dick Durbin (D) ,Defense,21000.0
+321, Doug Jones (D) ,Defense,9500.0
+322, Ed Markey (D) ,Defense,0
+323, Elizabeth Warren (D) ,Defense,1280.0
+324, Gary Peters (D) ,Defense,14000.0
+325, Heidi Heitkamp (D) ,Defense,34000.0
+326, Jack Reed (D) ,Defense,47000.0
+327, James E Risch (R) ,Defense,0
+328, James Lankford (R) ,Defense,11000.0
+329, James M Inhofe (R) ,Defense,60500.0
+330, Jeanne Shaheen (D) ,Defense,71500.0
+331, Jeff Flake (R) ,Defense,19000.0
+332, Jeff Merkley (D) ,Defense,0
+333, Jerry Moran (R) ,Defense,20500.0
+334, Joe Donnelly (D) ,Defense,92000.0
+335, Joe Manchin (D) ,Defense,99000.0
+336, John A Barrasso (R) ,Defense,47000.0
+337, John Boozman (R) ,Defense,16500.0
+338, John Cornyn (R) ,Defense,10000.0
+339, John Hoeven (R) ,Defense,15000.0
+340, John Kennedy (R) ,Defense,6500.0
+341, John Thune (R) ,Defense,4000.0
+342, Johnny Isakson (R) ,Defense,10000.0
+343, Jon Tester (D) ,Defense,436822.0
+344, Joni Ernst (R) ,Defense,24000.0
+345, Kamala D Harris (D) ,Defense,0
+346, Kirsten Gillibrand (D) ,Defense,21500.0
+347, Lamar Alexander (R) ,Defense,8000.0
+348, Lindsey Graham (R) ,Defense,44000.0
+349, Lisa Murkowski (R) ,Defense,18000.0
+350, Maggie Hassan (D) ,Defense,4000.0
+351, Marco Rubio (R) ,Defense,35500.0
+352, Maria Cantwell (D) ,Defense,1000.0
+353, Mark Warner (D) ,Defense,33000.0
+354, Martin Heinrich (D) ,Defense,118000.0
+355, Mazie K Hirono (D) ,Defense,53500.0
+356, Michael F Bennet (D) ,Defense,6000.0
+357, Mike Crapo (R) ,Defense,7000.0
+358, Mike Enzi (R) ,Defense,5000.0
+359, Mike Lee (R) ,Defense,1000.0
+360, Mike Rounds (R) ,Defense,11500.0
+361, Mitch McConnell (R) ,Defense,38000.0
+362, Orrin G Hatch (R) ,Defense,19625.0
+363, Pat Roberts (R) ,Defense,0.0
+364, Pat Toomey (R) ,Defense,9500.0
+365, Patrick Leahy (D) ,Defense,7000.0
+366, Patty Murray (D) ,Defense,0
+367, Rand Paul (R) ,Defense,0
+368, Richard Blumenthal (D) ,Defense,4500.0
+369, Richard Burr (R) ,Defense,4000.0
+370, Richard C Shelby (R) ,Defense,5000.0
+371, Rob Portman (R) ,Defense,11500.0
+372, Robert Menendez (D) ,Defense,22000.0
+373, Roger Wicker (R) ,Defense,116625.0
+374, Ron Johnson (R) ,Defense,3000.0
+375, Ron Wyden (D) ,Defense,1000.0
+376, Sheldon Whitehouse (D) ,Defense,12500.0
+377, Shelley Moore Capito (R) ,Defense,18500.0
+378, Sherrod Brown (D) ,Defense,28390.0
+379, Steven Daines (R) ,Defense,22000.0
+380, Susan Collins (R) ,Defense,16000.0
+381, Tammy Baldwin (D) ,Defense,30500.0
+382, Tammy Duckworth (D) ,Defense,6000.0
+383, Ted Cruz (R) ,Defense,35000.0
+384, Thom Tillis (R) ,Defense,25500.0
+385, Tim Kaine (D) ,Defense,145188.0
+386, Tim Scott (R) ,Defense,19500.0
+387, Tina Smith (D) ,Defense,13500.0
+388, Todd Young (R) ,Defense,1000.0
+389, Tom Carper (D) ,Defense,22000.0
+390, Tom Cotton (R) ,Defense,15500.0
+391, Tom Udall (D) ,Defense,0
+392, Amy Klobuchar (D) ,Energy,55250.0
+393, Angus King (I) ,Energy,70033.0
+394, Ben Cardin (D) ,Energy,46793.0
+395, Ben Sasse (R) ,Energy,15000.0
+396, Bernie Sanders (I) ,Energy,10.0
+397, Bill Cassidy (R) ,Energy,60500.0
+398, Bill Nelson (D) ,Energy,48675.0
+399, Bob Casey (D) ,Energy,76651.0
+400, Bob Corker (R) ,Energy,39500.0
+401, Brian Schatz (D) ,Energy,13000.0
+402, Catherine Cortez Masto (D) ,Energy,10500.0
+403, Charles E Schumer (D) ,Energy,-1000.0
+404, Chris Coons (D) ,Energy,2500.0
+405, Chris Van Hollen (D) ,Energy,0.0
+406, Christopher S Murphy (D) ,Energy,49110.0
+407, Chuck Grassley (R) ,Energy,27000.0
+408, Cindy Hyde-Smith (R) ,Energy,70000.0
+409, Claire McCaskill (D) ,Energy,72500.0
+410, Cory Booker (D) ,Energy,6500.0
+411, Cory Gardner (R) ,Energy,79000.0
+412, Dan Sullivan (R) ,Energy,45900.0
+413, David Perdue (R) ,Energy,17500.0
+414, Dean Heller (R) ,Energy,384837.0
+415, Deb Fischer (R) ,Energy,138500.0
+416, Debbie Stabenow (D) ,Energy,146543.0
+417, Dianne Feinstein (D) ,Energy,48400.0
+418, Dick Durbin (D) ,Energy,2750.0
+419, Doug Jones (D) ,Energy,27999.0
+420, Ed Markey (D) ,Energy,10000.0
+421, Elizabeth Warren (D) ,Energy,6031.0
+422, Gary Peters (D) ,Energy,11000.0
+423, Heidi Heitkamp (D) ,Energy,250050.0
+424, Jack Reed (D) ,Energy,5000.0
+425, James E Risch (R) ,Energy,-1000.0
+426, James Lankford (R) ,Energy,38000.0
+427, James M Inhofe (R) ,Energy,64189.0
+428, Jeanne Shaheen (D) ,Energy,13750.0
+429, Jeff Flake (R) ,Energy,155550.0
+430, Jeff Merkley (D) ,Energy,9500.0
+431, Jerry Moran (R) ,Energy,11500.0
+432, Joe Donnelly (D) ,Energy,120750.0
+433, Joe Manchin (D) ,Energy,525158.0
+434, John A Barrasso (R) ,Energy,450400.0
+435, John Boozman (R) ,Energy,0
+436, John Cornyn (R) ,Energy,69900.0
+437, John Hoeven (R) ,Energy,29750.0
+438, John Kennedy (R) ,Energy,36500.0
+439, John Thune (R) ,Energy,50200.0
+440, Johnny Isakson (R) ,Energy,500.0
+441, Jon Tester (D) ,Energy,51532.0
+442, Joni Ernst (R) ,Energy,34500.0
+443, Kamala D Harris (D) ,Energy,5000.0
+444, Kirsten Gillibrand (D) ,Energy,21510.0
+445, Lamar Alexander (R) ,Energy,5000.0
+446, Lindsey Graham (R) ,Energy,28000.0
+447, Lisa Murkowski (R) ,Energy,130450.0
+448, Maggie Hassan (D) ,Energy,500.0
+449, Marco Rubio (R) ,Energy,28500.0
+450, Maria Cantwell (D) ,Energy,-990.0
+451, Mark Warner (D) ,Energy,41500.0
+452, Martin Heinrich (D) ,Energy,152630.0
+453, Mazie K Hirono (D) ,Energy,39209.0
+454, Michael F Bennet (D) ,Energy,7500.0
+455, Mike Crapo (R) ,Energy,23500.0
+456, Mike Enzi (R) ,Energy,5000.0
+457, Mike Lee (R) ,Energy,3000.0
+458, Mike Rounds (R) ,Energy,19500.0
+459, Mitch McConnell (R) ,Energy,38500.0
+460, Orrin G Hatch (R) ,Energy,139500.0
+461, Pat Roberts (R) ,Energy,20000.0
+462, Pat Toomey (R) ,Energy,44500.0
+463, Patrick Leahy (D) ,Energy,5000.0
+464, Patty Murray (D) ,Energy,9900.0
+465, Rand Paul (R) ,Energy,3500.0
+466, Richard Blumenthal (D) ,Energy,500.0
+467, Richard Burr (R) ,Energy,-500.0
+468, Richard C Shelby (R) ,Energy,0
+469, Rob Portman (R) ,Energy,63500.0
+470, Robert Menendez (D) ,Energy,34895.0
+471, Roger Wicker (R) ,Energy,174200.0
+472, Ron Johnson (R) ,Energy,8500.0
+473, Ron Wyden (D) ,Energy,16500.0
+474, Sheldon Whitehouse (D) ,Energy,57751.0
+475, Shelley Moore Capito (R) ,Energy,20000.0
+476, Sherrod Brown (D) ,Energy,84953.0
+477, Steven Daines (R) ,Energy,32000.0
+478, Susan Collins (R) ,Energy,5500.0
+479, Tammy Baldwin (D) ,Energy,66467.0
+480, Tammy Duckworth (D) ,Energy,8000.0
+481, Ted Cruz (R) ,Energy,91500.0
+482, Thom Tillis (R) ,Energy,33500.0
+483, Tim Kaine (D) ,Energy,87419.0
+484, Tim Scott (R) ,Energy,49200.0
+485, Tina Smith (D) ,Energy,44531.0
+486, Todd Young (R) ,Energy,11000.0
+487, Tom Carper (D) ,Energy,130000.0
+488, Tom Cotton (R) ,Energy,14500.0
+489, Tom Udall (D) ,Energy,8500.0
+490, Amy Klobuchar (D) ,Finance,153900.0
+491, Angus King (I) ,Finance,176000.0
+492, Ben Cardin (D) ,Finance,239000.0
+493, Ben Sasse (R) ,Finance,127422.0
+494, Bernie Sanders (I) ,Finance,0
+495, Bill Cassidy (R) ,Finance,80500.0
+496, Bill Nelson (D) ,Finance,232000.0
+497, Bob Casey (D) ,Finance,276584.0
+498, Bob Corker (R) ,Finance,130200.0
+499, Brian Schatz (D) ,Finance,39500.0
+500, Catherine Cortez Masto (D) ,Finance,23500.0
+501, Charles E Schumer (D) ,Finance,16000.0
+502, Chris Coons (D) ,Finance,42500.0
+503, Chris Van Hollen (D) ,Finance,6010.0
+504, Christopher S Murphy (D) ,Finance,279500.0
+505, Chuck Grassley (R) ,Finance,30250.0
+506, Cindy Hyde-Smith (R) ,Finance,106089.0
+507, Claire McCaskill (D) ,Finance,369600.0
+508, Cory Booker (D) ,Finance,40500.0
+509, Cory Gardner (R) ,Finance,63000.0
+510, Dan Sullivan (R) ,Finance,10500.0
+511, David Perdue (R) ,Finance,128250.0
+512, Dean Heller (R) ,Finance,748650.0
+513, Deb Fischer (R) ,Finance,220630.0
+514, Debbie Stabenow (D) ,Finance,387500.0
+515, Dianne Feinstein (D) ,Finance,132900.0
+516, Dick Durbin (D) ,Finance,26500.0
+517, Doug Jones (D) ,Finance,126000.0
+518, Ed Markey (D) ,Finance,20000.0
+519, Elizabeth Warren (D) ,Finance,0.0
+520, Gary Peters (D) ,Finance,172700.0
+521, Heidi Heitkamp (D) ,Finance,593490.0
+522, Jack Reed (D) ,Finance,11000.0
+523, James E Risch (R) ,Finance,22500.0
+524, James Lankford (R) ,Finance,50200.0
+525, James M Inhofe (R) ,Finance,16500.0
+526, Jeanne Shaheen (D) ,Finance,14500.0
+527, Jeff Flake (R) ,Finance,145200.0
+528, Jeff Merkley (D) ,Finance,12000.0
+529, Jerry Moran (R) ,Finance,30500.0
+530, Joe Donnelly (D) ,Finance,500890.0
+531, Joe Manchin (D) ,Finance,328288.0
+532, John A Barrasso (R) ,Finance,316500.0
+533, John Boozman (R) ,Finance,23500.0
+534, John Cornyn (R) ,Finance,143200.0
+535, John Hoeven (R) ,Finance,11000.0
+536, John Kennedy (R) ,Finance,87200.0
+537, John Thune (R) ,Finance,82000.0
+538, Johnny Isakson (R) ,Finance,45000.0
+539, Jon Tester (D) ,Finance,568910.0
+540, Joni Ernst (R) ,Finance,42500.0
+541, Kamala D Harris (D) ,Finance,3475.0
+542, Kirsten Gillibrand (D) ,Finance,130200.0
+543, Lamar Alexander (R) ,Finance,29500.0
+544, Lindsey Graham (R) ,Finance,53500.0
+545, Lisa Murkowski (R) ,Finance,17000.0
+546, Maggie Hassan (D) ,Finance,5000.0
+547, Marco Rubio (R) ,Finance,40500.0
+548, Maria Cantwell (D) ,Finance,347.0
+549, Mark Warner (D) ,Finance,229000.0
+550, Martin Heinrich (D) ,Finance,182990.0
+551, Mazie K Hirono (D) ,Finance,63800.0
+552, Michael F Bennet (D) ,Finance,8500.0
+553, Mike Crapo (R) ,Finance,503700.0
+554, Mike Enzi (R) ,Finance,5500.0
+555, Mike Lee (R) ,Finance,4500.0
+556, Mike Rounds (R) ,Finance,117000.0
+557, Mitch McConnell (R) ,Finance,207000.0
+558, Orrin G Hatch (R) ,Finance,262550.0
+559, Pat Roberts (R) ,Finance,65000.0
+560, Pat Toomey (R) ,Finance,252000.0
+561, Patrick Leahy (D) ,Finance,8000.0
+562, Patty Murray (D) ,Finance,58500.0
+563, Rand Paul (R) ,Finance,7500.0
+564, Richard Blumenthal (D) ,Finance,4500.0
+565, Richard Burr (R) ,Finance,13000.0
+566, Richard C Shelby (R) ,Finance,-6500.0
+567, Rob Portman (R) ,Finance,140000.0
+568, Robert Menendez (D) ,Finance,169500.0
+569, Roger Wicker (R) ,Finance,186161.0
+570, Ron Johnson (R) ,Finance,55000.0
+571, Ron Wyden (D) ,Finance,52000.0
+572, Sheldon Whitehouse (D) ,Finance,55000.0
+573, Shelley Moore Capito (R) ,Finance,72500.0
+574, Sherrod Brown (D) ,Finance,426500.0
+575, Steven Daines (R) ,Finance,39000.0
+576, Susan Collins (R) ,Finance,74500.0
+577, Tammy Baldwin (D) ,Finance,93900.0
+578, Tammy Duckworth (D) ,Finance,21000.0
+579, Ted Cruz (R) ,Finance,60500.0
+580, Thom Tillis (R) ,Finance,254650.0
+581, Tim Kaine (D) ,Finance,238300.0
+582, Tim Scott (R) ,Finance,219200.0
+583, Tina Smith (D) ,Finance,95500.0
+584, Todd Young (R) ,Finance,43500.0
+585, Tom Carper (D) ,Finance,374350.0
+586, Tom Cotton (R) ,Finance,103200.0
+587, Tom Udall (D) ,Finance,3500.0
+588, Amy Klobuchar (D) ,General,120000.0
+589, Angus King (I) ,General,55000.0
+590, Ben Cardin (D) ,General,63750.0
+591, Ben Sasse (R) ,General,15500.0
+592, Bernie Sanders (I) ,General,0
+593, Bill Cassidy (R) ,General,35200.0
+594, Bill Nelson (D) ,General,487900.0
+595, Bob Casey (D) ,General,151346.0
+596, Bob Corker (R) ,General,29000.0
+597, Brian Schatz (D) ,General,14500.0
+598, Catherine Cortez Masto (D) ,General,11000.0
+599, Charles E Schumer (D) ,General,12500.0
+600, Chris Coons (D) ,General,7000.0
+601, Chris Van Hollen (D) ,General,0
+602, Christopher S Murphy (D) ,General,31321.0
+603, Chuck Grassley (R) ,General,9500.0
+604, Cindy Hyde-Smith (R) ,General,718500.0
+605, Claire McCaskill (D) ,General,103500.0
+606, Cory Booker (D) ,General,6250.0
+607, Cory Gardner (R) ,General,72250.0
+608, Dan Sullivan (R) ,General,5700.0
+609, David Perdue (R) ,General,57000.0
+610, Dean Heller (R) ,General,234500.0
+611, Deb Fischer (R) ,General,157340.0
+612, Debbie Stabenow (D) ,General,186000.0
+613, Dianne Feinstein (D) ,General,97200.0
+614, Dick Durbin (D) ,General,11000.0
+615, Doug Jones (D) ,General,21000.0
+616, Ed Markey (D) ,General,3700.0
+617, Elizabeth Warren (D) ,General,17500.0
+618, Gary Peters (D) ,General,18557.0
+619, Heidi Heitkamp (D) ,General,150250.0
+620, Jack Reed (D) ,General,0
+621, James E Risch (R) ,General,4821.0
+622, James Lankford (R) ,General,11500.0
+623, James M Inhofe (R) ,General,0
+624, Jeanne Shaheen (D) ,General,6500.0
+625, Jeff Flake (R) ,General,90750.0
+626, Jeff Merkley (D) ,General,0
+627, Jerry Moran (R) ,General,14500.0
+628, Joe Donnelly (D) ,General,104200.0
+629, Joe Manchin (D) ,General,74000.0
+630, John A Barrasso (R) ,General,135500.0
+631, John Boozman (R) ,General,10500.0
+632, John Cornyn (R) ,General,55000.0
+633, John Hoeven (R) ,General,9000.0
+634, John Kennedy (R) ,General,10700.0
+635, John Thune (R) ,General,43000.0
+636, Johnny Isakson (R) ,General,19000.0
+637, Jon Tester (D) ,General,111850.0
+638, Joni Ernst (R) ,General,10500.0
+639, Kamala D Harris (D) ,General,6480.0
+640, Kirsten Gillibrand (D) ,General,55400.0
+641, Lamar Alexander (R) ,General,9500.0
+642, Lindsey Graham (R) ,General,22500.0
+643, Lisa Murkowski (R) ,General,19000.0
+644, Maggie Hassan (D) ,General,2556.0
+645, Marco Rubio (R) ,General,23500.0
+646, Maria Cantwell (D) ,General,12500.0
+647, Mark Warner (D) ,General,18000.0
+648, Martin Heinrich (D) ,General,73700.0
+649, Mazie K Hirono (D) ,General,68500.0
+650, Michael F Bennet (D) ,General,5500.0
+651, Mike Crapo (R) ,General,24148.0
+652, Mike Enzi (R) ,General,7000.0
+653, Mike Lee (R) ,General,19000.0
+654, Mike Rounds (R) ,General,5500.0
+655, Mitch McConnell (R) ,General,71000.0
+656, Orrin G Hatch (R) ,General,149200.0
+657, Pat Roberts (R) ,General,58500.0
+658, Pat Toomey (R) ,General,33000.0
+659, Patrick Leahy (D) ,General,5000.0
+660, Patty Murray (D) ,General,6000.0
+661, Rand Paul (R) ,General,9100.0
+662, Richard Blumenthal (D) ,General,1000.0
+663, Richard Burr (R) ,General,7000.0
+664, Richard C Shelby (R) ,General,5000.0
+665, Rob Portman (R) ,General,35150.0
+666, Robert Menendez (D) ,General,38500.0
+667, Roger Wicker (R) ,General,95900.0
+668, Ron Johnson (R) ,General,33000.0
+669, Ron Wyden (D) ,General,39500.0
+670, Sheldon Whitehouse (D) ,General,50500.0
+671, Shelley Moore Capito (R) ,General,19500.0
+672, Sherrod Brown (D) ,General,159000.0
+673, Steven Daines (R) ,General,19696.0
+674, Susan Collins (R) ,General,13500.0
+675, Tammy Baldwin (D) ,General,52500.0
+676, Tammy Duckworth (D) ,General,12500.0
+677, Ted Cruz (R) ,General,82000.0
+678, Thom Tillis (R) ,General,54250.0
+679, Tim Kaine (D) ,General,88855.0
+680, Tim Scott (R) ,General,32750.0
+681, Tina Smith (D) ,General,57950.0
+682, Todd Young (R) ,General,17500.0
+683, Tom Carper (D) ,General,70500.0
+684, Tom Cotton (R) ,General,23500.0
+685, Tom Udall (D) ,General,5000.0
+686, Amy Klobuchar (D) ,Health,78650.0
+687, Angus King (I) ,Health,61500.0
+688, Ben Cardin (D) ,Health,218000.0
+689, Ben Sasse (R) ,Health,31500.0
+690, Bernie Sanders (I) ,Health,2500.0
+691, Bill Cassidy (R) ,Health,212700.0
+692, Bill Nelson (D) ,Health,248199.0
+693, Bob Casey (D) ,Health,416403.0
+694, Bob Corker (R) ,Health,35500.0
+695, Brian Schatz (D) ,Health,14000.0
+696, Catherine Cortez Masto (D) ,Health,22000.0
+697, Charles E Schumer (D) ,Health,11500.0
+698, Chris Coons (D) ,Health,30000.0
+699, Chris Van Hollen (D) ,Health,6500.0
+700, Christopher S Murphy (D) ,Health,203750.0
+701, Chuck Grassley (R) ,Health,20000.0
+702, Cindy Hyde-Smith (R) ,Health,29500.0
+703, Claire McCaskill (D) ,Health,154700.0
+704, Cory Booker (D) ,Health,8500.0
+705, Cory Gardner (R) ,Health,75500.0
+706, Dan Sullivan (R) ,Health,6000.0
+707, David Perdue (R) ,Health,51500.0
+708, Dean Heller (R) ,Health,413332.0
+709, Deb Fischer (R) ,Health,93500.0
+710, Debbie Stabenow (D) ,Health,328050.0
+711, Dianne Feinstein (D) ,Health,127500.0
+712, Dick Durbin (D) ,Health,18000.0
+713, Doug Jones (D) ,Health,31500.0
+714, Ed Markey (D) ,Health,45500.0
+715, Elizabeth Warren (D) ,Health,4500.0
+716, Gary Peters (D) ,Health,28250.0
+717, Heidi Heitkamp (D) ,Health,186000.0
+718, Jack Reed (D) ,Health,3000.0
+719, James E Risch (R) ,Health,4500.0
+720, James Lankford (R) ,Health,8500.0
+721, James M Inhofe (R) ,Health,5500.0
+722, Jeanne Shaheen (D) ,Health,29200.0
+723, Jeff Flake (R) ,Health,60000.0
+724, Jeff Merkley (D) ,Health,4000.0
+725, Jerry Moran (R) ,Health,12500.0
+726, Joe Donnelly (D) ,Health,180500.0
+727, Joe Manchin (D) ,Health,80500.0
+728, John A Barrasso (R) ,Health,390200.0
+729, John Boozman (R) ,Health,5500.0
+730, John Cornyn (R) ,Health,109309.0
+731, John Hoeven (R) ,Health,20500.0
+732, John Kennedy (R) ,Health,33500.0
+733, John Thune (R) ,Health,67500.0
+734, Johnny Isakson (R) ,Health,123000.0
+735, Jon Tester (D) ,Health,199750.0
+736, Joni Ernst (R) ,Health,5000.0
+737, Kamala D Harris (D) ,Health,-6000.0
+738, Kirsten Gillibrand (D) ,Health,39250.0
+739, Lamar Alexander (R) ,Health,76200.0
+740, Lindsey Graham (R) ,Health,24000.0
+741, Lisa Murkowski (R) ,Health,60000.0
+742, Maggie Hassan (D) ,Health,19500.0
+743, Marco Rubio (R) ,Health,38250.0
+744, Maria Cantwell (D) ,Health,2500.0
+745, Mark Warner (D) ,Health,45000.0
+746, Martin Heinrich (D) ,Health,212500.0
+747, Mazie K Hirono (D) ,Health,43500.0
+748, Michael F Bennet (D) ,Health,29500.0
+749, Mike Crapo (R) ,Health,118000.0
+750, Mike Enzi (R) ,Health,27000.0
+751, Mike Lee (R) ,Health,17000.0
+752, Mike Rounds (R) ,Health,12000.0
+753, Mitch McConnell (R) ,Health,75613.0
+754, Orrin G Hatch (R) ,Health,284099.0
+755, Pat Roberts (R) ,Health,44500.0
+756, Pat Toomey (R) ,Health,73000.0
+757, Patrick Leahy (D) ,Health,4500.0
+758, Patty Murray (D) ,Health,128150.0
+759, Rand Paul (R) ,Health,7500.0
+760, Richard Blumenthal (D) ,Health,14500.0
+761, Richard Burr (R) ,Health,24000.0
+762, Richard C Shelby (R) ,Health,2500.0
+763, Rob Portman (R) ,Health,103900.0
+764, Robert Menendez (D) ,Health,180500.0
+765, Roger Wicker (R) ,Health,148500.0
+766, Ron Johnson (R) ,Health,14000.0
+767, Ron Wyden (D) ,Health,107150.0
+768, Sheldon Whitehouse (D) ,Health,65906.0
+769, Shelley Moore Capito (R) ,Health,34500.0
+770, Sherrod Brown (D) ,Health,237200.0
+771, Steven Daines (R) ,Health,15500.0
+772, Susan Collins (R) ,Health,103500.0
+773, Tammy Baldwin (D) ,Health,141800.0
+774, Tammy Duckworth (D) ,Health,41000.0
+775, Ted Cruz (R) ,Health,45500.0
+776, Thom Tillis (R) ,Health,90000.0
+777, Tim Kaine (D) ,Health,231950.0
+778, Tim Scott (R) ,Health,87500.0
+779, Tina Smith (D) ,Health,53500.0
+780, Todd Young (R) ,Health,46150.0
+781, Tom Carper (D) ,Health,207910.0
+782, Tom Cotton (R) ,Health,7000.0
+783, Tom Udall (D) ,Health,2500.0
+784, Amy Klobuchar (D) ,Policy,352407.0
+785, Angus King (I) ,Policy,184069.0
+786, Ben Cardin (D) ,Policy,215050.0
+787, Ben Sasse (R) ,Policy,5861.0
+788, Bernie Sanders (I) ,Policy,49512.0
+789, Bill Cassidy (R) ,Policy,3861.0
+790, Bill Nelson (D) ,Policy,12174145.0
+791, Bob Casey (D) ,Policy,456099.0
+792, Bob Corker (R) ,Policy,69608.0
+793, Brian Schatz (D) ,Policy,0
+794, Catherine Cortez Masto (D) ,Policy,57311.0
+795, Charles E Schumer (D) ,Policy,3000.0
+796, Chris Coons (D) ,Policy,1000.0
+797, Chris Van Hollen (D) ,Policy,0
+798, Christopher S Murphy (D) ,Policy,242030.0
+799, Chuck Grassley (R) ,Policy,864.0
+800, Cindy Hyde-Smith (R) ,Policy,215561.0
+801, Claire McCaskill (D) ,Policy,5442998.0
+802, Cory Booker (D) ,Policy,11300.0
+803, Cory Gardner (R) ,Policy,14571.0
+804, Dan Sullivan (R) ,Policy,7111.0
+805, David Perdue (R) ,Policy,18761.0
+806, Dean Heller (R) ,Policy,2491987.0
+807, Deb Fischer (R) ,Policy,351436.0
+808, Debbie Stabenow (D) ,Policy,420776.0
+809, Dianne Feinstein (D) ,Policy,288584.0
+810, Dick Durbin (D) ,Policy,1500.0
+811, Doug Jones (D) ,Policy,5561661.0
+812, Ed Markey (D) ,Policy,2500.0
+813, Elizabeth Warren (D) ,Policy,451382.0
+814, Gary Peters (D) ,Policy,2000.0
+815, Heidi Heitkamp (D) ,Policy,1524905.0
+816, Jack Reed (D) ,Policy,500.0
+817, James E Risch (R) ,Policy,1861.0
+818, James Lankford (R) ,Policy,4861.0
+819, James M Inhofe (R) ,Policy,4851.0
+820, Jeanne Shaheen (D) ,Policy,1000.0
+821, Jeff Flake (R) ,Policy,184080.0
+822, Jeff Merkley (D) ,Policy,0
+823, Jerry Moran (R) ,Policy,7361.0
+824, Joe Donnelly (D) ,Policy,4468131.0
+825, Joe Manchin (D) ,Policy,4270331.0
+826, John A Barrasso (R) ,Policy,316961.0
+827, John Boozman (R) ,Policy,861.0
+828, John Cornyn (R) ,Policy,5361.0
+829, John Hoeven (R) ,Policy,5398.0
+830, John Kennedy (R) ,Policy,3861.0
+831, John Thune (R) ,Policy,861.0
+832, Johnny Isakson (R) ,Policy,861.0
+833, Jon Tester (D) ,Policy,1609652.0
+834, Joni Ernst (R) ,Policy,5361.0
+835, Kamala D Harris (D) ,Policy,-7356.0
+836, Kirsten Gillibrand (D) ,Policy,310705.0
+837, Lamar Alexander (R) ,Policy,-1139.0
+838, Lindsey Graham (R) ,Policy,25761.0
+839, Lisa Murkowski (R) ,Policy,7061.0
+840, Maggie Hassan (D) ,Policy,2093.0
+841, Marco Rubio (R) ,Policy,4761.0
+842, Maria Cantwell (D) ,Policy,3256.0
+843, Mark Warner (D) ,Policy,13000.0
+844, Martin Heinrich (D) ,Policy,342723.0
+845, Mazie K Hirono (D) ,Policy,240500.0
+846, Michael F Bennet (D) ,Policy,2750.0
+847, Mike Crapo (R) ,Policy,4361.0
+848, Mike Enzi (R) ,Policy,861.0
+849, Mike Lee (R) ,Policy,26016.0
+850, Mike Rounds (R) ,Policy,611.0
+851, Mitch McConnell (R) ,Policy,28444.0
+852, Orrin G Hatch (R) ,Policy,164561.0
+853, Pat Roberts (R) ,Policy,5861.0
+854, Pat Toomey (R) ,Policy,17187.0
+855, Patrick Leahy (D) ,Policy,0
+856, Patty Murray (D) ,Policy,0
+857, Rand Paul (R) ,Policy,12274.0
+858, Richard Blumenthal (D) ,Policy,0
+859, Richard Burr (R) ,Policy,861.0
+860, Richard C Shelby (R) ,Policy,-1139.0
+861, Rob Portman (R) ,Policy,18823.0
+862, Robert Menendez (D) ,Policy,337478.0
+863, Roger Wicker (R) ,Policy,494831.0
+864, Ron Johnson (R) ,Policy,20961.0
+865, Ron Wyden (D) ,Policy,1000.0
+866, Sheldon Whitehouse (D) ,Policy,302100.0
+867, Shelley Moore Capito (R) ,Policy,4361.0
+868, Sherrod Brown (D) ,Policy,588615.0
+869, Steven Daines (R) ,Policy,9398.0
+870, Susan Collins (R) ,Policy,70991.0
+871, Tammy Baldwin (D) ,Policy,4799224.0
+872, Tammy Duckworth (D) ,Policy,42409.0
+873, Ted Cruz (R) ,Policy,395500.0
+874, Thom Tillis (R) ,Policy,12861.0
+875, Tim Kaine (D) ,Policy,575265.0
+876, Tim Scott (R) ,Policy,11861.0
+877, Tina Smith (D) ,Policy,350800.0
+878, Todd Young (R) ,Policy,13361.0
+879, Tom Carper (D) ,Policy,229900.0
+880, Tom Cotton (R) ,Policy,13261.0
+881, Tom Udall (D) ,Policy,2500.0
+882, Amy Klobuchar (D) ,Legal,88023.0
+883, Angus King (I) ,Legal,31231.0
+884, Ben Cardin (D) ,Legal,48468.0
+885, Ben Sasse (R) ,Legal,7250.0
+886, Bernie Sanders (I) ,Legal,0
+887, Bill Cassidy (R) ,Legal,33000.0
+888, Bill Nelson (D) ,Legal,113884.0
+889, Bob Casey (D) ,Legal,129660.0
+890, Bob Corker (R) ,Legal,22000.0
+891, Brian Schatz (D) ,Legal,10000.0
+892, Catherine Cortez Masto (D) ,Legal,8541.0
+893, Charles E Schumer (D) ,Legal,0.0
+894, Chris Coons (D) ,Legal,19500.0
+895, Chris Van Hollen (D) ,Legal,1500.0
+896, Christopher S Murphy (D) ,Legal,42750.0
+897, Chuck Grassley (R) ,Legal,7500.0
+898, Cindy Hyde-Smith (R) ,Legal,19558.0
+899, Claire McCaskill (D) ,Legal,84150.0
+900, Cory Booker (D) ,Legal,5000.0
+901, Cory Gardner (R) ,Legal,10500.0
+902, Dan Sullivan (R) ,Legal,12152.0
+903, David Perdue (R) ,Legal,11000.0
+904, Dean Heller (R) ,Legal,78950.0
+905, Deb Fischer (R) ,Legal,63623.0
+906, Debbie Stabenow (D) ,Legal,81950.0
+907, Dianne Feinstein (D) ,Legal,69250.0
+908, Dick Durbin (D) ,Legal,11000.0
+909, Doug Jones (D) ,Legal,46500.0
+910, Ed Markey (D) ,Legal,27590.0
+911, Elizabeth Warren (D) ,Legal,9000.0
+912, Gary Peters (D) ,Legal,22000.0
+913, Heidi Heitkamp (D) ,Legal,87919.0
+914, Jack Reed (D) ,Legal,3000.0
+915, James E Risch (R) ,Legal,2000.0
+916, James Lankford (R) ,Legal,8250.0
+917, James M Inhofe (R) ,Legal,10000.0
+918, Jeanne Shaheen (D) ,Legal,7000.0
+919, Jeff Flake (R) ,Legal,50075.0
+920, Jeff Merkley (D) ,Legal,2500.0
+921, Jerry Moran (R) ,Legal,6500.0
+922, Joe Donnelly (D) ,Legal,103706.0
+923, Joe Manchin (D) ,Legal,84000.0
+924, John A Barrasso (R) ,Legal,84000.0
+925, John Boozman (R) ,Legal,3500.0
+926, John Cornyn (R) ,Legal,21950.0
+927, John Hoeven (R) ,Legal,1000.0
+928, John Kennedy (R) ,Legal,37594.0
+929, John Thune (R) ,Legal,14000.0
+930, Johnny Isakson (R) ,Legal,9500.0
+931, Jon Tester (D) ,Legal,87862.0
+932, Joni Ernst (R) ,Legal,14000.0
+933, Kamala D Harris (D) ,Legal,12500.0
+934, Kirsten Gillibrand (D) ,Legal,34808.0
+935, Lamar Alexander (R) ,Legal,12000.0
+936, Lindsey Graham (R) ,Legal,23500.0
+937, Lisa Murkowski (R) ,Legal,29500.0
+938, Maggie Hassan (D) ,Legal,1250.0
+939, Marco Rubio (R) ,Legal,12500.0
+940, Maria Cantwell (D) ,Legal,-250.0
+941, Mark Warner (D) ,Legal,17500.0
+942, Martin Heinrich (D) ,Legal,84500.0
+943, Mazie K Hirono (D) ,Legal,35800.0
+944, Michael F Bennet (D) ,Legal,8500.0
+945, Mike Crapo (R) ,Legal,19150.0
+946, Mike Enzi (R) ,Legal,1000.0
+947, Mike Lee (R) ,Legal,3500.0
+948, Mike Rounds (R) ,Legal,4500.0
+949, Mitch McConnell (R) ,Legal,15500.0
+950, Orrin G Hatch (R) ,Legal,44880.0
+951, Pat Roberts (R) ,Legal,7000.0
+952, Pat Toomey (R) ,Legal,33465.0
+953, Patrick Leahy (D) ,Legal,9500.0
+954, Patty Murray (D) ,Legal,12600.0
+955, Rand Paul (R) ,Legal,1000.0
+956, Richard Blumenthal (D) ,Legal,8250.0
+957, Richard Burr (R) ,Legal,0
+958, Richard C Shelby (R) ,Legal,5000.0
+959, Rob Portman (R) ,Legal,15250.0
+960, Robert Menendez (D) ,Legal,75500.0
+961, Roger Wicker (R) ,Legal,85500.0
+962, Ron Johnson (R) ,Legal,9000.0
+963, Ron Wyden (D) ,Legal,8500.0
+964, Sheldon Whitehouse (D) ,Legal,60165.0
+965, Shelley Moore Capito (R) ,Legal,16500.0
+966, Sherrod Brown (D) ,Legal,79200.0
+967, Steven Daines (R) ,Legal,3500.0
+968, Susan Collins (R) ,Legal,13000.0
+969, Tammy Baldwin (D) ,Legal,41900.0
+970, Tammy Duckworth (D) ,Legal,7750.0
+971, Ted Cruz (R) ,Legal,16500.0
+972, Thom Tillis (R) ,Legal,18250.0
+973, Tim Kaine (D) ,Legal,117950.0
+974, Tim Scott (R) ,Legal,15250.0
+975, Tina Smith (D) ,Legal,44500.0
+976, Todd Young (R) ,Legal,9250.0
+977, Tom Carper (D) ,Legal,46950.0
+978, Tom Cotton (R) ,Legal,13000.0
+979, Tom Udall (D) ,Legal,1000.0
+980, Amy Klobuchar (D) ,Unions,110500.0
+981, Angus King (I) ,Unions,104000.0
+982, Ben Cardin (D) ,Unions,119000.0
+983, Ben Sasse (R) ,Unions,2000.0
+984, Bernie Sanders (I) ,Unions,21100.0
+985, Bill Cassidy (R) ,Unions,1000.0
+986, Bill Nelson (D) ,Unions,1202966.0
+987, Bob Casey (D) ,Unions,150000.0
+988, Bob Corker (R) ,Unions,3500.0
+989, Brian Schatz (D) ,Unions,31000.0
+990, Catherine Cortez Masto (D) ,Unions,4750.0
+991, Charles E Schumer (D) ,Unions,1000.0
+992, Chris Coons (D) ,Unions,2500.0
+993, Chris Van Hollen (D) ,Unions,0
+994, Christopher S Murphy (D) ,Unions,87000.0
+995, Chuck Grassley (R) ,Unions,1000.0
+996, Cindy Hyde-Smith (R) ,Unions,4000.0
+997, Claire McCaskill (D) ,Unions,177500.0
+998, Cory Booker (D) ,Unions,10500.0
+999, Cory Gardner (R) ,Unions,1000.0
+1000, Dan Sullivan (R) ,Unions,11000.0
+1001, David Perdue (R) ,Unions,4500.0
+1002, Dean Heller (R) ,Unions,22000.0
+1003, Deb Fischer (R) ,Unions,44083.0
+1004, Debbie Stabenow (D) ,Unions,121000.0
+1005, Dianne Feinstein (D) ,Unions,43000.0
+1006, Dick Durbin (D) ,Unions,15500.0
+1007, Doug Jones (D) ,Unions,148918.0
+1008, Ed Markey (D) ,Unions,50500.0
+1009, Elizabeth Warren (D) ,Unions,121275.0
+1010, Gary Peters (D) ,Unions,14000.0
+1011, Heidi Heitkamp (D) ,Unions,139500.0
+1012, Jack Reed (D) ,Unions,16750.0
+1013, James E Risch (R) ,Unions,0
+1014, James Lankford (R) ,Unions,21000.0
+1015, James M Inhofe (R) ,Unions,9500.0
+1016, Jeanne Shaheen (D) ,Unions,19250.0
+1017, Jeff Flake (R) ,Unions,1000.0
+1018, Jeff Merkley (D) ,Unions,6500.0
+1019, Jerry Moran (R) ,Unions,9000.0
+1020, Joe Donnelly (D) ,Unions,149250.0
+1021, Joe Manchin (D) ,Unions,125000.0
+1022, John A Barrasso (R) ,Unions,5000.0
+1023, John Boozman (R) ,Unions,3500.0
+1024, John Cornyn (R) ,Unions,1000.0
+1025, John Hoeven (R) ,Unions,3500.0
+1026, John Kennedy (R) ,Unions,7000.0
+1027, John Thune (R) ,Unions,12000.0
+1028, Johnny Isakson (R) ,Unions,6000.0
+1029, Jon Tester (D) ,Unions,119000.0
+1030, Joni Ernst (R) ,Unions,2000.0
+1031, Kamala D Harris (D) ,Unions,3000.0
+1032, Kirsten Gillibrand (D) ,Unions,57000.0
+1033, Lamar Alexander (R) ,Unions,2500.0
+1034, Lindsey Graham (R) ,Unions,6200.0
+1035, Lisa Murkowski (R) ,Unions,18000.0
+1036, Maggie Hassan (D) ,Unions,8000.0
+1037, Marco Rubio (R) ,Unions,14500.0
+1038, Maria Cantwell (D) ,Unions,22000.0
+1039, Mark Warner (D) ,Unions,6500.0
+1040, Martin Heinrich (D) ,Unions,101762.0
+1041, Mazie K Hirono (D) ,Unions,121639.0
+1042, Michael F Bennet (D) ,Unions,1000.0
+1043, Mike Crapo (R) ,Unions,3500.0
+1044, Mike Enzi (R) ,Unions,0
+1045, Mike Lee (R) ,Unions,2000.0
+1046, Mike Rounds (R) ,Unions,6000.0
+1047, Mitch McConnell (R) ,Unions,8700.0
+1048, Orrin G Hatch (R) ,Unions,7500.0
+1049, Pat Roberts (R) ,Unions,1000.0
+1050, Pat Toomey (R) ,Unions,5500.0
+1051, Patrick Leahy (D) ,Unions,4500.0
+1052, Patty Murray (D) ,Unions,21510.0
+1053, Rand Paul (R) ,Unions,0
+1054, Richard Blumenthal (D) ,Unions,7000.0
+1055, Richard Burr (R) ,Unions,0
+1056, Richard C Shelby (R) ,Unions,0
+1057, Rob Portman (R) ,Unions,6500.0
+1058, Robert Menendez (D) ,Unions,80400.0
+1059, Roger Wicker (R) ,Unions,27000.0
+1060, Ron Johnson (R) ,Unions,21000.0
+1061, Ron Wyden (D) ,Unions,1500.0
+1062, Sheldon Whitehouse (D) ,Unions,69150.0
+1063, Shelley Moore Capito (R) ,Unions,14500.0
+1064, Sherrod Brown (D) ,Unions,188649.0
+1065, Steven Daines (R) ,Unions,5500.0
+1066, Susan Collins (R) ,Unions,11500.0
+1067, Tammy Baldwin (D) ,Unions,164750.0
+1068, Tammy Duckworth (D) ,Unions,27750.0
+1069, Ted Cruz (R) ,Unions,6500.0
+1070, Thom Tillis (R) ,Unions,1000.0
+1071, Tim Kaine (D) ,Unions,112100.0
+1072, Tim Scott (R) ,Unions,5500.0
+1073, Tina Smith (D) ,Unions,108000.0
+1074, Todd Young (R) ,Unions,0
+1075, Tom Carper (D) ,Unions,32000.0
+1076, Tom Cotton (R) ,Unions,0
+1077, Tom Udall (D) ,Unions,3000.0
+1078, Amy Klobuchar (D) ,MFG,21000.0
+1079, Angus King (I) ,MFG,9000.0
+1080, Ben Cardin (D) ,MFG,21500.0
+1081, Ben Sasse (R) ,MFG,1000.0
+1082, Bernie Sanders (I) ,MFG,0
+1083, Bill Cassidy (R) ,MFG,20500.0
+1084, Bill Nelson (D) ,MFG,25500.0
+1085, Bob Casey (D) ,MFG,67500.0
+1086, Bob Corker (R) ,MFG,19500.0
+1087, Brian Schatz (D) ,MFG,0
+1088, Catherine Cortez Masto (D) ,MFG,0
+1089, Charles E Schumer (D) ,MFG,2000.0
+1090, Chris Coons (D) ,MFG,7000.0
+1091, Chris Van Hollen (D) ,MFG,0
+1092, Christopher S Murphy (D) ,MFG,31500.0
+1093, Chuck Grassley (R) ,MFG,2000.0
+1094, Cindy Hyde-Smith (R) ,MFG,10000.0
+1095, Claire McCaskill (D) ,MFG,34500.0
+1096, Cory Booker (D) ,MFG,4000.0
+1097, Cory Gardner (R) ,MFG,11000.0
+1098, Dan Sullivan (R) ,MFG,0
+1099, David Perdue (R) ,MFG,5000.0
+1100, Dean Heller (R) ,MFG,623539.0
+1101, Deb Fischer (R) ,MFG,46500.0
+1102, Debbie Stabenow (D) ,MFG,613900.0
+1103, Dianne Feinstein (D) ,MFG,35000.0
+1104, Dick Durbin (D) ,MFG,9000.0
+1105, Doug Jones (D) ,MFG,0
+1106, Ed Markey (D) ,MFG,7000.0
+1107, Elizabeth Warren (D) ,MFG,0
+1108, Gary Peters (D) ,MFG,3000.0
+1109, Heidi Heitkamp (D) ,MFG,200300.0
+1110, Jack Reed (D) ,MFG,0
+1111, James E Risch (R) ,MFG,6668.0
+1112, James Lankford (R) ,MFG,10500.0
+1113, James M Inhofe (R) ,MFG,17451.0
+1114, Jeanne Shaheen (D) ,MFG,4500.0
+1115, Jeff Flake (R) ,MFG,17500.0
+1116, Jeff Merkley (D) ,MFG,0
+1117, Jerry Moran (R) ,MFG,11000.0
+1118, Joe Donnelly (D) ,MFG,49500.0
+1119, Joe Manchin (D) ,MFG,254500.0
+1120, John A Barrasso (R) ,MFG,270904.0
+1121, John Boozman (R) ,MFG,5500.0
+1122, John Cornyn (R) ,MFG,41000.0
+1123, John Hoeven (R) ,MFG,7750.0
+1124, John Kennedy (R) ,MFG,10000.0
+1125, John Thune (R) ,MFG,15000.0
+1126, Johnny Isakson (R) ,MFG,23000.0
+1127, Jon Tester (D) ,MFG,12000.0
+1128, Joni Ernst (R) ,MFG,18000.0
+1129, Kamala D Harris (D) ,MFG,1666.0
+1130, Kirsten Gillibrand (D) ,MFG,8000.0
+1131, Lamar Alexander (R) ,MFG,10500.0
+1132, Lindsey Graham (R) ,MFG,9500.0
+1133, Lisa Murkowski (R) ,MFG,12166.0
+1134, Maggie Hassan (D) ,MFG,2500.0
+1135, Marco Rubio (R) ,MFG,4000.0
+1136, Maria Cantwell (D) ,MFG,0
+1137, Mark Warner (D) ,MFG,12500.0
+1138, Martin Heinrich (D) ,MFG,18000.0
+1139, Mazie K Hirono (D) ,MFG,1000.0
+1140, Michael F Bennet (D) ,MFG,-2000.0
+1141, Mike Crapo (R) ,MFG,18582.0
+1142, Mike Enzi (R) ,MFG,11000.0
+1143, Mike Lee (R) ,MFG,2300.0
+1144, Mike Rounds (R) ,MFG,21348.0
+1145, Mitch McConnell (R) ,MFG,19200.0
+1146, Orrin G Hatch (R) ,MFG,42075.0
+1147, Pat Roberts (R) ,MFG,3000.0
+1148, Pat Toomey (R) ,MFG,34166.0
+1149, Patrick Leahy (D) ,MFG,1000.0
+1150, Patty Murray (D) ,MFG,6000.0
+1151, Rand Paul (R) ,MFG,0
+1152, Richard Blumenthal (D) ,MFG,4000.0
+1153, Richard Burr (R) ,MFG,2500.0
+1154, Richard C Shelby (R) ,MFG,0
+1155, Rob Portman (R) ,MFG,49666.0
+1156, Robert Menendez (D) ,MFG,17000.0
+1157, Roger Wicker (R) ,MFG,29000.0
+1158, Ron Johnson (R) ,MFG,24500.0
+1159, Ron Wyden (D) ,MFG,7000.0
+1160, Sheldon Whitehouse (D) ,MFG,8000.0
+1161, Shelley Moore Capito (R) ,MFG,21000.0
+1162, Sherrod Brown (D) ,MFG,53500.0
+1163, Steven Daines (R) ,MFG,3500.0
+1164, Susan Collins (R) ,MFG,6000.0
+1165, Tammy Baldwin (D) ,MFG,41900.0
+1166, Tammy Duckworth (D) ,MFG,5000.0
+1167, Ted Cruz (R) ,MFG,30000.0
+1168, Thom Tillis (R) ,MFG,21000.0
+1169, Tim Kaine (D) ,MFG,16500.0
+1170, Tim Scott (R) ,MFG,24000.0
+1171, Tina Smith (D) ,MFG,12000.0
+1172, Todd Young (R) ,MFG,10500.0
+1173, Tom Carper (D) ,MFG,71210.0
+1174, Tom Cotton (R) ,MFG,3500.0
+1175, Tom Udall (D) ,MFG,5000.0
+1176, Amy Klobuchar (D) ,Transport,144400.0
+1177, Angus King (I) ,Transport,32000.0
+1178, Ben Cardin (D) ,Transport,56500.0
+1179, Ben Sasse (R) ,Transport,12500.0
+1180, Bernie Sanders (I) ,Transport,0
+1181, Bill Cassidy (R) ,Transport,51100.0
+1182, Bill Nelson (D) ,Transport,176000.0
+1183, Bob Casey (D) ,Transport,77700.0
+1184, Bob Corker (R) ,Transport,21000.0
+1185, Brian Schatz (D) ,Transport,46200.0
+1186, Catherine Cortez Masto (D) ,Transport,20000.0
+1187, Charles E Schumer (D) ,Transport,500.0
+1188, Chris Coons (D) ,Transport,3500.0
+1189, Chris Van Hollen (D) ,Transport,1000.0
+1190, Christopher S Murphy (D) ,Transport,44500.0
+1191, Chuck Grassley (R) ,Transport,4000.0
+1192, Cindy Hyde-Smith (R) ,Transport,58000.0
+1193, Claire McCaskill (D) ,Transport,80499.0
+1194, Cory Booker (D) ,Transport,11500.0
+1195, Cory Gardner (R) ,Transport,34500.0
+1196, Dan Sullivan (R) ,Transport,55000.0
+1197, David Perdue (R) ,Transport,29500.0
+1198, Dean Heller (R) ,Transport,232625.0
+1199, Deb Fischer (R) ,Transport,180499.0
+1200, Debbie Stabenow (D) ,Transport,59940.0
+1201, Dianne Feinstein (D) ,Transport,58000.0
+1202, Dick Durbin (D) ,Transport,18500.0
+1203, Doug Jones (D) ,Transport,24500.0
+1204, Ed Markey (D) ,Transport,20000.0
+1205, Elizabeth Warren (D) ,Transport,0
+1206, Gary Peters (D) ,Transport,28499.0
+1207, Heidi Heitkamp (D) ,Transport,65500.0
+1208, Jack Reed (D) ,Transport,19000.0
+1209, James E Risch (R) ,Transport,10000.0
+1210, James Lankford (R) ,Transport,14500.0
+1211, James M Inhofe (R) ,Transport,68000.0
+1212, Jeanne Shaheen (D) ,Transport,18000.0
+1213, Jeff Flake (R) ,Transport,60000.0
+1214, Jeff Merkley (D) ,Transport,2500.0
+1215, Jerry Moran (R) ,Transport,24500.0
+1216, Joe Donnelly (D) ,Transport,67500.0
+1217, Joe Manchin (D) ,Transport,69000.0
+1218, John A Barrasso (R) ,Transport,175470.0
+1219, John Boozman (R) ,Transport,5500.0
+1220, John Cornyn (R) ,Transport,62000.0
+1221, John Hoeven (R) ,Transport,1500.0
+1222, John Kennedy (R) ,Transport,38200.0
+1223, John Thune (R) ,Transport,86495.0
+1224, Johnny Isakson (R) ,Transport,17500.0
+1225, Jon Tester (D) ,Transport,106500.0
+1226, Joni Ernst (R) ,Transport,23000.0
+1227, Kamala D Harris (D) ,Transport,1000.0
+1228, Kirsten Gillibrand (D) ,Transport,8500.0
+1229, Lamar Alexander (R) ,Transport,9000.0
+1230, Lindsey Graham (R) ,Transport,29800.0
+1231, Lisa Murkowski (R) ,Transport,17500.0
+1232, Maggie Hassan (D) ,Transport,7500.0
+1233, Marco Rubio (R) ,Transport,35500.0
+1234, Maria Cantwell (D) ,Transport,1000.0
+1235, Mark Warner (D) ,Transport,33000.0
+1236, Martin Heinrich (D) ,Transport,55500.0
+1237, Mazie K Hirono (D) ,Transport,59700.0
+1238, Michael F Bennet (D) ,Transport,0.0
+1239, Mike Crapo (R) ,Transport,28245.0
+1240, Mike Enzi (R) ,Transport,2000.0
+1241, Mike Lee (R) ,Transport,9500.0
+1242, Mike Rounds (R) ,Transport,22500.0
+1243, Mitch McConnell (R) ,Transport,50000.0
+1244, Orrin G Hatch (R) ,Transport,63600.0
+1245, Pat Roberts (R) ,Transport,7000.0
+1246, Pat Toomey (R) ,Transport,14700.0
+1247, Patrick Leahy (D) ,Transport,3000.0
+1248, Patty Murray (D) ,Transport,10000.0
+1249, Rand Paul (R) ,Transport,-6500.0
+1250, Richard Blumenthal (D) ,Transport,1000.0
+1251, Richard Burr (R) ,Transport,2000.0
+1252, Richard C Shelby (R) ,Transport,5000.0
+1253, Rob Portman (R) ,Transport,15700.0
+1254, Robert Menendez (D) ,Transport,20500.0
+1255, Roger Wicker (R) ,Transport,212738.0
+1256, Ron Johnson (R) ,Transport,61500.0
+1257, Ron Wyden (D) ,Transport,20410.0
+1258, Sheldon Whitehouse (D) ,Transport,23000.0
+1259, Shelley Moore Capito (R) ,Transport,35000.0
+1260, Sherrod Brown (D) ,Transport,25250.0
+1261, Steven Daines (R) ,Transport,22000.0
+1262, Susan Collins (R) ,Transport,45500.0
+1263, Tammy Baldwin (D) ,Transport,57500.0
+1264, Tammy Duckworth (D) ,Transport,18500.0
+1265, Ted Cruz (R) ,Transport,140998.0
+1266, Thom Tillis (R) ,Transport,15500.0
+1267, Tim Kaine (D) ,Transport,71500.0
+1268, Tim Scott (R) ,Transport,26500.0
+1269, Tina Smith (D) ,Transport,14000.0
+1270, Todd Young (R) ,Transport,59000.0
+1271, Tom Carper (D) ,Transport,84910.0
+1272, Tom Cotton (R) ,Transport,14500.0
+1273, Tom Udall (D) ,Transport,10000.0
+1274, Amy Klobuchar (D) ,Govt/NGO,0
+1275, Angus King (I) ,Govt/NGO,0
+1276, Ben Cardin (D) ,Govt/NGO,8000.0
+1277, Ben Sasse (R) ,Govt/NGO,0
+1278, Bernie Sanders (I) ,Govt/NGO,0
+1279, Bill Cassidy (R) ,Govt/NGO,1000.0
+1280, Bill Nelson (D) ,Govt/NGO,2000.0
+1281, Bob Casey (D) ,Govt/NGO,2000.0
+1282, Bob Corker (R) ,Govt/NGO,0.0
+1283, Brian Schatz (D) ,Govt/NGO,0
+1284, Catherine Cortez Masto (D) ,Govt/NGO,0
+1285, Charles E Schumer (D) ,Govt/NGO,1000.0
+1286, Chris Coons (D) ,Govt/NGO,0
+1287, Chris Van Hollen (D) ,Govt/NGO,1000.0
+1288, Christopher S Murphy (D) ,Govt/NGO,0
+1289, Chuck Grassley (R) ,Govt/NGO,0
+1290, Cindy Hyde-Smith (R) ,Govt/NGO,0
+1291, Claire McCaskill (D) ,Govt/NGO,5000.0
+1292, Cory Booker (D) ,Govt/NGO,0
+1293, Cory Gardner (R) ,Govt/NGO,0
+1294, Dan Sullivan (R) ,Govt/NGO,0
+1295, David Perdue (R) ,Govt/NGO,1000.0
+1296, Dean Heller (R) ,Govt/NGO,10000.0
+1297, Deb Fischer (R) ,Govt/NGO,3000.0
+1298, Debbie Stabenow (D) ,Govt/NGO,8000.0
+1299, Dianne Feinstein (D) ,Govt/NGO,0
+1300, Dick Durbin (D) ,Govt/NGO,0
+1301, Doug Jones (D) ,Govt/NGO,1000.0
+1302, Ed Markey (D) ,Govt/NGO,0
+1303, Elizabeth Warren (D) ,Govt/NGO,0
+1304, Gary Peters (D) ,Govt/NGO,0
+1305, Heidi Heitkamp (D) ,Govt/NGO,3500.0
+1306, Jack Reed (D) ,Govt/NGO,0
+1307, James E Risch (R) ,Govt/NGO,0
+1308, James Lankford (R) ,Govt/NGO,1000.0
+1309, James M Inhofe (R) ,Govt/NGO,0
+1310, Jeanne Shaheen (D) ,Govt/NGO,0
+1311, Jeff Flake (R) ,Govt/NGO,0
+1312, Jeff Merkley (D) ,Govt/NGO,0
+1313, Jerry Moran (R) ,Govt/NGO,1000.0
+1314, Joe Donnelly (D) ,Govt/NGO,0
+1315, Joe Manchin (D) ,Govt/NGO,0
+1316, John A Barrasso (R) ,Govt/NGO,0
+1317, John Boozman (R) ,Govt/NGO,0
+1318, John Cornyn (R) ,Govt/NGO,1000.0
+1319, John Hoeven (R) ,Govt/NGO,1000.0
+1320, John Kennedy (R) ,Govt/NGO,1000.0
+1321, John Thune (R) ,Govt/NGO,1000.0
+1322, Johnny Isakson (R) ,Govt/NGO,0.0
+1323, Jon Tester (D) ,Govt/NGO,0
+1324, Joni Ernst (R) ,Govt/NGO,0
+1325, Kamala D Harris (D) ,Govt/NGO,0
+1326, Kirsten Gillibrand (D) ,Govt/NGO,0
+1327, Lamar Alexander (R) ,Govt/NGO,3000.0
+1328, Lindsey Graham (R) ,Govt/NGO,0
+1329, Lisa Murkowski (R) ,Govt/NGO,0
+1330, Maggie Hassan (D) ,Govt/NGO,0
+1331, Marco Rubio (R) ,Govt/NGO,0
+1332, Maria Cantwell (D) ,Govt/NGO,0
+1333, Mark Warner (D) ,Govt/NGO,1000.0
+1334, Martin Heinrich (D) ,Govt/NGO,3500.0
+1335, Mazie K Hirono (D) ,Govt/NGO,0
+1336, Michael F Bennet (D) ,Govt/NGO,2000.0
+1337, Mike Crapo (R) ,Govt/NGO,0
+1338, Mike Enzi (R) ,Govt/NGO,0
+1339, Mike Lee (R) ,Govt/NGO,0
+1340, Mike Rounds (R) ,Govt/NGO,0
+1341, Mitch McConnell (R) ,Govt/NGO,0
+1342, Orrin G Hatch (R) ,Govt/NGO,0
+1343, Pat Roberts (R) ,Govt/NGO,1000.0
+1344, Pat Toomey (R) ,Govt/NGO,0
+1345, Patrick Leahy (D) ,Govt/NGO,0
+1346, Patty Murray (D) ,Govt/NGO,3000.0
+1347, Rand Paul (R) ,Govt/NGO,0
+1348, Richard Blumenthal (D) ,Govt/NGO,1000.0
+1349, Richard Burr (R) ,Govt/NGO,2500.0
+1350, Richard C Shelby (R) ,Govt/NGO,0
+1351, Rob Portman (R) ,Govt/NGO,0
+1352, Robert Menendez (D) ,Govt/NGO,0
+1353, Roger Wicker (R) ,Govt/NGO,6000.0
+1354, Ron Johnson (R) ,Govt/NGO,0
+1355, Ron Wyden (D) ,Govt/NGO,0
+1356, Sheldon Whitehouse (D) ,Govt/NGO,0
+1357, Shelley Moore Capito (R) ,Govt/NGO,1000.0
+1358, Sherrod Brown (D) ,Govt/NGO,1000.0
+1359, Steven Daines (R) ,Govt/NGO,0
+1360, Susan Collins (R) ,Govt/NGO,1000.0
+1361, Tammy Baldwin (D) ,Govt/NGO,2000.0
+1362, Tammy Duckworth (D) ,Govt/NGO,0
+1363, Ted Cruz (R) ,Govt/NGO,0
+1364, Thom Tillis (R) ,Govt/NGO,1000.0
+1365, Tim Kaine (D) ,Govt/NGO,6000.0
+1366, Tim Scott (R) ,Govt/NGO,1000.0
+1367, Tina Smith (D) ,Govt/NGO,0
+1368, Todd Young (R) ,Govt/NGO,4000.0
+1369, Tom Carper (D) ,Govt/NGO,9000.0
+1370, Tom Cotton (R) ,Govt/NGO,0
+1371, Tom Udall (D) ,Govt/NGO,0
+1372, Amy Klobuchar (D) ,committees,14000.0
+1373, Angus King (I) ,committees,24674.0
+1374, Ben Cardin (D) ,committees,8000.0
+1375, Ben Sasse (R) ,committees,4000.0
+1376, Bernie Sanders (I) ,committees,0
+1377, Bill Cassidy (R) ,committees,-1000.0
+1378, Bill Nelson (D) ,committees,18930.0
+1379, Bob Casey (D) ,committees,281761.0
+1380, Bob Corker (R) ,committees,35000.0
+1381, Brian Schatz (D) ,committees,5000.0
+1382, Catherine Cortez Masto (D) ,committees,1500.0
+1383, Charles E Schumer (D) ,committees,0
+1384, Chris Coons (D) ,committees,0
+1385, Chris Van Hollen (D) ,committees,0.0
+1386, Christopher S Murphy (D) ,committees,58875.0
+1387, Chuck Grassley (R) ,committees,3225.0
+1388, Cindy Hyde-Smith (R) ,committees,7000.0
+1389, Claire McCaskill (D) ,committees,28299.0
+1390, Cory Booker (D) ,committees,1000.0
+1391, Cory Gardner (R) ,committees,0
+1392, Dan Sullivan (R) ,committees,3000.0
+1393, David Perdue (R) ,committees,3000.0
+1394, Dean Heller (R) ,committees,56376.0
+1395, Deb Fischer (R) ,committees,36361.0
+1396, Debbie Stabenow (D) ,committees,83159.0
+1397, Dianne Feinstein (D) ,committees,4250.0
+1398, Dick Durbin (D) ,committees,12250.0
+1399, Doug Jones (D) ,committees,648948.0
+1400, Ed Markey (D) ,committees,0
+1401, Elizabeth Warren (D) ,committees,8125.0
+1402, Gary Peters (D) ,committees,1500.0
+1403, Heidi Heitkamp (D) ,committees,870786.0
+1404, Jack Reed (D) ,committees,7000.0
+1405, James E Risch (R) ,committees,0
+1406, James Lankford (R) ,committees,0
+1407, James M Inhofe (R) ,committees,4000.0
+1408, Jeanne Shaheen (D) ,committees,2000.0
+1409, Jeff Flake (R) ,committees,57400.0
+1410, Jeff Merkley (D) ,committees,1075.0
+1411, Jerry Moran (R) ,committees,0
+1412, Joe Donnelly (D) ,committees,177274.0
+1413, Joe Manchin (D) ,committees,335637.0
+1414, John A Barrasso (R) ,committees,8131.0
+1415, John Boozman (R) ,committees,0
+1416, John Cornyn (R) ,committees,5000.0
+1417, John Hoeven (R) ,committees,0
+1418, John Kennedy (R) ,committees,16982.0
+1419, John Thune (R) ,committees,0
+1420, Johnny Isakson (R) ,committees,0
+1421, Jon Tester (D) ,committees,97327.0
+1422, Joni Ernst (R) ,committees,0
+1423, Kamala D Harris (D) ,committees,0
+1424, Kirsten Gillibrand (D) ,committees,4500.0
+1425, Lamar Alexander (R) ,committees,2000.0
+1426, Lindsey Graham (R) ,committees,200.0
+1427, Lisa Murkowski (R) ,committees,0
+1428, Maggie Hassan (D) ,committees,0
+1429, Marco Rubio (R) ,committees,0
+1430, Maria Cantwell (D) ,committees,34250.0
+1431, Mark Warner (D) ,committees,6000.0
+1432, Martin Heinrich (D) ,committees,27825.0
+1433, Mazie K Hirono (D) ,committees,8000.0
+1434, Michael F Bennet (D) ,committees,1500.0
+1435, Mike Crapo (R) ,committees,1000.0
+1436, Mike Enzi (R) ,committees,0
+1437, Mike Lee (R) ,committees,477.0
+1438, Mike Rounds (R) ,committees,1000.0
+1439, Mitch McConnell (R) ,committees,0
+1440, Orrin G Hatch (R) ,committees,92000.0
+1441, Pat Roberts (R) ,committees,-2654.0
+1442, Pat Toomey (R) ,committees,0
+1443, Patrick Leahy (D) ,committees,0
+1444, Patty Murray (D) ,committees,9950.0
+1445, Rand Paul (R) ,committees,64237.0
+1446, Richard Blumenthal (D) ,committees,0
+1447, Richard Burr (R) ,committees,0.0
+1448, Richard C Shelby (R) ,committees,0
+1449, Rob Portman (R) ,committees,1500.0
+1450, Robert Menendez (D) ,committees,24250.0
+1451, Roger Wicker (R) ,committees,64095.0
+1452, Ron Johnson (R) ,committees,2610.0
+1453, Ron Wyden (D) ,committees,0
+1454, Sheldon Whitehouse (D) ,committees,18920.0
+1455, Shelley Moore Capito (R) ,committees,0
+1456, Sherrod Brown (D) ,committees,35070.0
+1457, Steven Daines (R) ,committees,0
+1458, Susan Collins (R) ,committees,2000.0
+1459, Tammy Baldwin (D) ,committees,29680.0
+1460, Tammy Duckworth (D) ,committees,-100.0
+1461, Ted Cruz (R) ,committees,126177.0
+1462, Thom Tillis (R) ,committees,2000.0
+1463, Tim Kaine (D) ,committees,16320.0
+1464, Tim Scott (R) ,committees,1840.0
+1465, Tina Smith (D) ,committees,158693.0
+1466, Todd Young (R) ,committees,0
+1467, Tom Carper (D) ,committees,5500.0
+1468, Tom Cotton (R) ,committees,1000.0
+1469, Tom Udall (D) ,committees,125.0

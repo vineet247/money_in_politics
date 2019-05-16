@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<div style = "position:relative;left:116px;top:80px;">
+<button onclick="window.location.href = 'index2.html';">Group by similarity</button>
+</div>
+
+<div style = "position:relative;left:300px;top:60px;">
+<button onclick="window.location.href = 'index1.html';">Ungroup</button>
+</div>
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
@@ -15,7 +22,7 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 70, right: 80, bottom: 30, left: 100},
+var margin = {top: 70, right: 80, bottom: 30, left: 120},
   width = 950 - margin.left - margin.right,
   height = 850 - margin.top - margin.bottom;
 
@@ -63,7 +70,7 @@ d3.csv("project/new_clustered_3.csv", function(data) {
 
   svg.append("g")
     .attr("class", "legendLinear")
-    .attr("transform", "translate(775,20)");
+    .attr("transform", "translate(765,20)");
 
   var legendLinear = d3.legendColor()
     .labelFormat(d3.format(".0f"))
