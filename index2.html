@@ -47,7 +47,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   var x = d3.scaleBand()
     .range([ 0, width ])
     .domain(myGroups)
-    .padding(0.001);
+    .padding(0.0000001);
   svg.append("g")
     .style("font-size", 15)
     .attr("transform", "translate(0," + height + ")")
@@ -58,7 +58,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   var y = d3.scaleBand()
     .range([ height, 0 ])
     .domain(myVars)
-    .padding(0.01);
+    .padding(0.0001);
   svg.append("g")
     .style("font-size", 10)
     .call(d3.axisLeft(y).tickSize(0))
@@ -95,6 +95,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
     .attr("class", "tooltip")
     .style("background-color", "white")
     .style("border", "solid")
+    .style("height", "40px")
     .style("border-width", "1px")
     .style("border-radius", "3px")
     .style("padding", "1px")
@@ -109,7 +110,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   }
   var mousemove = function(d) {
     tooltip
-        .html("The contribution is: " + d.Amt)
+        .html("Name:" + d.Name + "<br/>" + "The contribution is: " + d.Amt)
         .style("left", (d3.mouse(this)[0]+50) + "px")
         .style("top", (d3.mouse(this)[1]+30) + "px")
   }
