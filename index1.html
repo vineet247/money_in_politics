@@ -90,7 +90,7 @@ d3.csv("project/new_clustered.csv", function(data) {
     .attr("class", "tooltip")
     .style("background-color", "white")
     .style("border", "solid")
-    .style("height", "40px")
+    .style("height", "60px")
     .style("border-width", "1px")
     .style("border-radius", "3px")
     .style("padding", "1px")
@@ -105,7 +105,7 @@ d3.csv("project/new_clustered.csv", function(data) {
   }
   var mousemove = function(d) {
     tooltip
-        .html("Name:" + d.Name + "<br/>" + "The contribution is: " + d.Amt)
+        .html(d.Name + "<br/>" + d.ideology +"<br/>" + d.Amt)
         .style("left", (d3.mouse(this)[0]+50) + "px")
         .style("top", (d3.mouse(this)[1]+30) + "px")
   }
@@ -127,7 +127,7 @@ d3.csv("project/new_clustered.csv", function(data) {
     //  .attr("rx", 1)
     //  .attr("ry", 1)
       .attr("width", x.bandwidth() )
-      .attr("height", y.bandwidth() )
+      .attr("height", y.bandwidth())
       .style("fill", function(d) { return myColor(d.Amt)} )
       .style("stroke-width", 2)
       .style("stroke", "none")
