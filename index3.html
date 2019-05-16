@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<div style = "position:relative;left:100px;top:80px;">
-<button onclick="window.location.href = 'index.html';">Group by similarity</button>
-</div>
 
-<div style = "position:relative;left:300px;top:60px;">
-<button onclick="window.location.href = 'index3.html';">Group by party</button>
-</div>
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
@@ -36,7 +30,7 @@ var svg = d3.select("#my_dataviz")
 
 
 //Read the data
-d3.csv("project/new_clustered_2.csv", function(data) {
+d3.csv("project/new_clustered_3.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(data, function(d){return d.ideology;}).keys()
@@ -73,6 +67,9 @@ d3.csv("project/new_clustered_2.csv", function(data) {
 
   var legendLinear = d3.legendColor()
     .labelFormat(d3.format(".0f"))
+    //.cells([0,20000,40000,60000,80000])
+    //.cells(10)
+    //.cells(20)
     .cells([0, 9000, 18000, 27000, 36000, 45000, 54000, 63000, 72000, 81000])
     .shapeWidth(10)
     .shapeHeight(10)
@@ -85,8 +82,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   // create a tooltip
   var tooltip = d3.select("#my_dataviz")
     .append("div")
-    .style("position", "absolute")
     .style("opacity", 0)
+    .style("position", "absolute")
     .attr("class", "tooltip")
     .style("background-color", "white")
     .style("border", "solid")
@@ -123,8 +120,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
     .append("rect")
       .attr("x", function(d) { return x(d.ideology) })
       .attr("y", function(d) { return y(d.Name) })
-    //  .attr("rx", 1)
-    //  .attr("ry", 1)
+      //.attr("rx", 1)
+      //.attr("ry", 1)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
       .style("fill", function(d) { return myColor(d.Amt)} )
@@ -144,7 +141,6 @@ svg.append("text")
         .attr("text-anchor", "left")
         .style("font-size", "22px")
         .text("Visualisation for money in politics");
-
 // Add subtitle to graph
 svg.append("text")
         .attr("x", 0)
