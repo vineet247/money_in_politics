@@ -36,7 +36,7 @@ var svg = d3.select("#my_dataviz")
 
 
 //Read the data
-d3.csv("new_clustered.csv", function(data) {
+d3.csv("https://github.com/vineet247/money_in_politics/blob/master/src/new_clustered.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(data, function(d){return d.ideology;}).keys()
@@ -124,8 +124,8 @@ d3.csv("new_clustered.csv", function(data) {
     .append("rect")
       .attr("x", function(d) { return x(d.ideology) })
       .attr("y", function(d) { return y(d.Name) })
-    //  .attr("rx", 1)
-    //  .attr("ry", 1)
+     .attr("rx", 1)
+      .attr("ry", 1)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth())
       .style("fill", function(d) { return myColor(d.Amt)} )
