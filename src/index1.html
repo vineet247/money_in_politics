@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<div style = "position:relative;left:130px;top:80px;">
-<button onclick="window.location.href = 'index1.html';">Ungroup</button>
+<div style = "position:relative;left:120px;top:80px;">
+<button onclick="window.location.href = 'index2.html';">Group by similarity</button>
 </div>
 
-<div style = "position:relative;left:250px;top:60px;">
+<div style = "position:relative;left:300px;top:60px;">
 <button onclick="window.location.href = 'index3.html';">Group by party</button>
 </div>
-
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
@@ -22,9 +21,9 @@
 <script>
 
 // set the dimensions and margins of the graph
-var margin = {top: 70, right: 120, bottom: 30, left: 120},
+var margin = {top: 70, right: 80, bottom: 30, left: 120},
   width = 950 - margin.left - margin.right,
-  height = 850 - margin.top - margin.bottom;
+  height = 1050 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -37,7 +36,7 @@ var svg = d3.select("#my_dataviz")
 
 
 //Read the data
-d3.csv("project/new_clustered_2.csv", function(data) {
+d3.csv("/project/new_clustered.csv", function(data) {
 
   // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
   var myGroups = d3.map(data, function(d){return d.ideology;}).keys()
@@ -70,14 +69,10 @@ d3.csv("project/new_clustered_2.csv", function(data) {
 
   svg.append("g")
     .attr("class", "legendLinear")
-    .attr("transform", "translate(725,20)");
-
+    .attr("transform", "translate(765,20)");
 
   var legendLinear = d3.legendColor()
     .labelFormat(d3.format(".0f"))
-    //.cells([0,20000,40000,60000,80000])
-    //.cells(10)
-    //.cells(20)
     .cells([0, 9000, 18000, 27000, 36000, 45000, 54000, 63000, 72000, 81000])
     .shapeWidth(10)
     .shapeHeight(10)
@@ -90,8 +85,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   // create a tooltip
   var tooltip = d3.select("#my_dataviz")
     .append("div")
-    .style("opacity", 0)
     .style("position", "absolute")
+    .style("opacity", 0)
     .attr("class", "tooltip")
     .style("background-color", "white")
     .style("border", "solid")
@@ -110,7 +105,7 @@ d3.csv("project/new_clustered_2.csv", function(data) {
   }
   var mousemove = function(d) {
     tooltip
-        .html(d.Name + "<br/>" + d.ideology +"<br/>" +"$" + d.Amt)
+        .html(d.Name + "<br/>" + d.ideology +"<br/>" + "$ "+d.Amt)
         .style("left", (d3.mouse(this)[0]+50) + "px")
         .style("top", (d3.mouse(this)[1]+30) + "px")
   }
@@ -129,8 +124,8 @@ d3.csv("project/new_clustered_2.csv", function(data) {
     .append("rect")
       .attr("x", function(d) { return x(d.ideology) })
       .attr("y", function(d) { return y(d.Name) })
-      //.attr("rx", 1)
-      //.attr("ry", 1)
+    //  .attr("rx", 1)
+    //  .attr("ry", 1)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth())
       .style("fill", function(d) { return myColor(d.Amt)} )
@@ -150,6 +145,7 @@ svg.append("text")
         .attr("text-anchor", "left")
         .style("font-size", "22px")
         .text("Visualisation for money in politics");
+
 // Add subtitle to graph
 svg.append("text")
         .attr("x", 0)
